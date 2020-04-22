@@ -1,0 +1,764 @@
+[
+    {
+        "speakerID": "HOUSTONTV",
+        "startTime": 12.69,
+        "endTime": 14.57,
+        "words": "NETWORK HOUSTONTV your loop."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 14.57,
+        "endTime": 15.03,
+        "words": "Go."
+    },
+    {
+        "speakerID": "HOUSTONTV",
+        "startTime": 15.51,
+        "endTime": 32.6,
+        "words": "Uh rog uh this slight shift in burst Uh it should appear to you as that the LM is sort of wiggling very slightly at the top. If you look real close you might be able to to see it sort of rolling through there. We're seeing it at from both sides we believe it's in the camera."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 33.6,
+        "endTime": 34.51,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 46.39,
+        "endTime": 58.4,
+        "words": "[unk] Very little uh force of impact that we actually have."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 59.4,
+        "endTime": 60.12,
+        "words": "FLIGHT EECOM."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 60.53,
+        "endTime": 61.06,
+        "words": "Go."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 61.06,
+        "endTime": 66.87,
+        "words": "Should be able to get Colombia on the uh high beat now [unk]"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 66.87,
+        "endTime": 67.62,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 68.4,
+        "endTime": 69.34,
+        "words": "Copy CAPCOM"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 74.9,
+        "endTime": 76.38,
+        "words": "The pitch and the yaw one forty five?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 77.25,
+        "endTime": 79.29,
+        "words": "NETWORK [unk] the camera [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 79.29,
+        "endTime": 79.76,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 79.76,
+        "endTime": 80.9,
+        "words": "To work on the uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 81.86,
+        "endTime": 82.27,
+        "words": "Right."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 83.68,
+        "endTime": 86.94,
+        "words": "COLUMBIA COLUMBIA this is HOUSTON I noticed that uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 93.33,
+        "endTime": 94.07,
+        "words": "Go ahead Buck."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 98.92,
+        "endTime": 103.53,
+        "words": "From Goddard voice to through Goldstone California tracking station to the moon, over."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 103.53,
+        "endTime": 105.3,
+        "words": "Okay and in addition"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 113.84,
+        "endTime": 116.22,
+        "words": "Two fifty eight to the command module"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 118.13,
+        "endTime": 119.16,
+        "words": "Sideways hop"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 120.04,
+        "endTime": 122.07,
+        "words": "Okay I think point zero two."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 122.93,
+        "endTime": 123.43,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 124.46,
+        "endTime": 124.67,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 131.01,
+        "endTime": 132.89,
+        "words": "Can you see us underneath the uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 134.93,
+        "endTime": 137.21,
+        "words": "[unk] over the uh [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 137.78,
+        "endTime": 141.36,
+        "words": "Yes indeed Buck we can see your feet sticking out uh from underneath the"
+    },
+    {
+        "speakerID": "HONEYSUCKLE",
+        "startTime": 141.36,
+        "endTime": 143.22,
+        "words": "TRACK HONEYSUCKLE net two."
+    },
+    {
+        "speakerID": "TRACK",
+        "startTime": 143.22,
+        "endTime": 144.25,
+        "words": "HONEYSUCKLE TRACK."
+    },
+    {
+        "speakerID": "HONEYSUCKLE",
+        "startTime": 144.77,
+        "endTime": 146.37,
+        "words": "O. two selected at flight."
+    },
+    {
+        "speakerID": "TRACK",
+        "startTime": 146.37,
+        "endTime": 147.5,
+        "words": "Roger thank you."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 149.03,
+        "endTime": 150.27,
+        "words": "NETWORK this is COM."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 157.08,
+        "endTime": 159.26,
+        "words": "NETWORK this is COM NETWORK COM."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 162.89,
+        "endTime": 163.51,
+        "words": "COMLINK NETWORK."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 164.49,
+        "endTime": 166.3,
+        "words": "Yeah this is just time uh"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 166.3,
+        "endTime": 168.75,
+        "words": "What's causing that inner code to the C.S.M.?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 171.03,
+        "endTime": 171.7,
+        "words": "The what?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 178.04,
+        "endTime": 185.51,
+        "words": "As far as uh Neil is concerned probably being caused by [unk] but I don't I believe the [unk] you're getting in the C.S.M. is the same one you're getting in the LM now."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 185.51,
+        "endTime": 190.68,
+        "words": "Uh you'll you'll hear the same thing because it uplinks simultaneously to both vehicles."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 194.0,
+        "endTime": 197.69,
+        "words": "Now when he talks to the the C.S.M. he also is talking up to the the"
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 197.69,
+        "endTime": 209.23,
+        "words": "Uh Uh I think the consensus here I just I just thought I'd mention the fact that when you get such a good [unk] code red back I'm not sure that's coming back to Neil so I don't know so is there anything besides that could cause it?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 210.11,
+        "endTime": 211.48,
+        "words": "No, not really."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 212.41,
+        "endTime": 213.22,
+        "words": "Most of the"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 213.67,
+        "endTime": 217.6,
+        "words": "The echo stand copies on the downlink from two sites."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 218.13,
+        "endTime": 218.62,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 218.62,
+        "endTime": 225.44,
+        "words": "And it's coming down on the voice sub carrier in the down link. This could be copied at two sites so it's not at the site."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 225.44,
+        "endTime": 232.78,
+        "words": "Okay uh one of the one of the crewmen down here felt like it wouldn't be that clear if it's being reboxed back out of the Neil says maybe it's a possibility."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 234.64,
+        "endTime": 235.17,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "CSM",
+        "startTime": 238.06,
+        "endTime": 239.28,
+        "words": "Uplink C.S.M."
+    },
+    {
+        "speakerID": "LARRY",
+        "startTime": 239.69,
+        "endTime": 240.46,
+        "words": "Yeah well."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 240.46,
+        "endTime": 241.16,
+        "words": "Hey Larry."
+    },
+    {
+        "speakerID": "LARRY",
+        "startTime": 241.16,
+        "endTime": 241.81,
+        "words": "Yeah?"
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 241.81,
+        "endTime": 247.47,
+        "words": "I'll just stay on through that's it, no sweat. We're not going to change shift because Norman's here and he's been here all day already."
+    },
+    {
+        "speakerID": "LARRY",
+        "startTime": 247.47,
+        "endTime": 247.9,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 247.9,
+        "endTime": 254.41,
+        "words": "So that's going to screw the whole thing up, so I'll stay all the way until one thirteen Or uh until one twenty like we normally were supposed to."
+    },
+    {
+        "speakerID": "LARRY",
+        "startTime": 254.84,
+        "endTime": 256.98,
+        "words": "Okay. Have it your way."
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 256.98,
+        "endTime": 257.55,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "LARRY",
+        "startTime": 259.18,
+        "endTime": 259.69,
+        "words": "You your"
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 260.27,
+        "endTime": 267.52,
+        "words": "Pardon me? Yeah we we won't change anything then. I'll just stay through on and the the other guy came in normal so that'll keep the other shifts straight."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 267.98,
+        "endTime": 268.84,
+        "words": "Okay no sweat"
+    },
+    {
+        "speakerID": "COMLINK",
+        "startTime": 268.84,
+        "endTime": 270.06,
+        "words": "Okay. We'll see."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 274.26,
+        "endTime": 276.14,
+        "words": "On NETWORK, or uh scheduling track."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 276.14,
+        "endTime": 276.66,
+        "words": "Go."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 276.66,
+        "endTime": 278.9,
+        "words": "Uh he'll he'll come up uh else."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 280.51,
+        "endTime": 281.76,
+        "words": "You don't need him at all then?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 283.03,
+        "endTime": 283.78,
+        "words": "That's right."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 285.79,
+        "endTime": 286.22,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "SCAN",
+        "startTime": 418.2,
+        "endTime": 419.1,
+        "words": "Go ahead SCAN."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 419.1,
+        "endTime": 430.76,
+        "words": "Yeah when we bring back Texas at one twenty four thirty four after we release him on this set of passes TRACK says he doesn't need him for C.S.M. Do you still want to call him up for a passive typed uh clarical asset meeting?"
+    },
+    {
+        "speakerID": "SCAN",
+        "startTime": 434.6,
+        "endTime": 437.65,
+        "words": "Uh if TRACK doesn't want him, we don't need him except for ALLSET."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 438.11,
+        "endTime": 444.21,
+        "words": "Oh Okay then we won't call him up about the P set, we'll call him about for ALLSET TRACK."
+    },
+    {
+        "speakerID": "SCAN",
+        "startTime": 444.21,
+        "endTime": 445.15,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 445.15,
+        "endTime": 445.72,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 450.24,
+        "endTime": 452.57,
+        "words": "Copy stay on the high ground there and uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 467.45,
+        "endTime": 469.99,
+        "words": "Quite rounded large boulders."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 485.84,
+        "endTime": 489.17,
+        "words": "About forty feet out, I'd say after the end of that next [unk]."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 508.21,
+        "endTime": 508.66,
+        "words": "Alright."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 513.09,
+        "endTime": 515.5,
+        "words": "You're going to have to get on the other side of this rock here."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 563.45,
+        "endTime": 573.85,
+        "words": "These boulders uh look like the salt and uh they have probably uh two percent white minerals in them. Uh white uh [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 574.58,
+        "endTime": 587.03,
+        "words": "And uh the thing that I reported is uh the singular before I come back I don't believe I believe that anymore I think it's uh full craters uh they look like uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 588.21,
+        "endTime": 588.71,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 590.55,
+        "endTime": 592.61,
+        "words": "Little impact craters where uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 607.96,
+        "endTime": 608.87,
+        "words": "A.F.D. FLIGHT"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 626.56,
+        "endTime": 627.35,
+        "words": "FLIGHT EECOM"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 691.54,
+        "endTime": 693.26,
+        "words": "Uh HOUSTON I have the uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 694.0,
+        "endTime": 696.03,
+        "words": "Seismic experiment uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 701.35,
+        "endTime": 705.09,
+        "words": "I'm having a little bit of difficulty getting the [unk]"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 718.18,
+        "endTime": 719.74,
+        "words": "Uh you're cutting out again Buck."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 733.41,
+        "endTime": 736.37,
+        "words": "Roger [unk] I'm not having too much success in uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 737.11,
+        "endTime": 739.72,
+        "words": "Leveling the uh [unk] experiment."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 742.51,
+        "endTime": 745.06,
+        "words": "The main thing is to get the ball off the edge."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 745.4,
+        "endTime": 745.81,
+        "words": "Get what?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 745.81,
+        "endTime": 750.77,
+        "words": "Get the ball off the edge [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 801.41,
+        "endTime": 802.36,
+        "words": "Hey uh"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 821.92,
+        "endTime": 823.45,
+        "words": "A.O.S. HOUSTON roger out."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 863.34,
+        "endTime": 868.9,
+        "words": "Uh HOUSTON I don't think there's any hope for using this uh leveling device to come up with an accurate level."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 870.75,
+        "endTime": 872.77,
+        "words": "It looks to me though the uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 876.93,
+        "endTime": 880.37,
+        "words": "Now convex instead of concave over."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 885.23,
+        "endTime": 891.4,
+        "words": "Roger eleven uh Press on uh if you think it looks level by eyeball go ahead."
+    },
+    {
+        "speakerID": "APOLLOELEVEN",
+        "startTime": 894.25,
+        "endTime": 894.84,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 902.05,
+        "endTime": 903.15,
+        "words": "SURGEON from FLIGHT."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 931.16,
+        "endTime": 933.2,
+        "words": "Okay uh CAPCOM F.A.O."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 933.77,
+        "endTime": 934.21,
+        "words": "FLIGHT"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 935.79,
+        "endTime": 937.76,
+        "words": "SURGEON and [unk] you on the loop?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 989.47,
+        "endTime": 994.1,
+        "words": "BUZZ this is HOUSTON understand you did sucessfully deploy both [unk] over."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 998.69,
+        "endTime": 999.84,
+        "words": "CAPCOM FLIGHT."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1000.27,
+        "endTime": 1000.84,
+        "words": "Go ahead FLIGHT."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1001.99,
+        "endTime": 1003.42,
+        "words": "ALLSET NETWORK NETWORK."
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1004.53,
+        "endTime": 1005.0,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1005.7,
+        "endTime": 1009.15,
+        "words": "Yeah er have you guys got uh Got data. You got data"
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1010.25,
+        "endTime": 1010.82,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1143.82,
+        "endTime": 1144.94,
+        "words": "NETWORK ALLSET."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1144.94,
+        "endTime": 1145.36,
+        "words": "Go."
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1145.7,
+        "endTime": 1146.5,
+        "words": "Data looking good."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1146.5,
+        "endTime": 1147.55,
+        "words": "Okay good."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1271.45,
+        "endTime": 1272.6,
+        "words": "ALLSET NETWORK NETWORK."
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1273.73,
+        "endTime": 1274.24,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1274.24,
+        "endTime": 1275.41,
+        "words": "Have you done any commanding?"
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1275.41,
+        "endTime": 1279.2,
+        "words": "That's affirm. Verifies all the way. So far."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1279.2,
+        "endTime": 1280.17,
+        "words": "Just the uncaging?"
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1281.74,
+        "endTime": 1284.06,
+        "words": "Oh boy. You want me to look them up now."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1285.4,
+        "endTime": 1287.94,
+        "words": "No, no. Did they do any leveling?"
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1288.64,
+        "endTime": 1292.33,
+        "words": "Oh I'm sure they haven't done any of that, that's that's a quite drawn out sort of thing."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1293.4,
+        "endTime": 1294.99,
+        "words": "Okay, that's all we wanted to know."
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1294.99,
+        "endTime": 1301.83,
+        "words": "Roger. So far we've got an experiment select which means turn it on, plus uh"
+    },
+    {
+        "speakerID": "ALLSET",
+        "startTime": 1306.59,
+        "endTime": 1308.12,
+        "words": "I believe a gain change."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1308.65,
+        "endTime": 1309.15,
+        "words": "Yeah."
+    }
+]

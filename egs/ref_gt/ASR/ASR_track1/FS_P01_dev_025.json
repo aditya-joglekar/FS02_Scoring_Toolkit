@@ -1,0 +1,2612 @@
+[
+    {
+        "speakerID": "NETWORK",
+        "startTime": 47.39,
+        "endTime": 48.33,
+        "words": "COM manager NETWORK"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 48.33,
+        "endTime": 48.89,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 48.89,
+        "endTime": 49.52,
+        "words": "[unk] NETWORK"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 49.52,
+        "endTime": 51.79,
+        "words": "standby a minute [unk] and we'll go over this deal with TRACK."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 51.97,
+        "endTime": 52.47,
+        "words": "Alright."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 54.41,
+        "endTime": 56.55,
+        "words": "But I know we want Goldstone's wing."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 57.18,
+        "endTime": 60.59,
+        "words": "Well he probably rotates right into that. I I was getting the initial."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 71.34,
+        "endTime": 72.82,
+        "words": "Okay automatic two twenty."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 73.32,
+        "endTime": 73.79,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 74.47,
+        "endTime": 75.06,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 75.4,
+        "endTime": 76.08,
+        "words": "We'll let you know when it comes."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 82.02,
+        "endTime": 82.77,
+        "words": "NETWORK VOICE"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 83.53,
+        "endTime": 83.83,
+        "words": "Go."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 84.44,
+        "endTime": 86.55,
+        "words": "Would you tell our P two man to call his office?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 91.85,
+        "endTime": 93.83,
+        "words": "Yeah if I can find him I will. Yeah if I can find him I will."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 93.83,
+        "endTime": 97.08,
+        "words": "I can't write procedure that's why I can't write procedure that's why I have to go through you sir."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 97.29,
+        "endTime": 98.29,
+        "words": "Yeah. Understand."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 113.52,
+        "endTime": 114.46,
+        "words": "VOICE COMCONTROL"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 123.46,
+        "endTime": 125.67,
+        "words": "VOICE COMCONTROL got data? VOICE CONTROL."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 125.67,
+        "endTime": 126.58,
+        "words": "NETWORK TRACK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 127.2,
+        "endTime": 127.67,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 127.67,
+        "endTime": 128.06,
+        "words": "uh"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 128.06,
+        "endTime": 129.87,
+        "words": "Got a T.P.L. record coming up for you."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 130.22,
+        "endTime": 131.01,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 134.29,
+        "endTime": 136.8,
+        "words": "[unk] I don't follow you. Repeat that again please."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 137.68,
+        "endTime": 141.44,
+        "words": "Trying to get some tones on four two five again that we had before."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 147.2,
+        "endTime": 150.78,
+        "words": "We were getting some chirping sounds on we were getting some chirping sounds on there."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 156.01,
+        "endTime": 162.22,
+        "words": "Well that could be the situation now because we've uh handed over the [unk]"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 162.22,
+        "endTime": 164.84,
+        "words": "Yeah well it could've been, the tones could've been found at a different time."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 165.62,
+        "endTime": 166.5,
+        "words": "Yeah we'll look then."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 166.5,
+        "endTime": 167.06,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 178.74,
+        "endTime": 180.5,
+        "words": "COMCONTROL got a [unk] eight."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 182.38,
+        "endTime": 183.02,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 183.41,
+        "endTime": 183.94,
+        "words": "Okay were you"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 189.05,
+        "endTime": 197.2,
+        "words": "Negative. We did we didn't have a time [unk] they were just in and out in and out every time [unk] we couldn't hear them."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 215.11,
+        "endTime": 216.3,
+        "words": "Goddard VOICE COMCONTROL"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 216.3,
+        "endTime": 217.05,
+        "words": "Go ahead VOICE."
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 217.2,
+        "endTime": 222.69,
+        "words": "Yeah they're clear again [unk] I've got six or seven on the speaker here so if I here them again, I'll double check [unk]"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 222.69,
+        "endTime": 223.5,
+        "words": "Okay I thought I"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 223.5,
+        "endTime": 224.21,
+        "words": "TIC NETWORK"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 225.44,
+        "endTime": 225.95,
+        "words": "Were there"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 225.95,
+        "endTime": 226.5,
+        "words": "Go ahead now."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 226.5,
+        "endTime": 228.88,
+        "words": "HOUSTON got tense the last time [unk] aren't you?"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 228.88,
+        "endTime": 231.2,
+        "words": "[unk] Every time I go to jump on them they disappear."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 231.98,
+        "endTime": 232.93,
+        "words": "Ah I think we are."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 233.66,
+        "endTime": 234.4,
+        "words": "Check it will you?"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 234.4,
+        "endTime": 234.91,
+        "words": "Yep."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 241.89,
+        "endTime": 242.77,
+        "words": "Yeah that's right uh"
+    },
+    {
+        "speakerID": "TIC",
+        "startTime": 243.08,
+        "endTime": 243.55,
+        "words": "George."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 243.55,
+        "endTime": 250.38,
+        "words": "Okay he wants to uh continue planning back through the [unk] Doesn't seem to be a problem."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 250.38,
+        "endTime": 250.7,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 267.49,
+        "endTime": 268.67,
+        "words": "NETWORK COMCONTROL."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 268.67,
+        "endTime": 269.36,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 269.36,
+        "endTime": 272.11,
+        "words": "Would you have procedures meet for us on three COM call please?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 272.39,
+        "endTime": 274.99,
+        "words": "Will tell. PROCEDURES NETWORK."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 275.92,
+        "endTime": 280.2,
+        "words": "Hey NETWORK. Yeah isn't this a funny time to be doing R.T.C. [unk] ?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 284.18,
+        "endTime": 286.82,
+        "words": "Yeah we we like to doing it a unique time."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 287.8,
+        "endTime": 289.09,
+        "words": "Hey unique NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 289.27,
+        "endTime": 292.75,
+        "words": "[unk] PROCEDURES would you call uh VOICE on three com call please?"
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 292.75,
+        "endTime": 293.29,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 297.38,
+        "endTime": 303.85,
+        "words": "A.F.C. NETWORK. A.F.C. NETWORK. [unk] Yeah yeah yeah."
+    },
+    {
+        "speakerID": "AFD1",
+        "startTime": 304.46,
+        "endTime": 306.41,
+        "words": "I I never told you about one"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 306.76,
+        "endTime": 307.91,
+        "words": "Now you're going to do a launch space."
+    },
+    {
+        "speakerID": "AFD1",
+        "startTime": 308.65,
+        "endTime": 312.29,
+        "words": "That's affirm. We're going to turn around for the next sim."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 313.83,
+        "endTime": 316.36,
+        "words": "Don't you see sim [unk] over there? Looking [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 318.48,
+        "endTime": 318.92,
+        "words": "Old"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 319.36,
+        "endTime": 322.01,
+        "words": "Fumble fingers is back there ready to start the clock [laughter]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 323.26,
+        "endTime": 324.88,
+        "words": "I wonder what we've been doing all this time."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 329.81,
+        "endTime": 330.85,
+        "words": "DISPLAY NETWORK."
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 332.25,
+        "endTime": 332.56,
+        "words": "DISPLAY."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 332.78,
+        "endTime": 334.83,
+        "words": "You making projection finals?"
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 336.69,
+        "endTime": 339.12,
+        "words": "Uh roger I think we're going to get we're going to check see how they're doing."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 339.67,
+        "endTime": 340.05,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 343.81,
+        "endTime": 344.52,
+        "words": "NETWORK PROCEDURES."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 346.6,
+        "endTime": 347.07,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 347.54,
+        "endTime": 351.75,
+        "words": "Hey tell deck at this rate we've got to get the sim schedule changed. Kind of a long set."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 354.27,
+        "endTime": 356.21,
+        "words": "We're not stepping ahead that's the problem."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 356.21,
+        "endTime": 356.76,
+        "words": "Right."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 363.01,
+        "endTime": 363.62,
+        "words": "TRACK NETWORK."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 365.49,
+        "endTime": 366.05,
+        "words": "Go NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 366.28,
+        "endTime": 367.48,
+        "words": "Yeah have you got a second Neil?"
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 369.18,
+        "endTime": 370.09,
+        "words": "NETWORK PROCEDURES."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 370.59,
+        "endTime": 371.2,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 371.2,
+        "endTime": 372.74,
+        "words": "Where are your take off skies located?"
+    },
+    {
+        "speakerID": "VOICE1",
+        "startTime": 373.23,
+        "endTime": 374.55,
+        "words": "Soon as we get an opportunity I want to get off my"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 374.55,
+        "endTime": 376.98,
+        "words": "They're in room uh two fourteen."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 378.03,
+        "endTime": 382.39,
+        "words": "Room two fourteen that would be one of the guys that could certify your recorder. Right."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 382.73,
+        "endTime": 384.23,
+        "words": "Well he could get a guy that Could."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 384.23,
+        "endTime": 385.16,
+        "words": "To do it. Okay."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 386.27,
+        "endTime": 387.16,
+        "words": "COM manager NETWORK."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 387.16,
+        "endTime": 388.51,
+        "words": "PROCEDURES TECHOPS on [unk]"
+    },
+    {
+        "speakerID": "PRO",
+        "startTime": 388.63,
+        "endTime": 389.43,
+        "words": "Go ahead TECHOPS."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 389.43,
+        "endTime": 391.92,
+        "words": "Yes uh do you have a recorder that needs certifying?"
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 391.92,
+        "endTime": 393.96,
+        "words": "Yeah there's a guy coming down to you right now."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 393.96,
+        "endTime": 394.78,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 394.78,
+        "endTime": 395.99,
+        "words": "Exactly what we're going to do"
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 395.99,
+        "endTime": 397.23,
+        "words": "RETRO is who it is."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 397.23,
+        "endTime": 398.59,
+        "words": "RETRO okay thank you."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 398.59,
+        "endTime": 398.96,
+        "words": "Their"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 399.21,
+        "endTime": 400.52,
+        "words": "TRACK's off it's got some other problems."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 400.52,
+        "endTime": 401.02,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 401.42,
+        "endTime": 403.79,
+        "words": "The projection plotters and the S.P.D. are both back online."
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 404.14,
+        "endTime": 406.8,
+        "words": "Okay did you coordinate that with computer [unk]"
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 407.8,
+        "endTime": 408.93,
+        "words": "Oh no [unk]"
+    },
+    {
+        "speakerID": "PRO1",
+        "startTime": 409.5,
+        "endTime": 410.43,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 426.46,
+        "endTime": 429.29,
+        "words": "MADRID attention HOUSTON COMTECH net two."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 431.02,
+        "endTime": 432.22,
+        "words": "HOUSTON COMTECH MADRID"
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 432.81,
+        "endTime": 434.14,
+        "words": "Roger sent in HOUSTON COMTECH"
+    },
+    {
+        "speakerID": "ASCENSIONCOMTECH",
+        "startTime": 434.51,
+        "endTime": 436.17,
+        "words": "COMTECH ASCENSION COMTECH net two"
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 436.17,
+        "endTime": 438.35,
+        "words": "Uh roger meet me net one for a remoting check."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 439.43,
+        "endTime": 439.93,
+        "words": "Uh roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 439.93,
+        "endTime": 440.72,
+        "words": "RETRO from FLIGHT."
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 441.45,
+        "endTime": 443.03,
+        "words": "MADRID HOUSTON COMTECH net one"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 443.03,
+        "endTime": 443.74,
+        "words": "RETRO FLIGHT."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 443.74,
+        "endTime": 444.17,
+        "words": "MADRID"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 444.54,
+        "endTime": 447.78,
+        "words": "How does the weight compare with the the pre-flight weight?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 464.03,
+        "endTime": 466.69,
+        "words": "Roger what's the scoop on uh Canaries?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 468.53,
+        "endTime": 472.06,
+        "words": "Well they had a buzz in their uh high speed data."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 472.06,
+        "endTime": 473.55,
+        "words": "FLIGHT one two three four"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 473.55,
+        "endTime": 479.39,
+        "words": "Understand now that they just had a P.A. failure and we may think that's what it was indicating to us. It was about to fail."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 480.18,
+        "endTime": 481.57,
+        "words": "We don't have the full story yet."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 482.05,
+        "endTime": 483.96,
+        "words": "[unk] I'd like to confirm [unk]"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 483.96,
+        "endTime": 484.56,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 485.12,
+        "endTime": 485.82,
+        "words": "That's affirm."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 485.82,
+        "endTime": 487.21,
+        "words": "Need an E.T.O. of some kind."
+    },
+    {
+        "speakerID": "HOUSTONCOMTECH2",
+        "startTime": 487.21,
+        "endTime": 487.91,
+        "words": "But we'll be back."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 487.91,
+        "endTime": 488.75,
+        "words": "The difference between"
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 488.75,
+        "endTime": 489.36,
+        "words": "Soon as they get it."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 489.77,
+        "endTime": 493.26,
+        "words": "Okay you got an F.M. bio med go and Canary's in ascension."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 496.37,
+        "endTime": 496.87,
+        "words": "standby."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 500.53,
+        "endTime": 503.73,
+        "words": "Let me go ahead and explain something. The weight I got here."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 504.22,
+        "endTime": 504.67,
+        "words": "NETWORK"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 504.67,
+        "endTime": 505.94,
+        "words": "One man weight [unk]"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 508.19,
+        "endTime": 509.72,
+        "words": "The weight that you have where?"
+    },
+    {
+        "speakerID": "COMTECH",
+        "startTime": 512.33,
+        "endTime": 512.93,
+        "words": "NETWORK COMTECH."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 512.93,
+        "endTime": 513.61,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 518.4,
+        "endTime": 518.84,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 519.66,
+        "endTime": 521.0,
+        "words": "And not a P.A."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 521.0,
+        "endTime": 522.28,
+        "words": "[unk] P.A."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 522.28,
+        "endTime": 529.12,
+        "words": "At Canary and we've had a go on Canary's uh Bio med and ascensions bio med."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 529.97,
+        "endTime": 530.87,
+        "words": "About that."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 530.87,
+        "endTime": 531.41,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 531.99,
+        "endTime": 535.79,
+        "words": "We have been checking the weight and we do have Four or five hundred pound discrepancy"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 535.79,
+        "endTime": 537.27,
+        "words": "Okay in which direction?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 541.6,
+        "endTime": 545.43,
+        "words": "That's what I think also and that's what I've been trying to get verification."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 546.05,
+        "endTime": 546.92,
+        "words": "OPS NETWORK."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 547.54,
+        "endTime": 548.19,
+        "words": "Go ahead NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 548.59,
+        "endTime": 551.44,
+        "words": "I guess I'm lost here. What is what is the status for Canary?"
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 552.61,
+        "endTime": 569.4,
+        "words": "George [unk] I was just talking to about the fives they had. They had a fives in a high speed data. They also have just had a pair amp failure. We think the bias was indicating to us that the parent was about to fail. Uh we don't really have a full handle on the story yet."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 570.89,
+        "endTime": 573.07,
+        "words": "Okay but its barometric amplifiers failed."
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 573.07,
+        "endTime": 573.45,
+        "words": "Right."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 575.98,
+        "endTime": 576.62,
+        "words": "COM [unk]"
+    },
+    {
+        "speakerID": "OPS",
+        "startTime": 576.62,
+        "endTime": 581.07,
+        "words": "And he also asked me about a pitch in Canary's bio med. Whether they were go and they are."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 583.05,
+        "endTime": 585.86,
+        "words": "[unk] into what we did"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 585.86,
+        "endTime": 598.49,
+        "words": "I checked with [unk] and they were saying [unk] they tried four or five different filter kinds in the modem, brand new ones they'd put one in and it wouldn't work, they'd put another one in and they finally found one that we can run with but as far as having the real south"
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 603.02,
+        "endTime": 603.87,
+        "words": "NETWORK INCO."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 604.98,
+        "endTime": 605.43,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 605.43,
+        "endTime": 611.02,
+        "words": "Roger we did that playback and we had indications that possibly it was in the antenna rather than the network."
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 614.36,
+        "endTime": 619.17,
+        "words": "Space craft did see the uplink at the expected L. uh A.O.S. time."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 619.17,
+        "endTime": 619.88,
+        "words": "Uh huh."
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 619.88,
+        "endTime": 621.69,
+        "words": "For some reason it did not slew around."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 621.69,
+        "endTime": 622.88,
+        "words": "Fifty pounds lighter."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 623.01,
+        "endTime": 625.35,
+        "words": "Okay we're going to get a chance to see what happens here in a minute."
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 625.35,
+        "endTime": 627.5,
+        "words": "Rog. Looks like we'll get another hack at it."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 627.5,
+        "endTime": 628.34,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "INCO1",
+        "startTime": 633.38,
+        "endTime": 643.13,
+        "words": "[unk] Last night they were still testing and adjusting and swapping filter pads and everything else so as far as I know, they did not change out the modem."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 643.13,
+        "endTime": 643.85,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 646.85,
+        "endTime": 648.5,
+        "words": "Well what's your evaluation now?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 653.83,
+        "endTime": 654.95,
+        "words": "TECHOPS NETWORK."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 656.2,
+        "endTime": 656.62,
+        "words": "Go NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 657.08,
+        "endTime": 661.78,
+        "words": "Yeah there's a man here that says that two fourteen [unk] and he's still looking for a Q.A. guy."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 661.78,
+        "endTime": 667.7,
+        "words": "Oh okay, uh we're in the back of two fourteen uh did he go back up there huh?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 667.7,
+        "endTime": 668.54,
+        "words": "Probably not."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 669.42,
+        "endTime": 671.4,
+        "words": "Wait we'll see if Q.A.'s in here now."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 674.19,
+        "endTime": 677.15,
+        "words": "Okay he's gone someplace. The Q.A. man was on his way up."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 677.15,
+        "endTime": 678.08,
+        "words": "Is he coming up here?"
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 678.35,
+        "endTime": 680.99,
+        "words": "No he was going to two fourteen. Do you want him to come up there now?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 680.99,
+        "endTime": 684.01,
+        "words": "I see him coming to third floor MOCA, the door by the cafeteria."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 684.01,
+        "endTime": 687.42,
+        "words": "Okay fine. And who does he see there George, you?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 688.02,
+        "endTime": 690.19,
+        "words": "No uh Diedrich."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 691.94,
+        "endTime": 693.68,
+        "words": "Okay. Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 704.82,
+        "endTime": 705.29,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 705.61,
+        "endTime": 707.82,
+        "words": "Did you get a copy of this Goldstone message?"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 709.07,
+        "endTime": 710.42,
+        "words": "Uh RETRO from FLIGHT."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 710.73,
+        "endTime": 711.07,
+        "words": "Go."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 711.07,
+        "endTime": 712.07,
+        "words": "I don't see one."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 712.07,
+        "endTime": 712.51,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 715.28,
+        "endTime": 716.75,
+        "words": "Negative NETWORK [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 717.53,
+        "endTime": 718.78,
+        "words": "We're CANARY at A.O.S."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 718.78,
+        "endTime": 722.94,
+        "words": "With the vehicle that's five hundred pounds lighter than nominal and nobody knows why."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 729.21,
+        "endTime": 731.78,
+        "words": "Okay this is a message from uh Goldstone?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 733.18,
+        "endTime": 736.51,
+        "words": "eight nine [unk] six zero FLIGHT one zero three seven [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 738.31,
+        "endTime": 739.53,
+        "words": "eight [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 739.53,
+        "endTime": 741.22,
+        "words": "[unk] Time was two zero."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 741.22,
+        "endTime": 743.85,
+        "words": "[unk] One zero three seven two loop."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 744.29,
+        "endTime": 744.73,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 744.85,
+        "endTime": 745.73,
+        "words": "We got a shift change."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 746.07,
+        "endTime": 747.91,
+        "words": "[unk] C.M. data"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 748.72,
+        "endTime": 749.63,
+        "words": "[unk] the test today"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 749.63,
+        "endTime": 750.66,
+        "words": "Okay thank you [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 750.91,
+        "endTime": 752.07,
+        "words": "He sent it to me uh"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 766.61,
+        "endTime": 768.69,
+        "words": "APOLLO ELEVEN HOUSTON uh standing by."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 782.49,
+        "endTime": 783.1,
+        "words": "NETWORK TIC."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 783.63,
+        "endTime": 783.96,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 783.96,
+        "endTime": 785.43,
+        "words": "[unk] Fly back from any circle."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 785.73,
+        "endTime": 787.03,
+        "words": "Yep. Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 788.99,
+        "endTime": 789.71,
+        "words": "Okay thanks."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 789.81,
+        "endTime": 791.64,
+        "words": "COMCONTROL NETWORK. COMCONTROL"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 791.64,
+        "endTime": 792.02,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 792.02,
+        "endTime": 792.65,
+        "words": "You copy?"
+    },
+    {
+        "speakerID": "COMCONTROL1",
+        "startTime": 792.65,
+        "endTime": 793.4,
+        "words": "Sure did."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 800.59,
+        "endTime": 801.59,
+        "words": "DISPLAY NETWORK."
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 803.74,
+        "endTime": 804.08,
+        "words": "DISPLAY."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 804.08,
+        "endTime": 804.39,
+        "words": "Go."
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 808.14,
+        "endTime": 809.01,
+        "words": "Go NETWORK DISPLAY"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 809.25,
+        "endTime": 810.44,
+        "words": "Uh disregard."
+    },
+    {
+        "speakerID": "APOLLOELEVEN",
+        "startTime": 810.85,
+        "endTime": 811.71,
+        "words": "HOUSTON APOLLO ELEVEN."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 811.71,
+        "endTime": 812.59,
+        "words": "[unk] NETWORK."
+    },
+    {
+        "speakerID": "HOUSTON1",
+        "startTime": 812.59,
+        "endTime": 813.83,
+        "words": "APOLLO ELEVEN HOUSTON go."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 817.82,
+        "endTime": 819.04,
+        "words": "NETWORK COMPUTER [unk]"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 819.04,
+        "endTime": 825.09,
+        "words": "Yeah can you get us uh now on lunar rev ten on at Eh uh ten by twenty projection plotter?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 826.98,
+        "endTime": 828.62,
+        "words": "I don't have control of the"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 829.15,
+        "endTime": 829.56,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 829.9,
+        "endTime": 832.51,
+        "words": "Down here George. Do you need it on a [unk] surge?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 832.73,
+        "endTime": 833.88,
+        "words": "Yeah I"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 833.88,
+        "endTime": 836.36,
+        "words": "Okay I've never been asked to put it back up."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 836.63,
+        "endTime": 838.72,
+        "words": "Okay, DISPLAY was supposed to do that."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 839.03,
+        "endTime": 839.49,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 839.49,
+        "endTime": 840.42,
+        "words": "DISPLAY NETWORK."
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 840.9,
+        "endTime": 841.2,
+        "words": "DISPLAY."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 841.63,
+        "endTime": 843.76,
+        "words": "Thought you told me you were going to check with COMPUTER and let me know."
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 844.11,
+        "endTime": 852.46,
+        "words": "I did, and uh I'll go ask FIDO to uh draw the nominals again and uh I don't know what happened."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 852.46,
+        "endTime": 853.53,
+        "words": "HOUSTON uh APOLLO"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 853.53,
+        "endTime": 857.97,
+        "words": "Well we got to get CONTROL transferred back to P.S. he did not know what is done."
+    },
+    {
+        "speakerID": "HOUSTON1",
+        "startTime": 858.9,
+        "endTime": 859.95,
+        "words": "The commander we do not have"
+    },
+    {
+        "speakerID": "DISPLAY2",
+        "startTime": 859.95,
+        "endTime": 860.39,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 869.81,
+        "endTime": 872.18,
+        "words": "MADRID had F.M. carrier sub carrier."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 876.43,
+        "endTime": 878.56,
+        "words": "Signal strength minus nine five D.B.M."
+    },
+    {
+        "speakerID": "ASCENSIONCOMTECH",
+        "startTime": 913.07,
+        "endTime": 918.98,
+        "words": "MADRID ASCENSION check net two. MADRID ASCENSION did you start your [unk] for the dump?"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 920.1,
+        "endTime": 920.56,
+        "words": "Wilco."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 933.65,
+        "endTime": 936.46,
+        "words": "[unk] gotta standby [unk]"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 946.61,
+        "endTime": 948.53,
+        "words": "MADRID locked on dump modulation."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 948.53,
+        "endTime": 949.75,
+        "words": "[unk] modulations"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 976.6,
+        "endTime": 977.54,
+        "words": "GUIDANCE NETWORK."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 979.12,
+        "endTime": 979.75,
+        "words": "Go ahead NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 980.16,
+        "endTime": 982.47,
+        "words": "Those cals were completed on a short recorder."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 982.47,
+        "endTime": 983.09,
+        "words": "Thank you."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1044.98,
+        "endTime": 1047.92,
+        "words": "MADRID has lodged the dump modulation. MADRID has lodged the dump modulation."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1049.56,
+        "endTime": 1050.38,
+        "words": "NETWORK EECOM your loop."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1052.01,
+        "endTime": 1052.62,
+        "words": "Go ahead EECOM."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1052.62,
+        "endTime": 1059.26,
+        "words": "Hey uh checking that momentary L.O.S. uh [unk] I don't think he did."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1061.48,
+        "endTime": 1062.2,
+        "words": "TIC NETWORK."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1062.2,
+        "endTime": 1064.33,
+        "words": "Carry L.O.S. at ninety four twenty four."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1064.33,
+        "endTime": 1064.85,
+        "words": "NETWORK TIC."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1064.85,
+        "endTime": 1065.17,
+        "words": "MADRID"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1065.17,
+        "endTime": 1066.58,
+        "words": "Do you have momentary L.O.S.?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1066.58,
+        "endTime": 1067.14,
+        "words": "standby."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1068.05,
+        "endTime": 1070.34,
+        "words": "Nope. Ninety four twenty four?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1071.48,
+        "endTime": 1072.17,
+        "words": "That I noticed."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1072.17,
+        "endTime": 1072.58,
+        "words": "[unk] CANARY"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1074.75,
+        "endTime": 1075.39,
+        "words": "Do you have one?"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1076.15,
+        "endTime": 1077.37,
+        "words": "EECOM is reporting one."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1081.4,
+        "endTime": 1082.21,
+        "words": "I didn't see anything."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 1091.23,
+        "endTime": 1092.14,
+        "words": "NETWORK TECHOPS."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1094.3,
+        "endTime": 1094.8,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 1094.8,
+        "endTime": 1102.7,
+        "words": "This Q.A. man is on his way up, he was talking to MOCR about time you wanted to use the P tubes and he had to look at one of the stations up there. Evidently."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1102.88,
+        "endTime": 1103.56,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "TECHOPS2",
+        "startTime": 1103.91,
+        "endTime": 1106.66,
+        "words": "He's on his way back up now. It's Buddy Wenzel."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1107.58,
+        "endTime": 1107.98,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1108.29,
+        "endTime": 1108.99,
+        "words": "NETWORK EECOM."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1109.21,
+        "endTime": 1110.73,
+        "words": "Yeah your data goes static, is that what your"
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1110.73,
+        "endTime": 1119.49,
+        "words": "Yes data went static with a noise blast, we indicated the lost of telemetry loss of comm, but when I started worrying about loss of an A.C. but. That's what'll do it on board."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1122.04,
+        "endTime": 1122.52,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1123.4,
+        "endTime": 1123.95,
+        "words": "TIC."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1127.8,
+        "endTime": 1128.47,
+        "words": "TIC NETWORK."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1128.47,
+        "endTime": 1128.87,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1128.87,
+        "endTime": 1133.68,
+        "words": "I'll wait. Ninety four twenty four [unk]"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1140.13,
+        "endTime": 1141.13,
+        "words": "We didn't see a thing here."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1141.13,
+        "endTime": 1143.55,
+        "words": "I don't know what's [unk] here, I don't know what's happening"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1143.55,
+        "endTime": 1145.92,
+        "words": "EECOM said we Should stay on static."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1149.05,
+        "endTime": 1150.17,
+        "words": "MADRID TIC net two."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1150.86,
+        "endTime": 1151.47,
+        "words": "TIC MADRID."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1151.86,
+        "endTime": 1153.43,
+        "words": "Did you show a EECOM uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1153.43,
+        "endTime": 1153.86,
+        "words": "Did you show"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1153.86,
+        "endTime": 1155.68,
+        "words": "While [unk] ninety four twenty four?"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1159.57,
+        "endTime": 1160.07,
+        "words": "One moment."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1185.34,
+        "endTime": 1185.84,
+        "words": "TIC MADRID."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1186.07,
+        "endTime": 1189.16,
+        "words": "Go ahead. MADRID"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1189.16,
+        "endTime": 1199.3,
+        "words": "We believe that that we believe at that time there we had swapped uh signal conditioners. It was a bad output from an E-mod. We're not uh we're checking in on it."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1199.3,
+        "endTime": 1200.63,
+        "words": "uh we're checking in on [unk]"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1201.5,
+        "endTime": 1203.4,
+        "words": "At that time we did swap signal conditioners."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1207.7,
+        "endTime": 1208.69,
+        "words": "MADRID NETWORK."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1209.54,
+        "endTime": 1210.43,
+        "words": "NETWORK MADRID"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1210.68,
+        "endTime": 1213.15,
+        "words": "Roger would you please report that type of thing to us?"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1217.9,
+        "endTime": 1219.31,
+        "words": "Wilco will do from now on NETWORK."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1219.81,
+        "endTime": 1220.23,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1223.16,
+        "endTime": 1223.7,
+        "words": "COM NETWORK."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1223.7,
+        "endTime": 1225.21,
+        "words": "NETWORK FLIGHT. I I heard that"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1225.21,
+        "endTime": 1225.63,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1225.85,
+        "endTime": 1226.26,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1226.26,
+        "endTime": 1230.74,
+        "words": "Okay. Oh you want on your But you want to discuss it by high speed."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1230.74,
+        "endTime": 1233.31,
+        "words": "Quite believable it's the reason you saw the the drop out."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1233.78,
+        "endTime": 1234.91,
+        "words": "Better standby for deck."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1235.46,
+        "endTime": 1237.12,
+        "words": "He hasn't verified that yet but he believes"
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1237.12,
+        "endTime": 1239.37,
+        "words": "No no, is that a usual thing they would do during a pass?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1240.39,
+        "endTime": 1241.67,
+        "words": "Yeah if you got a bad decomp"
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1243.34,
+        "endTime": 1245.85,
+        "words": "Oh okay it it wasn't just normal maintenance they were doing."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1246.06,
+        "endTime": 1250.76,
+        "words": "Oh no no no no there was it was collect uh uh problem that was developing with the signal"
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1250.76,
+        "endTime": 1254.65,
+        "words": "Copy. Okay. So the only possible thing that they blew it on was not telling us."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1255.41,
+        "endTime": 1256.48,
+        "words": "You bet they blew that."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1256.48,
+        "endTime": 1257.48,
+        "words": "Okay it's your [unk]"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1257.82,
+        "endTime": 1258.15,
+        "words": "Get it?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1258.15,
+        "endTime": 1259.5,
+        "words": "George has already got them."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1259.5,
+        "endTime": 1260.12,
+        "words": "Uh thank you."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1260.12,
+        "endTime": 1261.18,
+        "words": "Them guys better get hot."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1262.3,
+        "endTime": 1266.16,
+        "words": "You might tell FLIGHT that we can read for this thing. I don't know if he noticed the block."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1267.35,
+        "endTime": 1268.48,
+        "words": "Well if he asks we'll tell him."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1268.48,
+        "endTime": 1269.57,
+        "words": "Okay. I ain't going to say anything."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1269.57,
+        "endTime": 1269.99,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1272.57,
+        "endTime": 1273.21,
+        "words": "TRACK NETWORK."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1273.78,
+        "endTime": 1274.27,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1275.18,
+        "endTime": 1282.89,
+        "words": "Yeah uh I just wanted to get pulled together here with COM manager on on which side Our high speed for P.D.I."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1283.46,
+        "endTime": 1286.89,
+        "words": "Okay. Five dash one forty three."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1286.89,
+        "endTime": 1290.8,
+        "words": "Okay. And I have that but I want to make sure that I interpreted that."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1290.8,
+        "endTime": 1291.88,
+        "words": "[unk] I interpreted it"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1291.88,
+        "endTime": 1297.42,
+        "words": "Okay you got that new one on the front [unk] have you got one of these question [unk]?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1298.52,
+        "endTime": 1299.84,
+        "words": "Yeah I already had had one."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1299.84,
+        "endTime": 1300.6,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1300.6,
+        "endTime": 1301.46,
+        "words": "Now I have two."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1301.46,
+        "endTime": 1302.63,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1304.45,
+        "endTime": 1305.57,
+        "words": "MADRID wing."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1305.57,
+        "endTime": 1306.09,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1306.77,
+        "endTime": 1307.56,
+        "words": "Ascension."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1307.56,
+        "endTime": 1308.42,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1309.74,
+        "endTime": 1310.24,
+        "words": "FIDO from"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1310.24,
+        "endTime": 1310.87,
+        "words": "Antigua."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1310.87,
+        "endTime": 1311.4,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1312.68,
+        "endTime": 1315.34,
+        "words": "And Goldstone wing."
+    },
+    {
+        "speakerID": "TRACK",
+        "startTime": 1315.34,
+        "endTime": 1316.0,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1316.38,
+        "endTime": 1318.06,
+        "words": "Okay. Anybody else?"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1318.06,
+        "endTime": 1318.67,
+        "words": "No."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1319.77,
+        "endTime": 1320.99,
+        "words": "Okay now"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1321.53,
+        "endTime": 1324.39,
+        "words": "All of those guys come in at one O one thirty."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1325.61,
+        "endTime": 1328.34,
+        "words": "At one O. one Thirty call."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1328.34,
+        "endTime": 1331.45,
+        "words": "One O one thirty five we need the data in [unk] here."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1332.13,
+        "endTime": 1337.69,
+        "words": "Okay. Now let me put something else on you. I see Canary high speed required later on and"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1337.69,
+        "endTime": 1345.57,
+        "words": "Okay, let me explain [unk] You see ascension goes off at one O three even."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1345.57,
+        "endTime": 1345.99,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1345.99,
+        "endTime": 1361.9,
+        "words": "On that okay. If the decision to stay is made [unk] At that point we do not need any more I.P. data. But If the decision is no go"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1362.41,
+        "endTime": 1362.74,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1363.03,
+        "endTime": 1367.63,
+        "words": "We will bring ascension all the way through until termination and we will not bring in Canary."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1370.11,
+        "endTime": 1375.98,
+        "words": "Okay in other words if it's a go For stay decision You're going to bring in Canary high speed at that point."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1375.98,
+        "endTime": 1376.82,
+        "words": "At that point."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1376.82,
+        "endTime": 1377.79,
+        "words": "On the C.S.M."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1378.53,
+        "endTime": 1379.12,
+        "words": "No on the LM."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1379.12,
+        "endTime": 1380.1,
+        "words": "MADRID TIC net two."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1381.91,
+        "endTime": 1383.22,
+        "words": "Canaries is on the LM."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1383.22,
+        "endTime": 1384.66,
+        "words": "Which signal condition did you change?"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1385.37,
+        "endTime": 1387.19,
+        "words": "The bottom dashes are LM data."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1388.78,
+        "endTime": 1389.42,
+        "words": "Oh okay."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1389.42,
+        "endTime": 1390.2,
+        "words": "One moment TIC."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1390.2,
+        "endTime": 1390.63,
+        "words": "uh"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1392.08,
+        "endTime": 1393.27,
+        "words": "Run it by one more time"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1401.89,
+        "endTime": 1404.44,
+        "words": "Well once we're landed why are you bringing in Canary high speed?"
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1404.66,
+        "endTime": 1406.46,
+        "words": "That's part of their checkout [unk]"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1406.46,
+        "endTime": 1411.68,
+        "words": "Okay. My latest status right now antenna is that he's got a busted barometric amplifier."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1416.78,
+        "endTime": 1422.48,
+        "words": "Yeah and we believe that that's due to [unk] the amplifier. Okay that that might be true"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1423.05,
+        "endTime": 1426.48,
+        "words": "But we haven't got an updated status or an E.T.O. from GUIDO we'll keep you posted."
+    },
+    {
+        "speakerID": "TRACK1",
+        "startTime": 1426.67,
+        "endTime": 1428.07,
+        "words": "But we've got eleven hours guy."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1428.82,
+        "endTime": 1434.0,
+        "words": "Yeah. Okay, I'm going to go up and give these preliminary requirement [unk] need if you want to monitor."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1436.56,
+        "endTime": 1437.19,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "MADRID",
+        "startTime": 1437.98,
+        "endTime": 1438.62,
+        "words": "TIC MADRID."
+    },
+    {
+        "speakerID": "TIC",
+        "startTime": 1438.79,
+        "endTime": 1439.17,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "MADRID",
+        "startTime": 1440.6,
+        "endTime": 1456.64,
+        "words": "Roger telemetry observed a A noisy signal Coming from receiver three which is in the narrow band signal conditioner. They swapped over to receiver one Wide band signal conditioner. Which was inputed at EECOM three now this is on the C.S.M. ten."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1459.36,
+        "endTime": 1461.17,
+        "words": "Receiver from [unk] was [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1464.79,
+        "endTime": 1467.86,
+        "words": "Oh you didn't change the receivers you just swapped the P.T.M. ground station right?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1467.86,
+        "endTime": 1470.41,
+        "words": "In fact we see that data [unk] one O. one"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1470.41,
+        "endTime": 1472.62,
+        "words": "Okay the reason I ask [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1474.91,
+        "endTime": 1475.28,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1475.28,
+        "endTime": 1476.78,
+        "words": "I copy the uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1476.78,
+        "endTime": 1477.48,
+        "words": "Yes sir"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1477.48,
+        "endTime": 1478.38,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1478.38,
+        "endTime": 1479.39,
+        "words": "I'll be waiting on that."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1479.83,
+        "endTime": 1480.48,
+        "words": "Okay yeah we"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1481.5,
+        "endTime": 1484.61,
+        "words": "I wondered how changing the signal conditions at EECOM had anything to do with VOICE."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1496.98,
+        "endTime": 1497.54,
+        "words": "NETWORK TIC."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1498.43,
+        "endTime": 1498.82,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1499.65,
+        "endTime": 1504.78,
+        "words": "I was talking to EECOM and he said he lost uh one second about one second of data of P. P.C.M. and VOICE."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1505.94,
+        "endTime": 1507.7,
+        "words": "How does he know he lost VOICE?"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1507.99,
+        "endTime": 1509.31,
+        "words": "He said he lost VOICE so"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1509.66,
+        "endTime": 1510.38,
+        "words": "TIC MADRID"
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1510.53,
+        "endTime": 1511.95,
+        "words": "Now changing the signal condition"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1511.95,
+        "endTime": 1513.07,
+        "words": "Okay MADRID's calling you."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1513.19,
+        "endTime": 1514.24,
+        "words": "Go ahead MADRID"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1515.71,
+        "endTime": 1532.34,
+        "words": "Okay I just got another input from his E-mod. Apparently that there was a parallel patch or something back there and there was a momentary Pull of that patch. That could've caused the noise glitch. Which could've caused the loss of the downlink signal."
+    },
+    {
+        "speakerID": "TIC1",
+        "startTime": 1535.89,
+        "endTime": 1536.39,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1538.68,
+        "endTime": 1539.46,
+        "words": "MADRID NETWORK."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1541.44,
+        "endTime": 1542.16,
+        "words": "NETWORK MADRID."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1542.33,
+        "endTime": 1545.04,
+        "words": "Roger, you said a [unk] patch patch to what?"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1546.56,
+        "endTime": 1547.13,
+        "words": "Uh NETWORK"
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1549.82,
+        "endTime": 1556.34,
+        "words": "On the control indicator for the downlink configuration on the VOICE. Uh NETWORK MADRID"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1556.53,
+        "endTime": 1556.96,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1557.79,
+        "endTime": 1563.5,
+        "words": "I'd like to have a couple of minutes here because I'm getting this input in piece meal and I'd like to have the whole story before I come back to you."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1563.71,
+        "endTime": 1564.24,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "MADRIDCOMTECH",
+        "startTime": 1565.26,
+        "endTime": 1565.89,
+        "words": "Roger thank you."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1599.04,
+        "endTime": 1600.14,
+        "words": "P.C.P. NETWORK"
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1610.08,
+        "endTime": 1610.74,
+        "words": "Go ahead NETWORK."
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1616.04,
+        "endTime": 1619.53,
+        "words": "Two zero one zero three seven incoming."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1620.13,
+        "endTime": 1620.54,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1636.66,
+        "endTime": 1638.7,
+        "words": "NETWORK this is power cord entering your loop."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1640.65,
+        "endTime": 1641.12,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1643.54,
+        "endTime": 1644.02,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1644.8,
+        "endTime": 1652.81,
+        "words": "We would like to monitor the A two bus with an oscilloscope from a convenience outlet in room two sixteen. Do you have any objection?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1652.81,
+        "endTime": 1653.46,
+        "words": "FLIGHT EECOM."
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1655.23,
+        "endTime": 1657.16,
+        "words": "This is a second floor T.V. area."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1657.16,
+        "endTime": 1657.62,
+        "words": "One O. two"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1665.75,
+        "endTime": 1666.99,
+        "words": "How are you going to hook that up?"
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1669.39,
+        "endTime": 1680.23,
+        "words": "We're just going to monitor the the A two bus voltage. From the convenience outlet itself and look at the waveform. And see if we can see anything happening when the T.V. problems occur again."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1685.66,
+        "endTime": 1687.18,
+        "words": "No I have no objection."
+    },
+    {
+        "speakerID": "PCP",
+        "startTime": 1687.87,
+        "endTime": 1688.92,
+        "words": "Okay thank you."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1688.92,
+        "endTime": 1690.87,
+        "words": "Okay looks like [unk] in any problem."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1692.87,
+        "endTime": 1695.48,
+        "words": "Until they are due to come back on the"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1695.89,
+        "endTime": 1697.76,
+        "words": "On the range which is not for some time."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1698.97,
+        "endTime": 1700.38,
+        "words": "Okay I have it under uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1700.38,
+        "endTime": 1701.7,
+        "words": "Oh no they're on now aren't they?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1702.33,
+        "endTime": 1703.61,
+        "words": "Roger they're in codes now."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1703.61,
+        "endTime": 1704.9,
+        "words": "Okay standby thanks."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1723.2,
+        "endTime": 1723.89,
+        "words": "STATUS NETWORK."
+    },
+    {
+        "speakerID": "STATUS",
+        "startTime": 1723.89,
+        "endTime": 1724.54,
+        "words": "STATUS"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1724.54,
+        "endTime": 1728.67,
+        "words": "Okay [unk] don't record unless they're requested to, so that's no impact."
+    },
+    {
+        "speakerID": "STATUS",
+        "startTime": 1729.71,
+        "endTime": 1730.92,
+        "words": "Okay I have it under remark."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1731.27,
+        "endTime": 1731.64,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1747.49,
+        "endTime": 1748.18,
+        "words": "FLIGHT EECOM."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1748.99,
+        "endTime": 1749.46,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1751.12,
+        "endTime": 1768.88,
+        "words": "Uh I think we've seen enough on these uh the O two [unk] and accumulator cycles to say that uh It all looks very uh explainable. And that uh the shift on the transducer has not changed and that uh The procedure crew procedures that we modified uh still stand."
+    }
+]

@@ -1,0 +1,494 @@
+[
+    {
+        "speakerID": "FD1",
+        "startTime": 84.93,
+        "endTime": 85.74,
+        "words": "NETWORK FLIGHT"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 86.84,
+        "endTime": 87.59,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 94.49,
+        "endTime": 98.22,
+        "words": "They're going to send first motion by the clock at one thirty. You got everybody standing by?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 98.39,
+        "endTime": 99.12,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 438.99,
+        "endTime": 439.76,
+        "words": "BOOSTER FLIGHT"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 439.82,
+        "endTime": 440.32,
+        "words": "Go FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 440.32,
+        "endTime": 441.69,
+        "words": "Get set up for your command chair"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 441.69,
+        "endTime": 442.75,
+        "words": "Roger FLIGHT I'm ready."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 442.98,
+        "endTime": 443.95,
+        "words": "You're on one two one?"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 444.32,
+        "endTime": 444.9,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 444.9,
+        "endTime": 445.43,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 445.43,
+        "endTime": 445.94,
+        "words": "GUIDO"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 497.82,
+        "endTime": 498.73,
+        "words": "R.T.C. FLIGHT"
+    },
+    {
+        "speakerID": "RTC",
+        "startTime": 503.04,
+        "endTime": 504.44,
+        "words": "FLIGHT R.T.C. [unk]"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 504.79,
+        "endTime": 507.14,
+        "words": "Affirmative you ready to support BOOSTER command tests?"
+    },
+    {
+        "speakerID": "RTC",
+        "startTime": 507.14,
+        "endTime": 507.9,
+        "words": "Affirmative"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 508.67,
+        "endTime": 509.92,
+        "words": "Are we all configured?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 517.53,
+        "endTime": 518.45,
+        "words": "R.T.C. FLIGHT"
+    },
+    {
+        "speakerID": "RTC",
+        "startTime": 518.45,
+        "endTime": 519.47,
+        "words": "R.T.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 519.47,
+        "endTime": 521.05,
+        "words": "Are we configured for commands?"
+    },
+    {
+        "speakerID": "RTC",
+        "startTime": 521.91,
+        "endTime": 523.05,
+        "words": "Affirmative we are"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 524.8,
+        "endTime": 525.3,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 689.35,
+        "endTime": 690.18,
+        "words": "NETWORK FLIGHT"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 692.07,
+        "endTime": 692.78,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 692.78,
+        "endTime": 694.55,
+        "words": "First motion coming at you now"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 694.55,
+        "endTime": 695.36,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 695.36,
+        "endTime": 696.0,
+        "words": "Let me know"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 697.58,
+        "endTime": 698.4,
+        "words": "Will call FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 709.26,
+        "endTime": 710.23,
+        "words": "NETWORK you get it?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 711.64,
+        "endTime": 712.49,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 712.49,
+        "endTime": 712.81,
+        "words": "Go"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 713.06,
+        "endTime": 714.09,
+        "words": "We have first motion"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 714.09,
+        "endTime": 714.62,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 737.83,
+        "endTime": 738.54,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 738.84,
+        "endTime": 739.16,
+        "words": "Go"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 739.49,
+        "endTime": 741.94,
+        "words": "We'll reset the clock as soon as we have the liftoff removed"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 742.19,
+        "endTime": 742.64,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 841.79,
+        "endTime": 843.41,
+        "words": "BOOSTER FLIGHT go to one two one"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 854.02,
+        "endTime": 854.88,
+        "words": "BOOSTER FLIGHT"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 855.71,
+        "endTime": 856.18,
+        "words": "Go FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 856.18,
+        "endTime": 857.34,
+        "words": "Standing by one two"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 857.34,
+        "endTime": 857.99,
+        "words": "Roger FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 858.21,
+        "endTime": 858.58,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1013.93,
+        "endTime": 1014.64,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1015.18,
+        "endTime": 1015.58,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1016.6,
+        "endTime": 1021.38,
+        "words": "We're trying to clear up a requirement for T.V. on the Goldstone At one twenty nine"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1021.66,
+        "endTime": 1022.4,
+        "words": "Say again"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1023.22,
+        "endTime": 1031.87,
+        "words": "We haven't give any input of where to expect television From Goldstone on rev one is that a correct? Input"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1033.5,
+        "endTime": 1038.42,
+        "words": "It's hard to say. Goldstone is required to be up on rev one. Is that correct? Are they up?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1038.81,
+        "endTime": 1039.58,
+        "words": "They are up."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1039.58,
+        "endTime": 1040.04,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1040.04,
+        "endTime": 1041.54,
+        "words": "Do you want them configured for T.V.?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1041.54,
+        "endTime": 1042.0,
+        "words": "Affirmative"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1042.22,
+        "endTime": 1042.99,
+        "words": "Roger FLIGHT"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1285.22,
+        "endTime": 1286.02,
+        "words": "FLIGHT RECOVERY"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1286.26,
+        "endTime": 1286.66,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1287.13,
+        "endTime": 1296.61,
+        "words": "When data that we're we owe you in five minutes uh they have some computer problems down at the cape And it came in it's just walking into the uh room now may be a little late to you"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1296.61,
+        "endTime": 1297.06,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1304.12,
+        "endTime": 1306.57,
+        "words": "RETRO FLIGHT RETRO FLIGHT"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1308.33,
+        "endTime": 1308.65,
+        "words": "FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1308.65,
+        "endTime": 1309.61,
+        "words": "What loop are you on?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1312.43,
+        "endTime": 1313.77,
+        "words": "I was on the wrong one FLIGHT"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1330.34,
+        "endTime": 1331.02,
+        "words": "FLIGHT RECOVERY"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1331.38,
+        "endTime": 1331.88,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1331.88,
+        "endTime": 1334.21,
+        "words": "There's no land I.P.s on my C.D.I."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1334.43,
+        "endTime": 1334.92,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1334.92,
+        "endTime": 1336.22,
+        "words": "Have the plot in to you in a minute"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1336.65,
+        "endTime": 1337.02,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1339.08,
+        "endTime": 1341.24,
+        "words": "Deputy L.O.M. FLIGHT on MILA"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1538.21,
+        "endTime": 1539.0,
+        "words": "FLIGHT BOOSTER"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1539.5,
+        "endTime": 1539.96,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1539.96,
+        "endTime": 1541.49,
+        "words": "Roger commands are complete"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1541.59,
+        "endTime": 1541.91,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1595.89,
+        "endTime": 1596.84,
+        "words": "RECOVERY FLIGHT"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1597.75,
+        "endTime": 1598.38,
+        "words": "Go FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1599.65,
+        "endTime": 1604.5,
+        "words": "Let me confirm this again your minus E.D.S. was no land I.P.s and what balloon release was that?"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 1606.05,
+        "endTime": 1613.06,
+        "words": "That was the um Three fifteen And you'll get one more at about T minus fifteen"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1613.82,
+        "endTime": 1614.33,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1689.56,
+        "endTime": 1692.52,
+        "words": "Deputy L.O.M. FLIGHT on Flight Director loop"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 1694.53,
+        "endTime": 1695.99,
+        "words": "Go ahead FLIGHT this is Deputy"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1696.98,
+        "endTime": 1702.69,
+        "words": "Okay uh the three fifteen balloon release showed no land I.P.s with a minus E.D.S."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 1704.11,
+        "endTime": 1705.37,
+        "words": "Roger thank you"
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 1.29,
+        "endTime": 2.74,
+        "words": "GUIDO TRAJECTORY on one"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 127.7,
+        "endTime": 128.83,
+        "words": "GUIDANCE BOOSTER your loop"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 147.15,
+        "endTime": 148.23,
+        "words": "GUIDANCE BOOSTER your loop"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 171.51,
+        "endTime": 172.59,
+        "words": "GUIDANCE BOOSTER your loop"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 297.77,
+        "endTime": 298.73,
+        "words": "A.F.D. NETWORK"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 374.21,
+        "endTime": 375.2,
+        "words": "RETRO G.N.C."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 378.07,
+        "endTime": 389.34,
+        "words": "Hey Chuck uh know that the G.N.C. on the prior shift uh Kind of agreed with you to change this pitch tram Uh are you sure it's necessary at a hundredth of a degree?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 393.62,
+        "endTime": 394.89,
+        "words": "G.N.C. this is RETRO"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 394.89,
+        "endTime": 395.3,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 395.66,
+        "endTime": 397.96,
+        "words": "Satisfied with the C.M.C.'s got [unk]"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 397.96,
+        "endTime": 399.99,
+        "words": "Okay you're satisfied one five four"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 399.99,
+        "endTime": 409.64,
+        "words": "Yes and and I'm satisfied especially with the weight a hundred pounds off [unk] I mean a C.S.M. And the limb weight is ten pounds off and I think that's good enough."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 409.64,
+        "endTime": 414.32,
+        "words": "I think it is too uh The one five three doesn't bother me much"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 414.32,
+        "endTime": 422.56,
+        "words": "No oh okay let's let's go over what I'm seeing and uh do do they come to uh H flight don't they come to H flight and ask them what they should put in the [unk] wheels?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 423.05,
+        "endTime": 429.76,
+        "words": "Uh they normally do at four ninety now they skipped them in the C.D.D.T. if you recall and they just took the numbers that we'd given them previously"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 429.76,
+        "endTime": 437.25,
+        "words": "Okay and that and that's essentially what we've got at this point for all practical purposes. We got a minus one point five three and a plus one three two"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 437.25,
+        "endTime": 445.68,
+        "words": "Yeah well they called up here yesterday and Chuck Lewis gave them one five four and one three two So that's what they've probably got."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 445.68,
+        "endTime": 453.84,
+        "words": "Oh look okay but we're we're not really okay We're not any any [unk] I think that's real good"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 457.0,
+        "endTime": 457.55,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 461.99,
+        "endTime": 462.58,
+        "words": "Me too"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 462.77,
+        "endTime": 471.42,
+        "words": "In fact uh that's what prompted Chuck to ask him what he had. Because we we had been looking at this thing and we we were more than ready to go. We're good with it now."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 471.42,
+        "endTime": 475.67,
+        "words": "Okay you've already checked with F.T.C. about what he had for trim settings on that step?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 476.65,
+        "endTime": 477.6,
+        "words": "No no I haven't."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 478.76,
+        "endTime": 479.38,
+        "words": "Oh okay"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 480.28,
+        "endTime": 487.22,
+        "words": "All I'm saying is that when we looked at the data we we were going to do negative reporting we weren't going to say anything until it looked bad."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 488.0,
+        "endTime": 488.5,
+        "words": "Good deal."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 488.72,
+        "endTime": 491.57,
+        "words": "And uh and we'll go with it as as is."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 491.95,
+        "endTime": 492.45,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 493.13,
+        "endTime": 493.62,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 1202.16,
+        "endTime": 1202.61,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1546.45,
+        "endTime": 1547.57,
+        "words": "Hey RETRO FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1547.95,
+        "endTime": 1548.5,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1548.5,
+        "endTime": 1560.67,
+        "words": "Hey John what I think I'm going to do today I'm going to go ahead into cutoff with the U.S.B. But if I.U. looks good I want to select over to that and take I.U. in but I'll stay on U.S.B. until you get all your solutions. Then I'll take I.U. in I think."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1560.67,
+        "endTime": 1566.93,
+        "words": "Okay and and and if that's going to slow you up any for giving you the over determination just go on on with the I.U."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1567.6,
+        "endTime": 1570.37,
+        "words": "I don't think it will I just soon soon as you get all your data."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1570.37,
+        "endTime": 1580.64,
+        "words": "Okay now one more thing just to remember Don't go in with the tail line planning until give RECOVERY about two minutes to get their ground on track straight away and I will [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1580.64,
+        "endTime": 1582.93,
+        "words": "You you bang on me and make sure I don't do that."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1582.93,
+        "endTime": 1583.4,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1584.02,
+        "endTime": 1597.83,
+        "words": "By the way uh We've got we've got T.L.I. in there right now in pre-launch which is something that we always do when we come up into orbit Uh that's liable to still be there uh probably the best thing to do is remind me to delete it and I'll tell dynamics now"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1597.83,
+        "endTime": 1598.54,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1703.7,
+        "endTime": 1705.37,
+        "words": "RETRO G.N.C. your loop"
+    }
+]

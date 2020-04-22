@@ -1,0 +1,608 @@
+[
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 0.0,
+        "endTime": 2.33,
+        "words": "Request two Affirmative."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 9.28,
+        "endTime": 9.88,
+        "words": "FLIGHT GUIDANCE"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 11.15,
+        "endTime": 11.9,
+        "words": "Go GUIDANCE"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 11.9,
+        "endTime": 15.86,
+        "words": "Yeah at L.O.S. we didn't see him do his verb six six which he swears he's going to do."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 17.82,
+        "endTime": 18.6,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 18.6,
+        "endTime": 23.75,
+        "words": "Rog. We just I just thought we'd call it if he we'll check it again at CARNARVON Yeah then then we'll Say it again."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 23.75,
+        "endTime": 24.8,
+        "words": "Okay check it at CARNARVON"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 24.8,
+        "endTime": 27.0,
+        "words": "Rog he usually does it right after we get the vector in."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 27.85,
+        "endTime": 30.17,
+        "words": "Okay but we we were talking to him there at Canary."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 30.17,
+        "endTime": 31.8,
+        "words": "Roger. Understand."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 253.26,
+        "endTime": 253.92,
+        "words": "FLIGHT GUIDANCE."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 254.85,
+        "endTime": 255.23,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 255.23,
+        "endTime": 279.89,
+        "words": "Roger the uh data from Huntsville confirmed our data which was used on the pad. Uh we're showing uh this [unk] right there we saw at CARNARVON was in the booster Uh they confirmed about a kilometer difference versus the tracking which is equal to our half a mile and and and semi-major axis So uh Just to tell you there's slight differences in the booster a little bit larger than what we're used to, but still well within the go limit."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 279.89,
+        "endTime": 280.5,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 418.01,
+        "endTime": 418.76,
+        "words": "GUIDANCE FLIGHT."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 421.95,
+        "endTime": 425.93,
+        "words": "standby FLIGHT, we'll be right with you. [unk] Go ahead FLIGHT. FLIGHT go ahead."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 425.93,
+        "endTime": 431.36,
+        "words": "Am I am I confused? This [unk] delta T on uh T.L.I. Is that a little long?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 432.64,
+        "endTime": 434.18,
+        "words": "Uh little long FLIGHT?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 434.18,
+        "endTime": 435.11,
+        "words": "Five four seven?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 436.64,
+        "endTime": 439.5,
+        "words": "That's about five four five our normal time, FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 440.03,
+        "endTime": 440.61,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 440.61,
+        "endTime": 444.31,
+        "words": "Check it out one more time for History purposes"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 448.0,
+        "endTime": 453.7,
+        "words": "Yeah in fact uh during that last thing with the updated O.T. and the [unk] machine we ran a five four eight."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 453.7,
+        "endTime": 454.85,
+        "words": "Okay. Good enough."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 454.85,
+        "endTime": 455.36,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 455.36,
+        "endTime": 455.85,
+        "words": "[unk] one"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 490.37,
+        "endTime": 495.85,
+        "words": "Okay all flight controllers standby for the [unk] pass. CAPCOM FLIGHT."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 497.68,
+        "endTime": 498.25,
+        "words": "Go ahead FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 498.75,
+        "endTime": 501.94,
+        "words": "Okay I don't think we have anything special for him just tell him we're standing by."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 501.94,
+        "endTime": 503.27,
+        "words": "I dont have [unk]"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 503.27,
+        "endTime": 503.96,
+        "words": "Uh roger."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1005.89,
+        "endTime": 1006.94,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1007.69,
+        "endTime": 1008.04,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1009.17,
+        "endTime": 1013.77,
+        "words": "The back room has confirmed that we've got the roll thrusters both times. On that [unk]"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1013.77,
+        "endTime": 1014.39,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1019.96,
+        "endTime": 1023.29,
+        "words": "Okay all FLIGHT controllers give me an amber light and standby please."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1026.5,
+        "endTime": 1032.76,
+        "words": "GUIDANCE I got any limb people down there? TELCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1035.39,
+        "endTime": 1054.04,
+        "words": "Okay we're coming up on CARNARVON."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1054.04,
+        "endTime": 1054.98,
+        "words": "That's affirm FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1055.34,
+        "endTime": 1061.24,
+        "words": "Okay would you go green? RETRO we have all the pads uplinked that we owe him?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1061.24,
+        "endTime": 1062.15,
+        "words": "Roger that FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1062.55,
+        "endTime": 1062.99,
+        "words": "FIDO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1063.8,
+        "endTime": 1068.23,
+        "words": "Everything looks good here FLIGHT, we're currently one O. five point seven one O. seven point eight"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1068.23,
+        "endTime": 1072.84,
+        "words": "Okay you want to go green? GUIDANCE I have your go on both [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1072.84,
+        "endTime": 1073.93,
+        "words": "Oh yeah we're in good shape FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1074.24,
+        "endTime": 1087.69,
+        "words": "Okay your green. CONTROL TELCOM G.N.C. Your only anomaly was the uh Heater that's been put on that apparently is uh Temperature's coming up."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1087.69,
+        "endTime": 1088.48,
+        "words": "Roger FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1088.48,
+        "endTime": 1093.06,
+        "words": "Okay you want to go green? EECOM, you satisfied with everything?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1094.34,
+        "endTime": 1094.85,
+        "words": "Roger FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1095.62,
+        "endTime": 1099.14,
+        "words": "CAPCOM SURGEON how about you?"
+    },
+    {
+        "speakerID": "SURGEON",
+        "startTime": 1099.95,
+        "endTime": 1100.36,
+        "words": "Looks good."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1100.8,
+        "endTime": 1101.56,
+        "words": "O.N.P."
+    },
+    {
+        "speakerID": "ONP",
+        "startTime": 1101.56,
+        "endTime": 1102.01,
+        "words": "Go."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1102.01,
+        "endTime": 1102.77,
+        "words": "A.F.D."
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 1102.77,
+        "endTime": 1103.28,
+        "words": "Go"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1103.28,
+        "endTime": 1109.16,
+        "words": "F.A.O. And NETWORK? You're all set. With the ships? Everybody out there?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1109.16,
+        "endTime": 1110.5,
+        "words": "That's affirmative FLIGHT, we're go."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1110.85,
+        "endTime": 1111.3,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "CARNARVON",
+        "startTime": 1461.2,
+        "endTime": 1462.3,
+        "words": "ACQUISITION CARNARVON."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1463.15,
+        "endTime": 1463.59,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1492.22,
+        "endTime": 1493.13,
+        "words": "FLIGHT CAPCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1493.13,
+        "endTime": 1493.47,
+        "words": "Go."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1494.15,
+        "endTime": 1498.02,
+        "words": "Uh yeah about when do you expect to get a go no go for T.L.I.?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1498.02,
+        "endTime": 1500.28,
+        "words": "Oh it'd be a minute or two. Go ahead and give them a call."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1500.28,
+        "endTime": 1500.64,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1501.11,
+        "endTime": 1501.86,
+        "words": "FLIGHT BOOSTER."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1502.24,
+        "endTime": 1502.69,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1503.24,
+        "endTime": 1505.28,
+        "words": "Launch vehicle is go for T.L.I."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1506.34,
+        "endTime": 1506.84,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1522.47,
+        "endTime": 1523.34,
+        "words": "GUIDANCE FLIGHT"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1523.87,
+        "endTime": 1524.38,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1524.38,
+        "endTime": 1525.81,
+        "words": "Go no go for T.L.I."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1525.81,
+        "endTime": 1527.25,
+        "words": "Uh standby FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1535.66,
+        "endTime": 1536.47,
+        "words": "G.N.C. FLIGHT."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1537.73,
+        "endTime": 1538.51,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1538.98,
+        "endTime": 1540.34,
+        "words": "Go no go for T.L.I."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1540.34,
+        "endTime": 1540.9,
+        "words": "We're go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1541.59,
+        "endTime": 1542.21,
+        "words": "EECOM"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1542.77,
+        "endTime": 1543.61,
+        "words": "We're go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1544.06,
+        "endTime": 1544.73,
+        "words": "SURGEON"
+    },
+    {
+        "speakerID": "SURGEON",
+        "startTime": 1544.73,
+        "endTime": 1545.55,
+        "words": "We're go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1546.35,
+        "endTime": 1546.99,
+        "words": "FIDO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1547.18,
+        "endTime": 1547.9,
+        "words": "We're go FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1548.64,
+        "endTime": 1549.14,
+        "words": "RETRO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1550.2,
+        "endTime": 1550.67,
+        "words": "Go FLIGHT"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1552.71,
+        "endTime": 1553.87,
+        "words": "GUIDANCE go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1554.56,
+        "endTime": 1557.99,
+        "words": "Thank you. NETWORK FLIGHT how about you?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1558.48,
+        "endTime": 1559.36,
+        "words": "We're go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1560.79,
+        "endTime": 1561.64,
+        "words": "Okay CAPCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1610.37,
+        "endTime": 1611.11,
+        "words": "BOOSTER FLIGHT"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1611.11,
+        "endTime": 1611.83,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1612.08,
+        "endTime": 1613.26,
+        "words": "Got a channel number please?"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1613.26,
+        "endTime": 1615.49,
+        "words": "Roger. Do six FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1616.05,
+        "endTime": 1616.52,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1738.44,
+        "endTime": 1739.86,
+        "words": "[unk] FLIGHT GUIDANCE"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1740.48,
+        "endTime": 1741.16,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1741.16,
+        "endTime": 1742.69,
+        "words": "You verify this verb six six."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1742.69,
+        "endTime": 1743.22,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "CARNARVON",
+        "startTime": 1803.51,
+        "endTime": 1804.86,
+        "words": "L.O.S. CARNARVON"
+    },
+    {
+        "speakerID": "CARNARVON",
+        "startTime": 1905.43,
+        "endTime": 1906.23,
+        "words": "L.O.S. CARNARVON."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1907.13,
+        "endTime": 1907.54,
+        "words": "Roger."
+    }
+]

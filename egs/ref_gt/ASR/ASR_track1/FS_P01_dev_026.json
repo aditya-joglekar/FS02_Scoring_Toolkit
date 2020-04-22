@@ -1,0 +1,596 @@
+[
+    {
+        "speakerID": "FD2",
+        "startTime": 108.97,
+        "endTime": 110.78,
+        "words": "FIDO from FLIGHT do you got an M.P.T. for me?"
+    },
+    {
+        "speakerID": "FIDO2",
+        "startTime": 114.36,
+        "endTime": 115.44,
+        "words": "Affirm, FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 115.44,
+        "endTime": 115.91,
+        "words": "What channel?"
+    },
+    {
+        "speakerID": "FIDO2",
+        "startTime": 116.36,
+        "endTime": 119.7,
+        "words": "Channel fifteen. We're going to update it shortly though."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 119.7,
+        "endTime": 122.13,
+        "words": "Okay. Give me a call when you update it and give me a hard copy, will you?"
+    },
+    {
+        "speakerID": "FIDO2",
+        "startTime": 122.13,
+        "endTime": 122.86,
+        "words": "Rog, will do."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 141.05,
+        "endTime": 143.24,
+        "words": "G.N.C. from FLIGHT. Do you want to give me an update in R.C.S.?"
+    },
+    {
+        "speakerID": "RETRO2",
+        "startTime": 209.79,
+        "endTime": 210.67,
+        "words": "FLIGHT RETRO"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 211.06,
+        "endTime": 211.56,
+        "words": "RETRO"
+    },
+    {
+        "speakerID": "RETRO2",
+        "startTime": 211.56,
+        "endTime": 214.74,
+        "words": "I'm going to go out my limb DAP pad. DAP load."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 214.74,
+        "endTime": 215.23,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "TELCOM1",
+        "startTime": 242.97,
+        "endTime": 244.4,
+        "words": "CAPCOM TELCOM MOCR two."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 328.56,
+        "endTime": 349.33,
+        "words": "Okay all flight controllers, you might uh sit down have your cup of coffee and cigarette, and let's start going over some of the more complex procedures next row. It'd be worthwhile for uh CONTROL to review the uh rendezvous radar activation self check and the R.C.S. check out procedures there. Make sure we don't have any glitches there."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 349.8,
+        "endTime": 351.54,
+        "words": "Roger FLIGHT, we'll pass that on to him when he gets back."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 351.54,
+        "endTime": 352.15,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 360.69,
+        "endTime": 361.51,
+        "words": "GUIDANCE from FLIGHT."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 363.33,
+        "endTime": 363.83,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 363.83,
+        "endTime": 366.21,
+        "words": "I'd like to know when you have all of your loads available."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 366.21,
+        "endTime": 367.09,
+        "words": "Roger, will do."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 580.46,
+        "endTime": 581.5,
+        "words": "GUIDANCE from FLIGHT."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 582.25,
+        "endTime": 582.9,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 582.9,
+        "endTime": 590.48,
+        "words": "What's the difference between the uh pitch and yaw? Or excuse me the roll and yaw angles between the uh C.S.M. and limb platforms?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 592.33,
+        "endTime": 593.26,
+        "words": "What's the difference?"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 593.26,
+        "endTime": 593.6,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 594.39,
+        "endTime": 599.83,
+        "words": "You mean the The docking angle? Or six sixty degrees minus Be about fifty eight degrees."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 599.83,
+        "endTime": 606.45,
+        "words": "Okay the question is uh and I guess I never thought of this one before how come the uh pitch is aligned to the C.S.M. pitch?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 606.45,
+        "endTime": 607.0,
+        "words": "Mm-hm."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 607.0,
+        "endTime": 612.0,
+        "words": "Okay but the yaw and roll Are offset. More than sixty degrees."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 612.0,
+        "endTime": 614.3,
+        "words": "Well you got docking angles two point O. five, FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 614.3,
+        "endTime": 617.37,
+        "words": "Okay That's still eleven. Give the difference."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 617.89,
+        "endTime": 622.23,
+        "words": "Makes fifty eight okay? Now which set are you referring to?"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 625.34,
+        "endTime": 625.78,
+        "words": "Say again?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 625.98,
+        "endTime": 627.49,
+        "words": "Which set are you referring to FLIGHT?"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 628.01,
+        "endTime": 632.06,
+        "words": "Uh ones we had at L.O.S. I'm comparing channel twenty nine and channel seven."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 634.31,
+        "endTime": 636.06,
+        "words": "Oh you just looked at them off the telemetry?"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 636.06,
+        "endTime": 636.34,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 637.0,
+        "endTime": 643.62,
+        "words": "Well the first place, they're not synced time synced. But if they were Okay."
+    },
+    {
+        "speakerID": "TELCOM1",
+        "startTime": 818.2,
+        "endTime": 819.01,
+        "words": "FLIGHT TELCOM."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 819.01,
+        "endTime": 819.88,
+        "words": "Go TELCOM."
+    },
+    {
+        "speakerID": "TELCOM1",
+        "startTime": 819.88,
+        "endTime": 839.06,
+        "words": "Rog uh Right around ninety eight fifty we'll be asking for an omni switch and be advised that we may have about a thirty to forty five second uh drop out of data there, we got the uh limb plus X axis looking directly at the earth's very poor omni coverage from either omni antenna."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 840.99,
+        "endTime": 841.36,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1144.85,
+        "endTime": 1145.74,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1146.57,
+        "endTime": 1147.26,
+        "words": "Go G.N.C."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1147.72,
+        "endTime": 1150.99,
+        "words": "Plots to go with that node around sixty five if you'd like to see them."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1150.99,
+        "endTime": 1151.59,
+        "words": "I'd"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1170.36,
+        "endTime": 1172.19,
+        "words": "It was a quad A you showed me before?"
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1173.56,
+        "endTime": 1174.51,
+        "words": "Yes, FLIGHT."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1192.79,
+        "endTime": 1194.07,
+        "words": "Are you ready for Charlie, FLIGHT?"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1194.07,
+        "endTime": 1194.54,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1197.99,
+        "endTime": 1198.87,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1206.12,
+        "endTime": 1207.74,
+        "words": "Going to have to keep watching those, Buck."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1208.7,
+        "endTime": 1221.09,
+        "words": "Roger, [unk] Uh, uh a little hard to explain. Uh, there's no great problem with it yet and I think after separational Get the consumption rate back down to a more normal value and be okay."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1221.09,
+        "endTime": 1221.64,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1229.65,
+        "endTime": 1231.34,
+        "words": "Looks like totals are pretty close."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1231.34,
+        "endTime": 1233.86,
+        "words": "Now total's in good shape, it's only distribution that"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1233.86,
+        "endTime": 1234.21,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1244.02,
+        "endTime": 1250.31,
+        "words": "FLIGHT part of the problem on that distribution comes into having three jets on B disabled. For a long period of time."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1250.31,
+        "endTime": 1250.94,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1291.23,
+        "endTime": 1291.98,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1292.44,
+        "endTime": 1293.23,
+        "words": "Go G.N.C."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1293.23,
+        "endTime": 1296.75,
+        "words": "We have quad A from Apollo ten on there you even."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1305.22,
+        "endTime": 1305.53,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1306.49,
+        "endTime": 1309.32,
+        "words": "We had a pretty high usage rate during this same period there too."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1309.32,
+        "endTime": 1309.83,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1317.82,
+        "endTime": 1318.61,
+        "words": "Okay I see them."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1473.81,
+        "endTime": 1474.76,
+        "words": "GUIDANCE from FLIGHT."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1475.7,
+        "endTime": 1476.38,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1476.38,
+        "endTime": 1478.52,
+        "words": "Tell me what loads you've already got generated?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1478.52,
+        "endTime": 1480.76,
+        "words": "We have got the rest flight all ready."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1480.76,
+        "endTime": 1481.16,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1482.48,
+        "endTime": 1483.36,
+        "words": "And a clock."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1483.71,
+        "endTime": 1484.27,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1484.89,
+        "endTime": 1488.51,
+        "words": "Abort constance we'll go without because they're okay. They're already in."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1488.51,
+        "endTime": 1488.98,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1490.22,
+        "endTime": 1494.89,
+        "words": "Waiting on PIPA bias from control. Waiting on the best vector."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1495.38,
+        "endTime": 1499.5,
+        "words": "Okay fine, have you got this uh lining radar compensation data?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1499.5,
+        "endTime": 1503.08,
+        "words": "Yes sir. We'll put those together with the PIPA bias to make one load."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1503.08,
+        "endTime": 1503.46,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1504.68,
+        "endTime": 1511.21,
+        "words": "I have the abort constance there's a minor Discussion about one parameter. Uh as soon as that's cleared up I'll bring those up."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1511.21,
+        "endTime": 1511.58,
+        "words": "Fine."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1559.73,
+        "endTime": 1560.75,
+        "words": "CONTROL from FLIGHT."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1561.5,
+        "endTime": 1562.02,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1562.02,
+        "endTime": 1564.14,
+        "words": "Um how you doing on the uh PIPA bias?"
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1564.69,
+        "endTime": 1569.79,
+        "words": "Uh we have one on the way. Yeah they're working on it right now, it's just a matter of getting it in the paperwork."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1569.79,
+        "endTime": 1578.6,
+        "words": "Rog. Make sure everything we uplink here From a standpoint of PIPAs or anything else, make sure you've got two three guys checking them."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1578.6,
+        "endTime": 1579.77,
+        "words": "Uh FLIGHT CONTROL"
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1579.77,
+        "endTime": 1580.0,
+        "words": "Go"
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1580.51,
+        "endTime": 1600.88,
+        "words": "On this PIPA bias, we have run we run two two checks on it here in the last pass, we grossly agreed we um Two of them we're going to update and one we're not. We have a conflict with M.I.T. over in building in building forty five, and um uh we're fixing to get with those guys and see uh to give them the data we used to see what happened there."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1600.88,
+        "endTime": 1601.26,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1601.74,
+        "endTime": 1613.44,
+        "words": "They we're confident in the ones we've got and we're planning to update them here at the next pass. And then we plan to look at it again to confirm again that it's the right numbers. If it's uh, if there's any deviation, we'll update it once more."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1613.44,
+        "endTime": 1613.66,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1626.28,
+        "endTime": 1627.01,
+        "words": "FLIGHT CONTROL."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1627.01,
+        "endTime": 1627.61,
+        "words": "Go CONTROL."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 1627.61,
+        "endTime": 1635.59,
+        "words": "Uh inform you of a change in the mission Roux. The number for max time and non-viable region is now sixty seconds."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1635.59,
+        "endTime": 1636.31,
+        "words": "Roger copy."
+    },
+    {
+        "speakerID": "FD3",
+        "startTime": 1740.28,
+        "endTime": 1742.22,
+        "words": "A.F.D. you want to take another minute please?"
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 1742.78,
+        "endTime": 1743.56,
+        "words": "Roger FLIGHT."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1796.1,
+        "endTime": 1797.63,
+        "words": "CAPCOM meet GUIDANCE MOCR DYN."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1808.06,
+        "endTime": 1809.43,
+        "words": "CAPCOM meet GUIDANCE MOCR DYN."
+    }
+]

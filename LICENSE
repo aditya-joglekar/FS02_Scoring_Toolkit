@@ -1,0 +1,38 @@
+Creative Commons License (CC BY-SA 4.0)
+
+Copyright (c) 2020, Aditya Joglekar, John H.L. Hansen
+
+FEARLESS STEPS CHALLENGE by Aditya Joglekar, John H.L. Hansen is licensed under 
+a Creative Commons Attribution-ShareAlike 4.0 International License. 
+Permissions beyond the scope of this license may be available at 
+https://www.nasa.gov/multimedia/guidelines/index.html.
+
+The Creative Commons License is restricted to the efforts made by CRSS-UTD, 
+which involves 100 hours of Challenge Corpus (audio) data sampled from 8Khz, 
+along with its meta-data generated separately. The license also covers all 
+the scripts which were developed at CRSS-UTD in the preparation of the corpus,
+and systems built to support the tasks in this Challenge, along with the 
+webpages developed to host the Challenge.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Redistributions must also contain any other licence files for third party 
+  open-source software used as-is by wrapper scripts in the toolkit. The
+  open-source software and its licence are provided with the toolkit.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

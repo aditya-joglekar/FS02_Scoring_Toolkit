@@ -1,0 +1,422 @@
+[
+    {
+        "speakerID": "FIDO1",
+        "startTime": 63.65,
+        "endTime": 64.28,
+        "words": "FLIGHT FIDO"
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 66.74,
+        "endTime": 76.2,
+        "words": "Right now we're predicting that that T.E.I. will be uh two minutes and eight seconds rather Than uh That's earlier than the time in the flight pad."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 801.28,
+        "endTime": 802.45,
+        "words": "RETRO from FLIGHT"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 804.85,
+        "endTime": 805.74,
+        "words": "RETRO FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 806.62,
+        "endTime": 809.93,
+        "words": "How does this weight compare with the the pre-flight weight?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 812.07,
+        "endTime": 816.76,
+        "words": "Uh it's within a few hundred pounds. I'm not sure the exact number now."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 816.76,
+        "endTime": 821.95,
+        "words": "No specifically is it four to five hundred pounds lower than the pre-flight number?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 821.95,
+        "endTime": 824.89,
+        "words": "It's on the order of four hundred pounds from the [unk] I'm looking at."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 824.89,
+        "endTime": 826.48,
+        "words": "Lower than the pre-flight."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 826.82,
+        "endTime": 828.25,
+        "words": "No it's uh greater than"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 832.94,
+        "endTime": 833.63,
+        "words": "Are you sure of that?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 836.3,
+        "endTime": 840.53,
+        "words": "Yes from what I'm using here on a a pre-nom I've I've got a pad."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 840.53,
+        "endTime": 841.55,
+        "words": "Say again?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 841.55,
+        "endTime": 851.76,
+        "words": "I've got a nominal pad and that's what I'm conferring with and it's four hundred pounds greater than that. And I'm not sure if this has got the latest O.T. data in it or not. I can check it."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 851.76,
+        "endTime": 866.77,
+        "words": "Well The difference between T.E.I. eleven and this number is uh Six hundred pounds. My god, what happened in uh Nineteen revs [unk] weight change. Six hundred pounds."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 866.77,
+        "endTime": 872.11,
+        "words": "Let me go ahead and explain something here. The weight that I got here is for the one man weight."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 874.99,
+        "endTime": 876.65,
+        "words": "The weight that you have where?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 876.94,
+        "endTime": 886.18,
+        "words": "On the T.E.I. thirty pad These this weight and trim would also be valid but it's C.S.M. rescue, one man weight in C.S.M rescue."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 890.67,
+        "endTime": 893.47,
+        "words": "And and you're telling me it's five hundred pounds above the"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 893.47,
+        "endTime": 896.05,
+        "words": "I am in error there and I will check that."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 897.38,
+        "endTime": 899.04,
+        "words": "You're not saying anything about that."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 899.04,
+        "endTime": 904.76,
+        "words": "That's right, I'll check that. We have been checking our weights and we do have A four or five hundred pound discrepency"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 904.76,
+        "endTime": 906.76,
+        "words": "Okay in which direction please?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 908.24,
+        "endTime": 909.34,
+        "words": "I think we're lighter."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 909.97,
+        "endTime": 916.46,
+        "words": "Okay. That's what I think also and that's what I've been trying to get some verification. Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 928.27,
+        "endTime": 932.87,
+        "words": "Okay we have uh two and a half minutes to acquisition uh here comes G.N.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 986.12,
+        "endTime": 991.04,
+        "words": "Okay but you just told me that if I took the [unk] I'd be off six hundred and fifty. Is that what you said?"
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 993.93,
+        "endTime": 995.42,
+        "words": "[unk] That's right."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 996.36,
+        "endTime": 999.26,
+        "words": "That would be six hundred and fifty pounds lighter than nominal."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 999.26,
+        "endTime": 1001.48,
+        "words": "A hundred and fifty pounds lighter than what?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1001.48,
+        "endTime": 1003.92,
+        "words": "We are now which would be six hundred and fifty pounds."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 1003.92,
+        "endTime": 1004.55,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1058.55,
+        "endTime": 1061.44,
+        "words": "Okay everybody, thirty seconds to acquisition. standby."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1091.46,
+        "endTime": 1092.82,
+        "words": "[unk] RETRO from FLIGHT."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 1093.16,
+        "endTime": 1093.65,
+        "words": "Go."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1094.79,
+        "endTime": 1095.23,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1099.16,
+        "endTime": 1106.56,
+        "words": "Did you copy that now? We're we're dealing with a vehicle that's five hundred pounds lighter than nominal and nobody knows why."
+    },
+    {
+        "speakerID": "RETRO1",
+        "startTime": 1108.55,
+        "endTime": 1109.36,
+        "words": "Alright copy."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1111.83,
+        "endTime": 1112.89,
+        "words": "FLIGHT EECOM I've got data."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1113.2,
+        "endTime": 1113.47,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 1172.68,
+        "endTime": 1173.94,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1173.94,
+        "endTime": 1174.38,
+        "words": "Go."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 1174.38,
+        "endTime": 1177.57,
+        "words": "Okay we're still showing good [unk] is a stable vehicle."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1177.57,
+        "endTime": 1178.4,
+        "words": "Okay thank you."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1192.88,
+        "endTime": 1193.6,
+        "words": "FLIGHT EECOM."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1193.6,
+        "endTime": 1194.24,
+        "words": "Go."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 1194.24,
+        "endTime": 1194.88,
+        "words": "It's looking good."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1194.88,
+        "endTime": 1195.27,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1219.03,
+        "endTime": 1219.46,
+        "words": "SURGEON."
+    },
+    {
+        "speakerID": "SURGEON1",
+        "startTime": 1226.9,
+        "endTime": 1239.02,
+        "words": "Yeah we [unk] had good uh oh uh we had good E.K.G.s on all but the commander at acquisition, and the rates were low. They might have gone back to sleep I thought there for a minute. Yeah there [unk] comes back."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1240.73,
+        "endTime": 1243.08,
+        "words": "FLIGHT we've got data back. You've got good data on the L.M.P."
+    },
+    {
+        "speakerID": "SURGEON1",
+        "startTime": 1243.08,
+        "endTime": 1243.67,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1243.67,
+        "endTime": 1244.3,
+        "words": "CAPCOM"
+    },
+    {
+        "speakerID": "CAPCOM1",
+        "startTime": 1297.81,
+        "endTime": 1302.48,
+        "words": "Uh FLIGHT CAPCOM. Uh he's going to have some comment on weight and [unk] data."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1308.56,
+        "endTime": 1315.36,
+        "words": "The new the [unk] oh the yeah. Why don't you give them a little bit and see if they come to you on the the uh [unk] or something."
+    },
+    {
+        "speakerID": "CAPCOM1",
+        "startTime": 1315.36,
+        "endTime": 1316.04,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1318.06,
+        "endTime": 1323.24,
+        "words": "Although it sounds like uh [unk] Already in his uh L.C.G."
+    },
+    {
+        "speakerID": "CAPCOM1",
+        "startTime": 1323.24,
+        "endTime": 1324.11,
+        "words": "Yeah I think so."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1333.62,
+        "endTime": 1337.22,
+        "words": "Next time you talk to him you let him know you got to standby [unk]."
+    },
+    {
+        "speakerID": "CAPCOM1",
+        "startTime": 1339.27,
+        "endTime": 1339.69,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1738.63,
+        "endTime": 1739.3,
+        "words": "FIDO FLIGHT."
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 1741.93,
+        "endTime": 1742.43,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1742.43,
+        "endTime": 1744.24,
+        "words": "How are you coming on those pads for the men?"
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 1745.36,
+        "endTime": 1748.91,
+        "words": "We will Start filling out the pads right now, we've got the data."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1749.33,
+        "endTime": 1757.52,
+        "words": "Okay and have you got a set of times and everything that I need? For the event you know and docking? Step in B line and P.D.I. and all that?"
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 1757.52,
+        "endTime": 1758.17,
+        "words": "Affirmative."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1758.17,
+        "endTime": 1758.66,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 1761.26,
+        "endTime": 1762.95,
+        "words": "You want that when you leave ship right?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1762.95,
+        "endTime": 1763.28,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "FIDO1",
+        "startTime": 1763.28,
+        "endTime": 1763.78,
+        "words": "Okay."
+    }
+]

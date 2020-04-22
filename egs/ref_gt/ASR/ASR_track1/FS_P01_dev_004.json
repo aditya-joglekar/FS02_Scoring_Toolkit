@@ -1,0 +1,698 @@
+[
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 16.53,
+        "endTime": 17.75,
+        "words": "RETRO when you have a moment."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 18.34,
+        "endTime": 18.78,
+        "words": "Go."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 19.53,
+        "endTime": 25.13,
+        "words": "Yeah I'd like to see if we've got a Got all the data on the [unk] that you know about right now."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 25.5,
+        "endTime": 40.35,
+        "words": "Roger that. I'm in good shape I looked at C.S.M. [unk] The C.S.M. uh weight and Limb weight are good They're within a hundred pounds of C.S.M. and twenty pounds of the limb of what's loading the C.M.C. at this time."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 40.35,
+        "endTime": 41.82,
+        "words": "At this time okay."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 41.82,
+        "endTime": 50.18,
+        "words": "Are the [unk] in good shape? Are the [unk] weight is minus one point five three and plus one point three two"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 50.18,
+        "endTime": 57.21,
+        "words": "Wait wait wait wait let me get those. I want at the docked I need both the undocked and the docked trim."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 57.21,
+        "endTime": 57.96,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 57.96,
+        "endTime": 59.43,
+        "words": "For our pad and I'll just write them down."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 59.43,
+        "endTime": 60.96,
+        "words": "You bet. [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 63.92,
+        "endTime": 67.25,
+        "words": "Docked trim pitch plus four nine five"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 68.46,
+        "endTime": 69.95,
+        "words": "Okay Go"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 71.11,
+        "endTime": 73.33,
+        "words": "Yaw minus one two zero"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 74.86,
+        "endTime": 75.92,
+        "words": "Go with the undocked."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 75.92,
+        "endTime": 88.96,
+        "words": "Undocked pitch minus one point five three. Yaw plus one point three two. What he has in his you can check what he's got in his C.N.C. right now and it'd look real close to that."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 88.96,
+        "endTime": 89.87,
+        "words": "Great."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 90.71,
+        "endTime": 92.41,
+        "words": "And [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 92.41,
+        "endTime": 95.79,
+        "words": "Uh okay now those are for uh undocked got loaded"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 95.79,
+        "endTime": 96.71,
+        "words": "[unk] can send them out."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 97.34,
+        "endTime": 102.1,
+        "words": "Okay we send up the uh docked one for the evasive so that's why I wanted those."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 102.1,
+        "endTime": 102.65,
+        "words": "You bet"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 102.65,
+        "endTime": 116.26,
+        "words": "Okay let me [unk] I'll read them back to you. Docked I have plus pitch plus point nine five yaw minus point two zero? Undocked is minus one point five three plus one point three two."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 116.26,
+        "endTime": 117.04,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 117.04,
+        "endTime": 118.04,
+        "words": "Roger. Go"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 126.92,
+        "endTime": 128.77,
+        "words": "[unk] secondary [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 153.26,
+        "endTime": 153.89,
+        "words": "Zero"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 186.47,
+        "endTime": 187.03,
+        "words": "Standby"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 254.35,
+        "endTime": 254.94,
+        "words": "Standby"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 261.12,
+        "endTime": 261.85,
+        "words": "Whats going on?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 331.43,
+        "endTime": 333.75,
+        "words": "I'm holding now I came off [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 349.26,
+        "endTime": 350.46,
+        "words": "Okay forty five degree"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 365.64,
+        "endTime": 366.5,
+        "words": "test complete"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 390.56,
+        "endTime": 391.01,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 455.1,
+        "endTime": 456.01,
+        "words": "Standby"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 534.41,
+        "endTime": 535.25,
+        "words": "Test complete"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 595.05,
+        "endTime": 596.99,
+        "words": "RET- RETRO GUIDANCE"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 596.99,
+        "endTime": 597.55,
+        "words": "Go"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 597.55,
+        "endTime": 602.77,
+        "words": "Yeah you want to give me those uh weights? Anyhow I'll just write them down. I uh let me"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 602.77,
+        "endTime": 606.55,
+        "words": "Let me give you a pad. I can do that."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 606.55,
+        "endTime": 608.87,
+        "words": "Well I can see the weight here on the tube I just wanted"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 608.87,
+        "endTime": 611.23,
+        "words": "Roger that I'm going to give your pad I'm going to do it right"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 611.23,
+        "endTime": 619.06,
+        "words": "How about that. Okay. I'm going to put your values on our uh evasive pad and let him decide whether to bother to update it."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 621.38,
+        "endTime": 623.7,
+        "words": "Okay. You know, I think we should do that."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 623.7,
+        "endTime": 626.61,
+        "words": "We'll put the right ones on there alright. Just so we'll have them."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 630.33,
+        "endTime": 635.73,
+        "words": "Here he comes now. Right Now. And it was subject to change of course."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 635.73,
+        "endTime": 637.38,
+        "words": "Of course."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 661.88,
+        "endTime": 662.54,
+        "words": "GUIDANCE FIDO."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 664.32,
+        "endTime": 665.04,
+        "words": "Go ahead FIDO."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 665.04,
+        "endTime": 671.45,
+        "words": "Can you get a nominal roll angle for the evasive maneuver that the crew has been going to or must go to in order to see the booster?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 671.73,
+        "endTime": 672.37,
+        "words": "standby."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 676.03,
+        "endTime": 677.66,
+        "words": "[unk] command [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 725.18,
+        "endTime": 726.14,
+        "words": "GUIDANCE FIDO."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 727.02,
+        "endTime": 727.52,
+        "words": "Go."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 727.52,
+        "endTime": 729.68,
+        "words": "Have we been passing the roll [unk] angle [unk]?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 729.68,
+        "endTime": 735.02,
+        "words": "[unk] We compute it. You mean oh say again Your option on the pad."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 735.02,
+        "endTime": 736.7,
+        "words": "Right and they're supposed to roll to it to find it."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 736.7,
+        "endTime": 737.47,
+        "words": "Right O Right."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 737.47,
+        "endTime": 739.05,
+        "words": "What has it normally been? Do you recall though?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 739.05,
+        "endTime": 741.47,
+        "words": "Uh Let me I've got a hard copy of it."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 742.19,
+        "endTime": 745.92,
+        "words": "No of your downlink not the maneuver I can see whatever you're"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 747.99,
+        "endTime": 751.19,
+        "words": "When they went there. Oh wait a minute, maybe this is them I don't even [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 751.19,
+        "endTime": 752.68,
+        "words": "[unk] to go with it"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 754.31,
+        "endTime": 762.57,
+        "words": "I do not have one for That's what well okay Let me uh See what we did here."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 763.26,
+        "endTime": 764.35,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 803.08,
+        "endTime": 805.81,
+        "words": "FIDO I've been bitten by my data. I don't have it."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 805.81,
+        "endTime": 810.44,
+        "words": "Okay. CAPCOM FIDO on our loop."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1009.74,
+        "endTime": 1012.99,
+        "words": "Hey REENTRYSUPPORT this is RETRO on MOCR [unk]. How do you read?"
+    },
+    {
+        "speakerID": "REENTRYSUPPORT",
+        "startTime": 1013.59,
+        "endTime": 1014.43,
+        "words": "Loud and clear, RETRO."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1015.12,
+        "endTime": 1016.56,
+        "words": "You're down there at two, [unk]."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1018.99,
+        "endTime": 1021.99,
+        "words": "Hey can you get somebody there to look at your com thing?"
+    },
+    {
+        "speakerID": "REENTRYSUPPORT",
+        "startTime": 1022.51,
+        "endTime": 1023.39,
+        "words": "Uh roger I will."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1023.39,
+        "endTime": 1027.96,
+        "words": "standby let me get you somebody to do a little voice check with you. GUIDANCE this is RETRO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1028.25,
+        "endTime": 1028.72,
+        "words": "Go"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1029.17,
+        "endTime": 1035.12,
+        "words": "Uh Talk to [unk] on uh On [unk] do you have [unk] loop?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1035.12,
+        "endTime": 1035.72,
+        "words": "No."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1035.72,
+        "endTime": 1038.53,
+        "words": "Call someone at MOCR [unk] and see if he sounds down to you."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1038.53,
+        "endTime": 1040.12,
+        "words": "Talk REENTRYSUPPORT"
+    },
+    {
+        "speakerID": "REENTRYSUPPORT",
+        "startTime": 1040.12,
+        "endTime": 1042.31,
+        "words": "Uh roger GUIDO this is REENTRYSUPPORT"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1042.31,
+        "endTime": 1043.09,
+        "words": "Loud and clear."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1043.94,
+        "endTime": 1044.5,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1047.97,
+        "endTime": 1052.37,
+        "words": "Let me try it on REENTRYSUPPORT I do have it down here hidden at the new loop we got this mission."
+    },
+    {
+        "speakerID": "REENTRYSUPPORT",
+        "startTime": 1059.91,
+        "endTime": 1062.16,
+        "words": "Roger one two three three two one."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1085.44,
+        "endTime": 1087.38,
+        "words": "Think it's his headset but he is down."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1243.75,
+        "endTime": 1245.82,
+        "words": "uh D.M.V. [unk]"
+    },
+    {
+        "speakerID": "PRO",
+        "startTime": 1265.53,
+        "endTime": 1266.94,
+        "words": "FIDO PRODECURE MOCR [unk]"
+    },
+    {
+        "speakerID": "PRO",
+        "startTime": 1279.91,
+        "endTime": 1281.47,
+        "words": "FIDO PROCEDURES MOCR [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1282.53,
+        "endTime": 1283.22,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "PRO",
+        "startTime": 1283.22,
+        "endTime": 1285.66,
+        "words": "Did you receive your copies of the S.M. [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1285.66,
+        "endTime": 1286.27,
+        "words": "Sure did."
+    },
+    {
+        "speakerID": "PRO",
+        "startTime": 1286.27,
+        "endTime": 1286.83,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1359.7,
+        "endTime": 1361.12,
+        "words": "[unk] Standby"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1415.62,
+        "endTime": 1416.84,
+        "words": "Secondary [unk]"
+    },
+    {
+        "speakerID": "LOAD",
+        "startTime": 1487.44,
+        "endTime": 1489.53,
+        "words": "RETRO LOAD CONTROL MOCR [unk]."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1588.14,
+        "endTime": 1589.69,
+        "words": "L.O.M. [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1645.02,
+        "endTime": 1645.98,
+        "words": "RETRO FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1648.0,
+        "endTime": 1648.72,
+        "words": "Go FIDO."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1648.72,
+        "endTime": 1658.17,
+        "words": "Okay we've got a what do we got out there about seventy degrees today we got a destroyer out there? Okay I got a I got a plan. See how it works is I've got"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1864.83,
+        "endTime": 1865.8,
+        "words": "RETRO FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1866.11,
+        "endTime": 1866.77,
+        "words": "Go FIDO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1866.77,
+        "endTime": 1868.65,
+        "words": "Have we recorrected that liftoff time?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1868.65,
+        "endTime": 1869.62,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1872.18,
+        "endTime": 1873.81,
+        "words": "Do we have our target table loaded?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1873.81,
+        "endTime": 1875.86,
+        "words": "That's everything is go at this time."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1875.86,
+        "endTime": 1881.11,
+        "words": "I just want to check each item. Target table is loaded. G.M.T.L.O. is loaded."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1881.11,
+        "endTime": 1881.67,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1881.67,
+        "endTime": 1882.86,
+        "words": "G.M.T.Z.S. is loaded"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1882.86,
+        "endTime": 1883.94,
+        "words": "G.M.T.Z.S. is loaded"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1883.94,
+        "endTime": 1884.91,
+        "words": "GUIDANCE FIDO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1884.91,
+        "endTime": 1885.76,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1885.76,
+        "endTime": 1889.98,
+        "words": "Uh which angle of uh set up? Has been verified?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1889.98,
+        "endTime": 1890.51,
+        "words": "Verified."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1891.26,
+        "endTime": 1892.91,
+        "words": "Okay. What estimate we got?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1892.91,
+        "endTime": 1900.16,
+        "words": "Seventy two decimal six. H.O.S.V. is verified. D number. [unk] is sitting at D number and it's loaded on board."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1900.16,
+        "endTime": 1900.72,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1905.5,
+        "endTime": 1907.08,
+        "words": "RETRO FIDO weights are in, right?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1907.08,
+        "endTime": 1907.99,
+        "words": "That's affirmative."
+    }
+]

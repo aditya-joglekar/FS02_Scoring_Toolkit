@@ -1,0 +1,890 @@
+[
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 0.0,
+        "endTime": 2.39,
+        "words": "Go INCO at McGregor's here roger"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 2.39,
+        "endTime": 3.83,
+        "words": "[unk] will standby here [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 3.83,
+        "endTime": 7.08,
+        "words": "Tell McGregor to make a green light for me so I know he's here"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 8.22,
+        "endTime": 9.19,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 9.19,
+        "endTime": 11.06,
+        "words": "There you go McGregor"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 121.24,
+        "endTime": 126.19,
+        "words": "Okay uh Don why don't you go ahead and proceed and uh he can get those contactors off whenever you're ready for them"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 129.67,
+        "endTime": 135.88,
+        "words": "Okay uh why don't you uh talk the [unk] uh to anything he might see uh in the cockpit there"
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 140.12,
+        "endTime": 143.35,
+        "words": "[unk] uh when you verified you get stay on"
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 146.19,
+        "endTime": 147.8,
+        "words": "Oh it'll be [unk] purchase"
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 148.25,
+        "endTime": 152.03,
+        "words": "Okay you got a four zero one two and three [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 153.12,
+        "endTime": 153.95,
+        "words": "Be quiet please"
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 153.95,
+        "endTime": 154.4,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 155.32,
+        "endTime": 157.22,
+        "words": "We'll purge hydrogen first"
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 157.22,
+        "endTime": 157.58,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 169.01,
+        "endTime": 173.0,
+        "words": "Okay E.P. you want to take your uh [unk] off?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 173.0,
+        "endTime": 174.3,
+        "words": "E.P.S. EECOM"
+    },
+    {
+        "speakerID": "EPS",
+        "startTime": 177.61,
+        "endTime": 178.62,
+        "words": "E.P.S."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 178.62,
+        "endTime": 181.6,
+        "words": "They're going to purge the cells now remember they skipped it before"
+    },
+    {
+        "speakerID": "EPS",
+        "startTime": 181.6,
+        "endTime": 185.55,
+        "words": "Okay Yeah we're go for purging"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 227.95,
+        "endTime": 230.04,
+        "words": "There you go E.P.S. fuel cell [unk]"
+    },
+    {
+        "speakerID": "EPS",
+        "startTime": 231.19,
+        "endTime": 232.54,
+        "words": "Rog Lovely"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 242.62,
+        "endTime": 244.58,
+        "words": "Okay M.L.S.C."
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 319.57,
+        "endTime": 320.92,
+        "words": "EECOM E.C.S."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 320.92,
+        "endTime": 321.72,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 322.98,
+        "endTime": 328.3,
+        "words": "[unk] Just got this uh SPAN evaluation of waste and potable water"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 328.3,
+        "endTime": 329.64,
+        "words": "Yeah I got a copy of it"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 329.64,
+        "endTime": 330.37,
+        "words": "You got that?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 330.37,
+        "endTime": 334.14,
+        "words": "Mm-hm"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 334.14,
+        "endTime": 335.77,
+        "words": "Okay good plan"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 335.77,
+        "endTime": 336.29,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 336.29,
+        "endTime": 341.32,
+        "words": "I don't know I kind of disagree with it though. Our potable tank is not increasing."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 408.08,
+        "endTime": 413.25,
+        "words": "[unk] return to normal [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 414.74,
+        "endTime": 415.22,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 471.5,
+        "endTime": 472.61,
+        "words": "E.C.S EECOM"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 472.61,
+        "endTime": 473.27,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 473.27,
+        "endTime": 482.66,
+        "words": "George they During that hole when they had this there's nobody in the space craft they leave the fans on the [unk] auto and the fans off how do they configure those crowd tanks?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 483.12,
+        "endTime": 494.11,
+        "words": "Um should be uh heaters and fans in auto but uh then when a crew comes in on it you know the final pre-launch check yeah then they turn the fans off"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 494.11,
+        "endTime": 495.46,
+        "words": "And leave the heating on auto"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 495.46,
+        "endTime": 496.84,
+        "words": "And leave the heaters in auto"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 496.84,
+        "endTime": 498.95,
+        "words": "Yeah it sure looks like we turned everything off"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 498.95,
+        "endTime": 507.71,
+        "words": "Yeah it looks like they turned everything off and the H two tanks and uh The O two's gone a little lower than it had also"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 516.98,
+        "endTime": 522.38,
+        "words": "If it keeps going down we'd better uh query them about it and find out what's going on"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 522.38,
+        "endTime": 524.14,
+        "words": "I'm sure surprised that"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 530.67,
+        "endTime": 533.63,
+        "words": "I'm sure surprised that nobody down at the cape is talking about that"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 534.44,
+        "endTime": 535.74,
+        "words": "A.F.D. NETWORK my loop"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 536.97,
+        "endTime": 542.9,
+        "words": "Yeah I haven't heard a thing on the um C.S.M. two or the C.B.T.F."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 542.9,
+        "endTime": 543.43,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 606.09,
+        "endTime": 607.42,
+        "words": "EECOM E.C.S"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 610.86,
+        "endTime": 612.14,
+        "words": "E.C.S. EECOM"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 612.14,
+        "endTime": 614.74,
+        "words": "Our H two pressures are increasing now"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 614.74,
+        "endTime": 615.67,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 615.67,
+        "endTime": 626.61,
+        "words": "Looks like the um Well I'd better not tell you because it's quite a bit lower than what it had been all night long Maybe they just caught them and turned them off"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 630.38,
+        "endTime": 631.72,
+        "words": "Okay [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 632.64,
+        "endTime": 633.83,
+        "words": "uh roger, thank you"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 897.58,
+        "endTime": 898.6,
+        "words": "G.N.C. FLIGHT"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 900.38,
+        "endTime": 901.37,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 901.37,
+        "endTime": 904.21,
+        "words": "Do we owe them some trim settings or they have them?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 904.21,
+        "endTime": 906.92,
+        "words": "And they already have them Chuck Lewis gave them to them yesterday"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 909.88,
+        "endTime": 910.6,
+        "words": "What are they?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 911.35,
+        "endTime": 915.26,
+        "words": "Minus one point five four plus one point three two"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 915.73,
+        "endTime": 916.96,
+        "words": "Speak up L.S.C."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 916.96,
+        "endTime": 921.72,
+        "words": "We recomputed today and uh we've got within a hundred [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 923.92,
+        "endTime": 924.34,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 924.67,
+        "endTime": 925.87,
+        "words": "Say them again please"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 925.87,
+        "endTime": 927.05,
+        "words": "Everything look okay [unk]"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 927.05,
+        "endTime": 929.15,
+        "words": "Minus one point five four pinch"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 930.93,
+        "endTime": 932.15,
+        "words": "E.P.S. EECOM"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 933.67,
+        "endTime": 934.16,
+        "words": "Go"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 934.16,
+        "endTime": 934.66,
+        "words": "Go go ahead"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 935.12,
+        "endTime": 938.5,
+        "words": "Okay I got one three three yaw one five four [unk]"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 938.5,
+        "endTime": 939.17,
+        "words": "E.C.S. go ahead"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 940.23,
+        "endTime": 943.51,
+        "words": "Uh you monitoring these uh E.D.S. checks?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 944.32,
+        "endTime": 946.95,
+        "words": "Uh Roger that best we can"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1031.07,
+        "endTime": 1031.73,
+        "words": "FLIGHT EECOM"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1032.97,
+        "endTime": 1033.74,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1035.71,
+        "endTime": 1049.1,
+        "words": "We uh have a red line on the uh imbalance [unk] uh four percent uh at least we've just the printed red line and we're setting it slightly above that now and we waived that to about five percent that's the O two"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1049.1,
+        "endTime": 1051.16,
+        "words": "It was waived yesterday right?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1051.16,
+        "endTime": 1054.51,
+        "words": "I think we waived the H two yesterday we waived the O two tonight"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1058.64,
+        "endTime": 1059.86,
+        "words": "In any event we're already there"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1063.27,
+        "endTime": 1064.32,
+        "words": "And you're go right?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1064.32,
+        "endTime": 1065.15,
+        "words": "That's affirmative"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1080.06,
+        "endTime": 1081.1,
+        "words": "E.C.S. EECOM"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1084.21,
+        "endTime": 1084.69,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1086.11,
+        "endTime": 1087.68,
+        "words": "Is uh Jack still there?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1087.68,
+        "endTime": 1088.72,
+        "words": "Yeah he's still here"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1088.72,
+        "endTime": 1096.56,
+        "words": "Uh when he made his water prediction he based that upon the fact the knowledge that the [unk] tank in the cell was open all the time yes or no?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1098.03,
+        "endTime": 1099.44,
+        "words": "standby one"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1115.14,
+        "endTime": 1118.0,
+        "words": "He says close but open before lift off"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1118.0,
+        "endTime": 1119.82,
+        "words": "It's been open all this time hasn't it?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1121.09,
+        "endTime": 1123.44,
+        "words": "If it has the quantity hasnt been changing all the time"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1123.44,
+        "endTime": 1126.4,
+        "words": "No well because the fuel cell hasn't been putting any water out"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1126.4,
+        "endTime": 1129.28,
+        "words": "The heck they haven't it's been going in the waste tank"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1133.88,
+        "endTime": 1136.17,
+        "words": "Okay so you're saying it maybe it just got opened ah?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1136.17,
+        "endTime": 1148.11,
+        "words": "It either was just opened or uh it's been closed all this time and hadn't been opened yet We're going to have to watch this potable uh water here since the crew got in and see what happens"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1151.01,
+        "endTime": 1155.74,
+        "words": "But the potable water has not been increasing all night it's been remaining constant"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1155.74,
+        "endTime": 1157.49,
+        "words": "But the and the waste tank has?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1157.49,
+        "endTime": 1166.03,
+        "words": "And the waste tank has I noticed the uh potable is still reading twenty eight point five it's been reading that all night long"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1167.84,
+        "endTime": 1168.38,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1267.92,
+        "endTime": 1268.97,
+        "words": "E.C.S. EECOM"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1276.51,
+        "endTime": 1277.53,
+        "words": "E.C.S. EECOM"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1297.04,
+        "endTime": 1298.24,
+        "words": "E.C.S. EECOM"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1305.39,
+        "endTime": 1307.2,
+        "words": "EECOM did you call E.C.S.?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1307.2,
+        "endTime": 1308.01,
+        "words": "Yes sir"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1308.01,
+        "endTime": 1308.83,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1311.47,
+        "endTime": 1316.71,
+        "words": "Uh question on these fuel cells how come the temperature stands so high? Is this normal in a pad?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1316.71,
+        "endTime": 1319.31,
+        "words": "Yeah they have they have the [unk] heaters on"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1320.41,
+        "endTime": 1322.98,
+        "words": "Why? I thought we didn't do preheating anymore."
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1322.98,
+        "endTime": 1333.94,
+        "words": "No you just you you uh oh yeah you know as long until we get into a [unk] atmosphere you know the the uh you know they radiate so much heat that you have to have external heat"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1334.92,
+        "endTime": 1335.72,
+        "words": "Is that right?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1335.72,
+        "endTime": 1346.75,
+        "words": "Yeah Yeah even so even in the chamber we left the heaters on until we got down to you know its just you know a few Torr we've pumped the chamber way down before we took external heat off"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1350.64,
+        "endTime": 1351.6,
+        "words": "That's affirm"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1351.6,
+        "endTime": 1354.57,
+        "words": "What about the bus is that what you'd expect now?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1354.57,
+        "endTime": 1372.91,
+        "words": "Well the bus voltage uh earlier I haven't checked it lately bus voltage was high earlier but I'm sure that was because they weren't fully conditioned they were probably they still didn't have full water concentration so as soon as they wet it up to the proper concentration well then the voltage get down right See the ground"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1375.26,
+        "endTime": 1377.48,
+        "words": "Well it takes uh you know"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1377.48,
+        "endTime": 1378.39,
+        "words": "[unk] clock"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1379.12,
+        "endTime": 1407.64,
+        "words": "Uh I don't know how it takes and you know You know so many amp hours of running and I don't know you know where they are really you know. See they did part of the conditioning when they started it up and then they do part of it now in the pad you know just before uh just before liftoff so I don't know exactly where we are. It takes you it takes something like eight hours of running time say And uh I don't know how many hours they've run them."
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1411.31,
+        "endTime": 1418.37,
+        "words": "But I'm sure it's calculated to be uh conditioned by liftoff that's probably I I'm sure that was all they were trying to achieve"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1418.9,
+        "endTime": 1420.76,
+        "words": "uh we do have one question"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1420.76,
+        "endTime": 1421.17,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1421.86,
+        "endTime": 1423.08,
+        "words": "We have a red [unk]"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1423.08,
+        "endTime": 1425.57,
+        "words": "What do you expect the voltage to come up to when we put the [unk] on the line?"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1436.11,
+        "endTime": 1443.51,
+        "words": "I have to think about that a minute. I have to figure out how much this is going to come down to and then add the the batteries on with it."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1446.86,
+        "endTime": 1451.32,
+        "words": "I think we ought to be concerned with it a little bit be sure it don't go over thirty one"
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1453.64,
+        "endTime": 1455.54,
+        "words": "Okay Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1455.54,
+        "endTime": 1460.03,
+        "words": "You don't have to spend a lot of effort on it I mean just Just something I think you might want to think about."
+    },
+    {
+        "speakerID": "ECS",
+        "startTime": 1460.03,
+        "endTime": 1472.14,
+        "words": "Okay I think as long as we're keeping the fuel cells this warm you know they're going to be they're going to be pretty hot okay. Okay uh let me go on through this E.D.S. test first you know we're still running it."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1472.14,
+        "endTime": 1472.61,
+        "words": "Rog"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1661.8,
+        "endTime": 1662.71,
+        "words": "SURGEON EECOM"
+    },
+    {
+        "speakerID": "SURGEON",
+        "startTime": 1662.71,
+        "endTime": 1667.75,
+        "words": "Roger uh would you please give us the cabin uh O two concentrations when you have them?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1668.93,
+        "endTime": 1671.31,
+        "words": "They reported sixty percent quite some time ago"
+    },
+    {
+        "speakerID": "SURGEON",
+        "startTime": 1671.31,
+        "endTime": 1672.97,
+        "words": "Oh okay very good sixty"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1684.31,
+        "endTime": 1686.68,
+        "words": "Hey EECOOM CAPCOM [unk] one"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1687.46,
+        "endTime": 1688.55,
+        "words": "CAPCOM EECOM"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1689.3,
+        "endTime": 1694.38,
+        "words": "Yeah uh did I understand you to say there was an unbalanced red line you've reached on the [unk] tank?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1695.56,
+        "endTime": 1695.97,
+        "words": "Yes"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1695.97,
+        "endTime": 1701.71,
+        "words": "That was that's unbalanced between the two oxygen tanks and between the two hydrogen tanks?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1701.71,
+        "endTime": 1704.06,
+        "words": "No it's unbalanced between the two oxygen tanks"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1704.5,
+        "endTime": 1704.96,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1704.96,
+        "endTime": 1710.99,
+        "words": "Four percent is a printed red line and uh We've expanded that to five percent"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1712.67,
+        "endTime": 1718.41,
+        "words": "Okay then uh by using the heaters and fans absolutely going we'll turn all of them off"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1718.41,
+        "endTime": 1720.75,
+        "words": "That's right uh we'll turn off the fans"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1720.75,
+        "endTime": 1721.68,
+        "words": "[unk] four fifty six"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1721.68,
+        "endTime": 1723.38,
+        "words": "Turn off the heaters in tank one"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1723.96,
+        "endTime": 1725.2,
+        "words": "In tank one"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1725.2,
+        "endTime": 1725.51,
+        "words": "Yeah"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1725.51,
+        "endTime": 1726.06,
+        "words": "FLIGHT"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1735.4,
+        "endTime": 1736.86,
+        "words": "We'll wait till after"
+    },
+    {
+        "speakerID": "SPAN",
+        "startTime": 1748.18,
+        "endTime": 1749.63,
+        "words": "G.N.C. SPAN conference"
+    }
+]

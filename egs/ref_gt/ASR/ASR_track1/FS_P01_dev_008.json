@@ -1,0 +1,1346 @@
+[
+    {
+        "speakerID": "SPAN2",
+        "startTime": 0.0,
+        "endTime": 0.62,
+        "words": "Uh huh."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1.28,
+        "endTime": 5.72,
+        "words": "And after a night of looking at the strip charts I wonder if they've been able to Detect any movement of it."
+    },
+    {
+        "speakerID": "SPAN2",
+        "startTime": 15.44,
+        "endTime": 18.1,
+        "words": "I don't think I'll write a query on that I'll see if I can ask them."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 18.1,
+        "endTime": 20.57,
+        "words": "Yeah I think that's That's kind of a verbal type thing."
+    },
+    {
+        "speakerID": "SPAN2",
+        "startTime": 20.57,
+        "endTime": 21.1,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 189.47,
+        "endTime": 190.76,
+        "words": "This is A.G.C. did you call?"
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 190.76,
+        "endTime": 194.85,
+        "words": "Rog Pete it's uh Let's see on channel one can we ask you a question?"
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 195.94,
+        "endTime": 197.55,
+        "words": "If you let me call up channel one."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 198.38,
+        "endTime": 199.85,
+        "words": "Oh I will wait all day."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 202.23,
+        "endTime": 206.37,
+        "words": "We're looking at LM radar run of our radar angles and uh left hand side"
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 210.54,
+        "endTime": 211.11,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 215.55,
+        "endTime": 217.55,
+        "words": "Okay what what is A one two three four?"
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 232.36,
+        "endTime": 234.37,
+        "words": "We have rom looking at it. I gave up."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 234.97,
+        "endTime": 235.4,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 236.08,
+        "endTime": 237.27,
+        "words": "Uh hold on."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 246.21,
+        "endTime": 254.93,
+        "words": "Thank you the L.M.S. troops are eagery listening. Okay another one what what do you look at during descent? What's the best display?"
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 256.74,
+        "endTime": 271.57,
+        "words": "Uh we look at fifteen ninety four which is the L.G.C. com And uh two eighteen. Which is the uh A comparison of uh L.G.C. A.G.C. and [unk]"
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 272.44,
+        "endTime": 273.13,
+        "words": "Understand."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 280.54,
+        "endTime": 291.26,
+        "words": "M.I.T. has just given up on uh channel one. I would guess that it might belong to the uh hangs guys or the [unk] guys."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 292.86,
+        "endTime": 297.19,
+        "words": "Okay. We will ignore them unless they find differently."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 300.83,
+        "endTime": 302.45,
+        "words": "We know that stuff won't be used."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 302.93,
+        "endTime": 303.89,
+        "words": "Uh FRANK."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 303.89,
+        "endTime": 304.49,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 304.49,
+        "endTime": 305.61,
+        "words": "John just made an input."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 305.61,
+        "endTime": 306.14,
+        "words": "Oh."
+    },
+    {
+        "speakerID": "AGC1",
+        "startTime": 306.14,
+        "endTime": 308.68,
+        "words": "Uh he said this display belonged to to computer T.N."
+    },
+    {
+        "speakerID": "JOHN",
+        "startTime": 308.68,
+        "endTime": 325.88,
+        "words": "I that that's as a guess. Uh the title says meds and that usually refers to a a a manual input into the R.T.C. [unk]. In other words, as long as the the weight is above such and such number of pounds Uh everything's hunky dory as soon as it goes through the lights will light up. Or something of that nature."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 327.22,
+        "endTime": 327.69,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "JOHN",
+        "startTime": 327.69,
+        "endTime": 328.76,
+        "words": "That's a rough guess."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 349.88,
+        "endTime": 350.67,
+        "words": "[unk] here."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 352.13,
+        "endTime": 353.45,
+        "words": "Uh good morning."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 353.45,
+        "endTime": 354.64,
+        "words": "Good morning, how are you doing [unk]?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 354.64,
+        "endTime": 356.73,
+        "words": "Oh pretty good. All hyped up and ready."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 357.42,
+        "endTime": 358.36,
+        "words": "Pretty pepped up yeah."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 358.56,
+        "endTime": 359.46,
+        "words": "And I guess I'm ready."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 359.46,
+        "endTime": 361.46,
+        "words": "[laughter] Uh"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 362.27,
+        "endTime": 369.88,
+        "words": "Were you Commenting on a conversation on this loop? You I I heard you say something on another loop that seemed to fit in with our conversation."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 370.64,
+        "endTime": 371.42,
+        "words": "Or weren't you?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 371.42,
+        "endTime": 375.89,
+        "words": "Somebody was asking Bob about some R.R. angles out on display and I was telling him what they were."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 375.89,
+        "endTime": 378.96,
+        "words": "Oh I see we Uh Uh"
+    },
+    {
+        "speakerID": "RECOVERY",
+        "startTime": 378.96,
+        "endTime": 379.46,
+        "words": "FLIGHT RECOVERY."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 379.46,
+        "endTime": 380.18,
+        "words": "Would you say it again?"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 380.18,
+        "endTime": 380.49,
+        "words": "RECOVERY"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 380.49,
+        "endTime": 381.33,
+        "words": "Okay those are"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 382.24,
+        "endTime": 385.14,
+        "words": "Calibration constants for the resolvers in the R.R."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 385.61,
+        "endTime": 386.99,
+        "words": "The shaft and front end resolvers."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 388.24,
+        "endTime": 390.43,
+        "words": "Those just those just calibrate the"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 390.87,
+        "endTime": 391.62,
+        "words": "The cal curves"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 391.96,
+        "endTime": 392.56,
+        "words": "Potentially."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 392.81,
+        "endTime": 397.53,
+        "words": "Oh I see, alright. It has nothing to do with well it is not telemetry, it's what they use down"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 397.53,
+        "endTime": 398.03,
+        "words": "Oh right."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 398.62,
+        "endTime": 399.03,
+        "words": "Right."
+    },
+    {
+        "speakerID": "FRANK",
+        "startTime": 399.43,
+        "endTime": 400.71,
+        "words": "I see you thank you very much."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 400.71,
+        "endTime": 401.43,
+        "words": "Yeah thank you."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 426.73,
+        "endTime": 427.2,
+        "words": "Go."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 484.82,
+        "endTime": 486.3,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 487.48,
+        "endTime": 488.17,
+        "words": "Go TRAJECTORY."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 488.76,
+        "endTime": 489.51,
+        "words": "Seventy three."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 500.47,
+        "endTime": 501.35,
+        "words": "TRAJECTORY [unk]"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 505.44,
+        "endTime": 510.04,
+        "words": "Okay all flight controllers, anybody who hasn't completed handover will you please give me an amber?"
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 512.88,
+        "endTime": 513.91,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 516.32,
+        "endTime": 517.54,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "FEMALE1",
+        "startTime": 520.01,
+        "endTime": 521.61,
+        "words": "You Work."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 521.61,
+        "endTime": 522.73,
+        "words": "[unk] we'll be applying in about"
+    },
+    {
+        "speakerID": "FEMALE1",
+        "startTime": 522.73,
+        "endTime": 523.87,
+        "words": "That's the first time you tried?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 523.87,
+        "endTime": 524.82,
+        "words": "[unk] we should be [unk]"
+    },
+    {
+        "speakerID": "FEMALE1",
+        "startTime": 524.82,
+        "endTime": 528.58,
+        "words": "Okay thank you very much. Okay bye bye."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 528.67,
+        "endTime": 533.45,
+        "words": "Sure we get off to a good start on the activation because then I got the key to the whole descent business so let's"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 534.23,
+        "endTime": 535.59,
+        "words": "Make sure we're on our work schedules."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 535.59,
+        "endTime": 536.85,
+        "words": "FLIGHT PLAN SUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 536.85,
+        "endTime": 537.83,
+        "words": "Work schedules give me a yell."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 556.91,
+        "endTime": 558.29,
+        "words": "TRAJECTORY FLIGHTPLANSUPPORT."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 558.29,
+        "endTime": 562.69,
+        "words": "Rog, disregard that data standby one they're checking think it may have something wrong."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 562.69,
+        "endTime": 563.17,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 609.65,
+        "endTime": 610.84,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 620.37,
+        "endTime": 621.95,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 638.44,
+        "endTime": 640.22,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY on conference."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 640.8,
+        "endTime": 641.22,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 641.7,
+        "endTime": 651.17,
+        "words": "Rog on uh this input you brought down here, would you verify that this column under roll is actually the middle gimbal for the LM and the column under yaw is actually the outer gimbal to the LM?"
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 652.36,
+        "endTime": 653.21,
+        "words": "Uh standby."
+    },
+    {
+        "speakerID": "TRACK",
+        "startTime": 705.88,
+        "endTime": 706.73,
+        "words": "TELCOM TRACK."
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 706.73,
+        "endTime": 707.91,
+        "words": "Uh TRAJECTORY FLIGHTPLAN."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 707.91,
+        "endTime": 708.38,
+        "words": "Go."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 709.01,
+        "endTime": 718.48,
+        "words": "Okay uh The columns the numbers under R should be outer gimbal angle and the stuff under B is inner and the stuff under Y is middle."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 719.51,
+        "endTime": 723.45,
+        "words": "Okay so the LM uh outer inner middle middle angles."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 723.82,
+        "endTime": 724.57,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 725.0,
+        "endTime": 727.35,
+        "words": "The quantities under R are outer."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 727.49,
+        "endTime": 728.33,
+        "words": "Uh roger."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 728.33,
+        "endTime": 729.34,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "SPAN",
+        "startTime": 921.4,
+        "endTime": 922.36,
+        "words": "RADIATION SPAN."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 922.99,
+        "endTime": 924.06,
+        "words": "SPAN EECOM [unk]"
+    },
+    {
+        "speakerID": "SPAN",
+        "startTime": 926.84,
+        "endTime": 927.49,
+        "words": "Go ahead EECOM."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 928.18,
+        "endTime": 929.34,
+        "words": "Having a little trouble [unk]"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 931.84,
+        "endTime": 932.47,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 933.28,
+        "endTime": 933.9,
+        "words": "Yes then."
+    },
+    {
+        "speakerID": "SPAN",
+        "startTime": 936.77,
+        "endTime": 937.68,
+        "words": "RADIATION SPAN."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1012.56,
+        "endTime": 1013.18,
+        "words": "NETWORK from FLIGHT."
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1015.0,
+        "endTime": 1015.65,
+        "words": "NETWORK FLIGHT."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1015.65,
+        "endTime": 1017.56,
+        "words": "Rog did [unk] hand over there yet?"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1017.56,
+        "endTime": 1018.15,
+        "words": "Yes sir."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1018.15,
+        "endTime": 1020.15,
+        "words": "Okay give me a green please how about you EECOM?"
+    },
+    {
+        "speakerID": "EECOM2",
+        "startTime": 1026.01,
+        "endTime": 1027.4,
+        "words": "I think handover's handover's complete."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1027.4,
+        "endTime": 1028.18,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1028.77,
+        "endTime": 1030.82,
+        "words": "Leave an amber until he gets back and lets me know for sure."
+    },
+    {
+        "speakerID": "EECOM2",
+        "startTime": 1030.82,
+        "endTime": 1031.41,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "CAPCOM2",
+        "startTime": 1087.8,
+        "endTime": 1088.4,
+        "words": "FLIGHT CAPCOM."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1088.59,
+        "endTime": 1089.14,
+        "words": "Go CAPCOM."
+    },
+    {
+        "speakerID": "CAPCOM2",
+        "startTime": 1089.39,
+        "endTime": 1100.39,
+        "words": "I got a procedure here that came out of the SPAN room uh for docking probe pre-load malfunction procedure that uh It it's if he has problem preloading the probe have you seen it?"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1100.64,
+        "endTime": 1101.24,
+        "words": "No I have not."
+    },
+    {
+        "speakerID": "CAPCOM2",
+        "startTime": 1101.44,
+        "endTime": 1122.15,
+        "words": "Okay it uh something I don't think we're going to read up to him um It's it's quite lengthy so sort of almost like the water bag thing, uh The only trouble is that he has trouble preloading it's going to be on the back side and he's not supposed to use this procedure in the uh checklist. Uh Think we're going to talk about this look over the I want you to look over and see what you think."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1122.15,
+        "endTime": 1123.66,
+        "words": "Okay. Why don't you pass that up?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1176.96,
+        "endTime": 1177.62,
+        "words": "FLIGHT from GUIDANCE."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1177.95,
+        "endTime": 1178.46,
+        "words": "Go GUIDANCE."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1178.46,
+        "endTime": 1181.09,
+        "words": "Let me tell you what I think we'll do here in this AGS abort constance."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1181.74,
+        "endTime": 1181.96,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1181.96,
+        "endTime": 1204.09,
+        "words": "Uh It turns out we will not have to They're made to run and only one of them Uh is different from what they've got loaded on board. However, if you look at their checklist they have four blanks. And I would think they way to go here is just read all the numbers up like we have done every time. Uh that way we won't have to we'll probably use more words than if we Told them Roger."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1204.84,
+        "endTime": 1206.99,
+        "words": "Okay and you don't have to uplink the L.D.C. abort constance."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1206.99,
+        "endTime": 1211.04,
+        "words": "That is affirmative the ones on the Soon as we do the EMOD we'll know they're in there FLIGHT."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1211.04,
+        "endTime": 1211.33,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "PROCEDURES",
+        "startTime": 1242.01,
+        "endTime": 1243.09,
+        "words": "G.N.N. PROCEDURES [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1243.09,
+        "endTime": 1247.27,
+        "words": "Hello I'd like to place a long distance call to Dallas and charge it to my home phone."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1248.77,
+        "endTime": 1249.63,
+        "words": "To Dallas what?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1250.33,
+        "endTime": 1252.11,
+        "words": "I would like to charge it to my home phone."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1252.11,
+        "endTime": 1252.64,
+        "words": "Alright."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1255.34,
+        "endTime": 1256.26,
+        "words": "Which phone is it?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1256.26,
+        "endTime": 1259.02,
+        "words": "G.R. four two one three five."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1260.62,
+        "endTime": 1261.13,
+        "words": "[unk] HOUSTON"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1262.18,
+        "endTime": 1262.6,
+        "words": "Pardon me?"
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1262.6,
+        "endTime": 1263.36,
+        "words": "You're in Houston?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1263.61,
+        "endTime": 1264.0,
+        "words": "Yes."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1264.0,
+        "endTime": 1267.19,
+        "words": "Alright. The number in Dallas?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1267.19,
+        "endTime": 1270.17,
+        "words": "Andrew two five one six one."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1272.15,
+        "endTime": 1275.01,
+        "words": "And I would like to speak to Lieutenant Colonel [unk] sparks."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1275.91,
+        "endTime": 1276.63,
+        "words": "Alright."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1276.63,
+        "endTime": 1280.27,
+        "words": "And he can probably be reached in the marine corps reserve [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1326.99,
+        "endTime": 1327.79,
+        "words": "Stay on the line."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1327.79,
+        "endTime": 1334.89,
+        "words": "[unk] Colonel [unk] sparks please [unk] on the line. [unk] he can be reached through the marine corps reserves [unk]"
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1339.93,
+        "endTime": 1342.66,
+        "words": "Lieutenant Colonal [unk] Sparks please on [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1399.78,
+        "endTime": 1400.23,
+        "words": "No."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1400.69,
+        "endTime": 1401.41,
+        "words": "Colonel Sparks"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1401.41,
+        "endTime": 1401.61,
+        "words": "Yes."
+    },
+    {
+        "speakerID": "FEMALE2",
+        "startTime": 1401.61,
+        "endTime": 1402.02,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1402.33,
+        "endTime": 1402.92,
+        "words": "Hello flight."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1404.36,
+        "endTime": 1404.91,
+        "words": "How you doing?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1404.91,
+        "endTime": 1406.05,
+        "words": "Alright you alright?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1406.05,
+        "endTime": 1407.97,
+        "words": "Yeah yeah I didn't make it this weekend."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1407.97,
+        "endTime": 1408.52,
+        "words": "Huh?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1408.52,
+        "endTime": 1409.83,
+        "words": "I didn't make it up there this weekend."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1411.76,
+        "endTime": 1413.2,
+        "words": "Uh huh who is this?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1413.2,
+        "endTime": 1414.37,
+        "words": "This is Buck [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1414.37,
+        "endTime": 1415.6,
+        "words": "Oh yeah, uh huh."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1416.12,
+        "endTime": 1419.78,
+        "words": "Hey what I was calling about see if I can just like get arranged to make it next weekend."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1419.78,
+        "endTime": 1420.61,
+        "words": "I beg your pardon?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1421.16,
+        "endTime": 1423.47,
+        "words": "Can you set it up for me to make it there next weekend?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1424.86,
+        "endTime": 1425.7,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1426.2,
+        "endTime": 1429.43,
+        "words": "I tell you what let me [unk] talk to [unk] see if he'll get you winged over."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1431.01,
+        "endTime": 1433.02,
+        "words": "You hadn't already arranged for your wing over?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1433.02,
+        "endTime": 1435.64,
+        "words": "No I couldn't because of the uncertainty about the mission schedule."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1435.64,
+        "endTime": 1436.44,
+        "words": "I see."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1437.73,
+        "endTime": 1438.21,
+        "words": "Well"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1438.89,
+        "endTime": 1439.73,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1440.9,
+        "endTime": 1444.51,
+        "words": "Let me see him and uh I'll drop you a note to mail this morning Buck."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1444.51,
+        "endTime": 1445.89,
+        "words": "Okay I appreciate it Clay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1445.89,
+        "endTime": 1446.67,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1446.67,
+        "endTime": 1447.14,
+        "words": "Thank you."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1447.14,
+        "endTime": 1447.74,
+        "words": "Thanks for calling."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1447.74,
+        "endTime": 1448.06,
+        "words": "Goodnight."
+    },
+    {
+        "speakerID": "PROCEDURES",
+        "startTime": 1451.22,
+        "endTime": 1452.08,
+        "words": "G.N.C. PROCEDURES"
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1453.71,
+        "endTime": 1454.36,
+        "words": "Go ahead PRO."
+    },
+    {
+        "speakerID": "PRO2",
+        "startTime": 1454.36,
+        "endTime": 1456.48,
+        "words": "Can I get G.N.N. up on this loop for a moment?"
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1458.32,
+        "endTime": 1459.1,
+        "words": "Yeah won't he answer?"
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 1460.2,
+        "endTime": 1461.41,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1462.34,
+        "endTime": 1463.25,
+        "words": "G.N.N. G.N.C."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1463.25,
+        "endTime": 1464.5,
+        "words": "How many plans do they got run?"
+    },
+    {
+        "speakerID": "GNN",
+        "startTime": 1464.74,
+        "endTime": 1465.27,
+        "words": "Go G.N.C."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1465.74,
+        "endTime": 1466.3,
+        "words": "Yes [unk]"
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1466.3,
+        "endTime": 1468.24,
+        "words": "Will you talk to PROCEDURES on systems one?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1468.24,
+        "endTime": 1470.35,
+        "words": "C.S.M. and LM be zero is that right?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1470.35,
+        "endTime": 1471.13,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1471.13,
+        "endTime": 1471.67,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNN",
+        "startTime": 1471.67,
+        "endTime": 1472.19,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "PROP2",
+        "startTime": 1474.4,
+        "endTime": 1475.47,
+        "words": "G.N.C. PROPULSION TWO."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1476.44,
+        "endTime": 1477.26,
+        "words": "Go PROP2."
+    },
+    {
+        "speakerID": "PROP2",
+        "startTime": 1477.26,
+        "endTime": 1481.42,
+        "words": "Hey I did you catch that P.T.U. I sent you there just about thirty seconds ago."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1481.71,
+        "endTime": 1482.32,
+        "words": "Sure did."
+    },
+    {
+        "speakerID": "PROP2",
+        "startTime": 1482.32,
+        "endTime": 1482.81,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1483.7,
+        "endTime": 1484.76,
+        "words": "Who's west then you or me?"
+    },
+    {
+        "speakerID": "PROP2",
+        "startTime": 1485.37,
+        "endTime": 1486.34,
+        "words": "I believe it's you."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1488.66,
+        "endTime": 1490.01,
+        "words": "Yeah I'd like to [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1490.01,
+        "endTime": 1491.98,
+        "words": "Yeah we're on station [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1505.73,
+        "endTime": 1508.87,
+        "words": "And [unk] and I believe we better coordinate [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1510.26,
+        "endTime": 1514.77,
+        "words": "Okay your plan calls for eight but they're in four down there I didn't want to check [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1514.77,
+        "endTime": 1515.45,
+        "words": "Go."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1515.45,
+        "endTime": 1519.46,
+        "words": "Going over your work schedule for this uh pass looks like we've got the C.S.M. state vector."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1519.83,
+        "endTime": 1520.51,
+        "words": "Affirmative."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1521.92,
+        "endTime": 1522.99,
+        "words": "For the C.S.M.?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1522.99,
+        "endTime": 1523.39,
+        "words": "Yes sir."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1523.89,
+        "endTime": 1525.58,
+        "words": "Okay and the DAP data load."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1526.26,
+        "endTime": 1527.06,
+        "words": "The DAP data load."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1527.06,
+        "endTime": 1527.43,
+        "words": "RETRO."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1527.43,
+        "endTime": 1527.9,
+        "words": "RETRO."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1527.9,
+        "endTime": 1528.34,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1531.38,
+        "endTime": 1532.03,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1554.15,
+        "endTime": 1555.19,
+        "words": "PROPULSION G.N.C."
+    },
+    {
+        "speakerID": "PROP1",
+        "startTime": 1556.37,
+        "endTime": 1557.17,
+        "words": "Go G.N.C."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1557.52,
+        "endTime": 1561.03,
+        "words": "Is this C.S.M. one weight on the delta V form a two man a one man or three man?"
+    },
+    {
+        "speakerID": "PROP1",
+        "startTime": 1563.44,
+        "endTime": 1565.69,
+        "words": "On the delta V form is where we are right now."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1565.69,
+        "endTime": 1566.66,
+        "words": "Three man okay?"
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1599.79,
+        "endTime": 1600.63,
+        "words": "Copy G.N.C."
+    },
+    {
+        "speakerID": "PROP1",
+        "startTime": 1601.17,
+        "endTime": 1601.54,
+        "words": "Go."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1604.32,
+        "endTime": 1607.17,
+        "words": "Is one four three five O still the W.P.U. on S.P.S.?"
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 1607.96,
+        "endTime": 1609.37,
+        "words": "TRAJECTORY FLIGHTPLANSUPPORT."
+    },
+    {
+        "speakerID": "PROP1",
+        "startTime": 1611.59,
+        "endTime": 1612.96,
+        "words": "Roger that, that's the latest."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1613.71,
+        "endTime": 1614.45,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1616.73,
+        "endTime": 1620.16,
+        "words": "After all the weight's [unk] with everything else that is. Our number"
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 1627.59,
+        "endTime": 1628.9,
+        "words": "FLIGHTPLANSUPPORT TRAJECTORY."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 1628.9,
+        "endTime": 1634.15,
+        "words": "Hey could you bring over those uh [unk] angles uh we don't believe the state angles are [unk]"
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 1635.69,
+        "endTime": 1640.28,
+        "words": "Okay we [unk] We can have scoot it over if you'd like."
+    },
+    {
+        "speakerID": "FLIGHTPLANSUPPORT",
+        "startTime": 1640.28,
+        "endTime": 1641.84,
+        "words": "Yeah we'd like to look at the whole thing."
+    },
+    {
+        "speakerID": "TRAJECTORY",
+        "startTime": 1641.84,
+        "endTime": 1643.18,
+        "words": "Okay, will do."
+    },
+    {
+        "speakerID": "FD",
+        "startTime": 1744.18,
+        "endTime": 1753.43,
+        "words": "Okay all flight controllers We should be acquiring in about three and a half minutes, we should be somewhere around activation eighteen. Let's standby and monitor the voice loop and let's get cracking."
+    },
+    {
+        "speakerID": "GNC2",
+        "startTime": 1757.88,
+        "endTime": 1758.88,
+        "words": "G.N.N. G.N.C."
+    },
+    {
+        "speakerID": "GNN",
+        "startTime": 1763.49,
+        "endTime": 1766.55,
+        "words": "C.S.M. Uh G.N.N. on your loop LM PROPULSION."
+    },
+    {
+        "speakerID": "GNN",
+        "startTime": 1772.13,
+        "endTime": 1782.06,
+        "words": "Uh It appears that we've already uh agreed on the format. Do you have a copy of that uh Of those agreed-on formats for these each of these passes?"
+    }
+]

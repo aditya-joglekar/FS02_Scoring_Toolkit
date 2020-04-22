@@ -1,0 +1,932 @@
+[
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 10.54,
+        "endTime": 11.58,
+        "words": "Here let me see if it'll open now."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 13.29,
+        "endTime": 13.6,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 27.45,
+        "endTime": 29.01,
+        "words": "[unk] R.C.U. [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 109.36,
+        "endTime": 110.06,
+        "words": "It's unlocked?"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 110.76,
+        "endTime": 111.61,
+        "words": "It's unlocked yeah."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 124.3,
+        "endTime": 125.18,
+        "words": "Alright good enough."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 169.99,
+        "endTime": 172.05,
+        "words": "[unk] In the background."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 175.94,
+        "endTime": 176.89,
+        "words": "I have a uh"
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 179.57,
+        "endTime": 180.41,
+        "words": "Commence [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 181.41,
+        "endTime": 183.71,
+        "words": "I've got a little bit of a [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 185.8,
+        "endTime": 187.26,
+        "words": "Uh I don't guess I hear that."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 222.93,
+        "endTime": 226.33,
+        "words": "NEIL this is HOUSTON, what's your status on hatch opening?"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 229.39,
+        "endTime": 240.92,
+        "words": "Uh Everything is go here, we're just waiting for the uh Cabin pressure to [unk] Uh to a low enough pressure to uh open the hatch. It's about point one on our gauge now."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 255.46,
+        "endTime": 260.2,
+        "words": "May have to tug on that thing. Alternative would be to Open"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 267.25,
+        "endTime": 268.83,
+        "words": "Uh NEIL this is HOUSTON over."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 272.68,
+        "endTime": 273.4,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 273.61,
+        "endTime": 283.35,
+        "words": "HOUSTON. Uh roger we're showing a relatively static pressure uh on your cabin. Uh do you think you can open the hatch at this pressure about point one two P.S.I.?"
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 286.38,
+        "endTime": 287.37,
+        "words": "Uh we're going to try."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 302.36,
+        "endTime": 303.57,
+        "words": "Uh the hatch is coming open."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 308.25,
+        "endTime": 311.01,
+        "words": "Okay hold up the [unk] and I'll get the valve to him."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 311.36,
+        "endTime": 313.74,
+        "words": "Okay. Now I'd better get off here."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 339.11,
+        "endTime": 340.23,
+        "words": "[unk] Valves [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 340.7,
+        "endTime": 341.26,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 349.88,
+        "endTime": 351.14,
+        "words": "Now you want to pull it up to forward"
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 375.14,
+        "endTime": 375.86,
+        "words": "It was yeah."
+    },
+    {
+        "speakerID": "MCCFILEspk5",
+        "startTime": 377.04,
+        "endTime": 378.11,
+        "words": "Mine hasn't cleared yet."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 384.61,
+        "endTime": 385.89,
+        "words": "COLUMBIA this is HOUSTON."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 390.76,
+        "endTime": 391.45,
+        "words": "COLUMBIA go ahead."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 392.67,
+        "endTime": 398.69,
+        "words": "COLUMBIA this is HOUSTON we'd like you to Cycle a band in cryo hydrogen tank number one"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 398.69,
+        "endTime": 399.11,
+        "words": "Yeah"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 399.29,
+        "endTime": 408.62,
+        "words": "And L.O.S. time this orbit. Is One one one One niner Three one."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 409.34,
+        "endTime": 409.82,
+        "words": "Go"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 413.03,
+        "endTime": 417.61,
+        "words": "Correction make that for uh the next orbit. You already have a A.O.S. L.O.S. for this orbit."
+    },
+    {
+        "speakerID": "MCCFILEspk7",
+        "startTime": 425.1,
+        "endTime": 430.74,
+        "words": "Roger [unk] cycle a fan at cryo [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 431.12,
+        "endTime": 431.79,
+        "words": "Roger out."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 477.96,
+        "endTime": 478.62,
+        "words": "RETRO GUIDANCE."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 481.59,
+        "endTime": 482.24,
+        "words": "Go GUIDANCE."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 482.24,
+        "endTime": 483.6,
+        "words": "Did you get those pads set down?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 483.6,
+        "endTime": 489.96,
+        "words": "Yes sir I got them all [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 489.96,
+        "endTime": 490.9,
+        "words": "Is your water valve on?"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 491.55,
+        "endTime": 492.57,
+        "words": "Okay here it is."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 494.74,
+        "endTime": 495.83,
+        "words": "Okay [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 607.88,
+        "endTime": 619.05,
+        "words": "COLUMBIA this is HOUSTON. We show you're nearing high gain antenna scan limit. When you lose lock on us we request omni delta. Omni delta when you lose lock over."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 625.06,
+        "endTime": 626.19,
+        "words": "Roger omni delta."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 643.68,
+        "endTime": 644.33,
+        "words": "RETRO GUIDANCE."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 644.33,
+        "endTime": 645.26,
+        "words": "Go GUIDANCE"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 645.26,
+        "endTime": 650.33,
+        "words": "[unk] Fifty four seven five trigger different on the pad than on the tube right now"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 650.65,
+        "endTime": 651.21,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 652.62,
+        "endTime": 654.92,
+        "words": "We take the gimbal angle out of the downlink."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 664.71,
+        "endTime": 669.68,
+        "words": "Really we can't Really define these until we have seen this last alignment."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 675.3,
+        "endTime": 678.77,
+        "words": "At the time. And I've redefined those attitudes [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 682.68,
+        "endTime": 683.12,
+        "words": "Fine."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 683.67,
+        "endTime": 685.01,
+        "words": "I just wanted to point that out to you."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 685.01,
+        "endTime": 685.29,
+        "words": "Yeah"
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 709.38,
+        "endTime": 712.76,
+        "words": "For the P twenty one this time LM uh C.S.M. [unk] LM"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 713.6,
+        "endTime": 720.65,
+        "words": "Now [unk] rest mat and then we can use either one [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 726.48,
+        "endTime": 730.4,
+        "words": "Okay. I can give you the associated gimbal angles."
+    },
+    {
+        "speakerID": "MCCFILEspk7",
+        "startTime": 730.4,
+        "endTime": 732.96,
+        "words": "Flight call [unk] secondary circuit breaker open"
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 733.93,
+        "endTime": 735.08,
+        "words": "Hello [unk] Computer"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 735.59,
+        "endTime": 740.12,
+        "words": "Well Forty five degrees from the vertical through the This way."
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 744.3,
+        "endTime": 745.03,
+        "words": "Through the LM."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 745.66,
+        "endTime": 747.43,
+        "words": "[unk] FLIGHT [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 768.15,
+        "endTime": 769.52,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 783.63,
+        "endTime": 785.27,
+        "words": "Well I'm looking here now and I'll get it."
+    },
+    {
+        "speakerID": "MCCFILEspk9",
+        "startTime": 801.08,
+        "endTime": 801.93,
+        "words": "[unk] Antennas out."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 826.57,
+        "endTime": 836.13,
+        "words": "I [unk] go down. They would not twist down? Put the bag up this way. That's even."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 839.27,
+        "endTime": 840.18,
+        "words": "Are you hooked up there?"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 843.0,
+        "endTime": 844.56,
+        "words": "Okay now we need to hook this"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 845.74,
+        "endTime": 846.88,
+        "words": "[unk] Leave that up there."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 852.61,
+        "endTime": 853.81,
+        "words": "Okay your visor"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 871.64,
+        "endTime": 874.87,
+        "words": "Alright now it's on top of the [unk] Forward and up."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 882.95,
+        "endTime": 888.18,
+        "words": "Stay down. Go back a little bit. I need room."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 891.22,
+        "endTime": 891.92,
+        "words": "Get it lined up."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 895.12,
+        "endTime": 897.65,
+        "words": "Toward me a little bit. Down. Okay now you're clear."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 898.78,
+        "endTime": 899.93,
+        "words": "It's technically [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 901.71,
+        "endTime": 902.33,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 902.33,
+        "endTime": 903.0,
+        "words": "You still in here?"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 904.81,
+        "endTime": 907.97,
+        "words": "I moved Your uh roll for the [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 910.34,
+        "endTime": 914.47,
+        "words": "Okay now you're clear. You're lined up on the platform."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 915.1,
+        "endTime": 917.35,
+        "words": "Put your left foot uh to the right a little bit."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 918.74,
+        "endTime": 922.28,
+        "words": "Okay that's good. Pull out."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 940.49,
+        "endTime": 945.99,
+        "words": "Okay not quite squared away. Over. Right a little."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 948.81,
+        "endTime": 949.62,
+        "words": "Okay you're even."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 950.6,
+        "endTime": 951.47,
+        "words": "And that's okay."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 951.6,
+        "endTime": 952.1,
+        "words": "That's good."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 954.54,
+        "endTime": 955.92,
+        "words": "Got plenty of room to your left."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 960.05,
+        "endTime": 960.84,
+        "words": "[unk] Back."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 964.16,
+        "endTime": 964.74,
+        "words": "How am I doing?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 965.32,
+        "endTime": 966.04,
+        "words": "You're fine"
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 987.82,
+        "endTime": 989.0,
+        "words": "Okay you want this side?"
+    },
+    {
+        "speakerID": "MCCFILEspk10",
+        "startTime": 989.59,
+        "endTime": 989.86,
+        "words": "Go."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 998.08,
+        "endTime": 998.37,
+        "words": "Got it."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1013.46,
+        "endTime": 1015.04,
+        "words": "Okay HOUSTON I'm on the porch."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1016.95,
+        "endTime": 1017.88,
+        "words": "Roger NEIL."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1033.12,
+        "endTime": 1039.26,
+        "words": "Okay standby NEIL. COLUMBIA COLUMBIA this is HOUSTON one minute thirty seconds L.O.S. all systems go over."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 1044.72,
+        "endTime": 1045.0,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1046.07,
+        "endTime": 1046.67,
+        "words": "[unk] Flight."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1095.63,
+        "endTime": 1096.59,
+        "words": "Any more flight [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 1098.1,
+        "endTime": 1098.58,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 1114.07,
+        "endTime": 1115.92,
+        "words": "Okay everything's nice and straight in here."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1116.81,
+        "endTime": 1118.52,
+        "words": "Okay can you pull the door open a little more?"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1121.5,
+        "endTime": 1121.85,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1125.11,
+        "endTime": 1126.36,
+        "words": "Did you get some [unk] down?"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1126.71,
+        "endTime": 1127.59,
+        "words": "I'm going to pull it now."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1136.98,
+        "endTime": 1138.63,
+        "words": "HOUSTON the mesa came down alright."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 1139.68,
+        "endTime": 1140.18,
+        "words": "Go FIDO."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1140.21,
+        "endTime": 1144.15,
+        "words": "HOUSTON roger we copy and we're standing by for your C.D.D."
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 1145.38,
+        "endTime": 1147.63,
+        "words": "DAP data ready to go for these next few times"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1148.69,
+        "endTime": 1153.65,
+        "words": "I I think he had made an agreement with the flight plan people, we won't pass these new T times now until one twelve"
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 1156.49,
+        "endTime": 1157.66,
+        "words": "Wait two hours."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1161.29,
+        "endTime": 1168.65,
+        "words": "NEIL this is HOUSTON loud and clear. Break break BUZZ this is HOUSTON uh radio check and verify T.V. circuit breaker in."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1171.06,
+        "endTime": 1171.82,
+        "words": "Thanks [unk]"
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1172.58,
+        "endTime": 1174.14,
+        "words": "Roger T.V. circuit breaker is there."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1174.14,
+        "endTime": 1175.39,
+        "words": "BOOSTER [unk] EECOM"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1176.07,
+        "endTime": 1177.4,
+        "words": "Go ahead [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1182.47,
+        "endTime": 1187.04,
+        "words": "Yeah we're getting a picture on the T.V. T.V."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1189.75,
+        "endTime": 1197.27,
+        "words": "Uh there's a great deal of contrast in it and Currently it's upside down on the monitor but we can make out a fair amount of detail."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1206.92,
+        "endTime": 1212.17,
+        "words": "Okay would you verify the position uh The opening eye of the [unk] on the camera"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1227.68,
+        "endTime": 1229.93,
+        "words": "Okay NEIL we when you're [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1237.96,
+        "endTime": 1248.91,
+        "words": "Okay I just checked here. Getting back up to this first step for O two uh [unk] Collapse too far but uh it [unk] to get back up."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1265.04,
+        "endTime": 1266.33,
+        "words": "BUZZ this is HOUSTON."
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1266.52,
+        "endTime": 1266.9,
+        "words": "Yeah"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1267.99,
+        "endTime": 1271.88,
+        "words": "One one sixtieth second For shadow photography on the big one."
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1275.24,
+        "endTime": 1275.8,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1277.2,
+        "endTime": 1279.33,
+        "words": "I'm uh at the foot of the ladder."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1283.31,
+        "endTime": 1301.54,
+        "words": "Uh Depressed in the surface about Uh One or two inches. Although the Uh Very Very fine grains as you get close to it it's Almost like a powder. Down there. Uh it's very fine."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1313.94,
+        "endTime": 1315.35,
+        "words": "I'm going to step off the LM now."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1325.2,
+        "endTime": 1327.5,
+        "words": "It's one small step for man,"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1330.16,
+        "endTime": 1332.89,
+        "words": "One Giant leap for mankind."
+    },
+    {
+        "speakerID": "MCCFILEspk",
+        "startTime": 1351.91,
+        "endTime": 1353.47,
+        "words": "This is the [unk]"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1353.74,
+        "endTime": 1367.49,
+        "words": "It can It can Pick it up loosely with my [unk] It does Appear Uh Like a powdered charcoal To the uh To the"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1372.71,
+        "endTime": 1387.79,
+        "words": "I only go in uh Small fraction of an inch, maybe an inch but [unk] footprint Of my uh boot from the trip In the Fine Sandy particles."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1391.08,
+        "endTime": 1392.57,
+        "words": "NEIL this is HOUSTON we're copying."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1405.94,
+        "endTime": 1424.19,
+        "words": "Uh There seems to be no difficulty in moving around this As we suspected uh It's even Perhaps easier than the simulations of one six G that Uh we performed uh Simulations on the ground."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1426.53,
+        "endTime": 1431.08,
+        "words": "Thankfully no trouble to uh [unk] Around."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1438.75,
+        "endTime": 1439.32,
+        "words": "The uh"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1441.54,
+        "endTime": 1464.03,
+        "words": "Descent engine did not leave a crater Of any Size it's uh Has about one foot clearance on the ground. We're uh essentially on a very level place here. Uh I can see uh some evidence of uh Of rays eminating from the descent engine but uh Very insignificant amount."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1475.73,
+        "endTime": 1477.2,
+        "words": "Okay BUZZ we ready to uh"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1479.7,
+        "endTime": 1480.59,
+        "words": "Take down the camera?"
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1480.83,
+        "endTime": 1484.87,
+        "words": "I'm all ready [unk] the All squared away in good shape"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1485.78,
+        "endTime": 1486.15,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1488.2,
+        "endTime": 1492.87,
+        "words": "[unk] Out all the L.E.C. [unk] looks like it's coming out [unk]"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1495.32,
+        "endTime": 1508.38,
+        "words": "Okay it's uh Quite dark here in the shade, a little hard for me to see but I have good footing. And I'll work my way over into the Sunlight here without Looking directly into the sun."
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1534.44,
+        "endTime": 1535.93,
+        "words": "Yeah I think it's doing the wrong one."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1537.72,
+        "endTime": 1543.62,
+        "words": "I've just Okay I'm ready to pull it down now. It was still a little bit Uh [unk] In the"
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1543.62,
+        "endTime": 1545.17,
+        "words": "Okay [unk]"
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1546.0,
+        "endTime": 1546.41,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1560.1,
+        "endTime": 1566.98,
+        "words": "Uh Looking up at the LM, I'm uh I'm standing directly in the shadow now looking up at uh Buzz in the window."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1570.61,
+        "endTime": 1580.55,
+        "words": "And uh I can see everything quite clearly, the light is Uh Efficiently uh Bright, backlighted into the front of the LM but everything is very clearly visible."
+    },
+    {
+        "speakerID": "BUZZ",
+        "startTime": 1598.78,
+        "endTime": 1600.39,
+        "words": "Okay I'm going to be changing this stuff."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1601.75,
+        "endTime": 1602.06,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1687.74,
+        "endTime": 1690.41,
+        "words": "I have the camera installed on the I.P.U. bracket."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1697.97,
+        "endTime": 1700.6,
+        "words": "I'm still in the L.E.C. on the secondary stretch."
+    },
+    {
+        "speakerID": "NEIL",
+        "startTime": 1717.69,
+        "endTime": 1719.98,
+        "words": "I'll step out and take some of my first pictures."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1730.88,
+        "endTime": 1737.42,
+        "words": "Roger NEIL we're reading you loud and clear. I see you getting some pictures and uh the contingency sample."
+    }
+]

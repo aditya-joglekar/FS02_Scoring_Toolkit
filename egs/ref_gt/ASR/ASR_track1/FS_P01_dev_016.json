@@ -1,0 +1,566 @@
+[
+    {
+        "speakerID": "UNK",
+        "startTime": 0.16,
+        "endTime": 2.34,
+        "words": "The wrong time when you send your board B"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 2.62,
+        "endTime": 3.4,
+        "words": "uh off"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 3.69,
+        "endTime": 6.04,
+        "words": "uh you'll have probably have just to toggle twice."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 6.33,
+        "endTime": 7.11,
+        "words": "Hit it twice?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 7.66,
+        "endTime": 8.18,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 8.18,
+        "endTime": 10.94,
+        "words": "If it doesn't go up the first time, return neutral and then do it again."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 10.94,
+        "endTime": 11.37,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 132.28,
+        "endTime": 133.31,
+        "words": "C.F.D. FLIGHT."
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 136.01,
+        "endTime": 136.57,
+        "words": "Go ahead FLIGHT."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 138.17,
+        "endTime": 141.16,
+        "words": "Uh Is there a saving procedure any part here?"
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 142.3,
+        "endTime": 144.51,
+        "words": "Uh we state Up now."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 145.29,
+        "endTime": 146.59,
+        "words": "We did we stay armed now?"
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 146.59,
+        "endTime": 147.03,
+        "words": "Yes."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 147.75,
+        "endTime": 148.15,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 152.2,
+        "endTime": 154.57,
+        "words": "The cutter's off and we stay on it at MILA."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 155.53,
+        "endTime": 156.18,
+        "words": "FLIGHT NETWORK."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 156.36,
+        "endTime": 156.62,
+        "words": "Go."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 157.17,
+        "endTime": 158.25,
+        "words": "Did you want to stay on?"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 159.06,
+        "endTime": 161.19,
+        "words": "That's what these men are telling me here we stay on it"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 161.93,
+        "endTime": 162.49,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 193.97,
+        "endTime": 194.61,
+        "words": "FLIGHT NETWORK."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 194.99,
+        "endTime": 195.29,
+        "words": "Go."
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 195.68,
+        "endTime": 199.59,
+        "words": "Yeah my count calls for us to save MILA until we do the booster check at one twenty."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 200.51,
+        "endTime": 201.06,
+        "words": "A.F.D."
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 203.29,
+        "endTime": 203.61,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 205.12,
+        "endTime": 208.87,
+        "words": "Uh That's the point of my question. Should we not save here?"
+    },
+    {
+        "speakerID": "AFD",
+        "startTime": 211.69,
+        "endTime": 216.36,
+        "words": "We have some more command checks. The booster command checks at what one twenty or something like that?"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 216.36,
+        "endTime": 216.77,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 221.53,
+        "endTime": 222.31,
+        "words": "Stay armed"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 223.82,
+        "endTime": 224.16,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FIDO2",
+        "startTime": 273.62,
+        "endTime": 274.25,
+        "words": "FLIGHT FIDO."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 274.92,
+        "endTime": 275.22,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 275.57,
+        "endTime": 278.98,
+        "words": "The R.S.O would like to conduct a comm check with you on the FLIGHT loop."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 279.45,
+        "endTime": 280.3,
+        "words": "Standing by."
+    },
+    {
+        "speakerID": "RSO",
+        "startTime": 285.51,
+        "endTime": 289.05,
+        "words": "FLIGHT uh R.S.O. uh com check on FLIGHT DIRECTOR loop. How do you read?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 289.34,
+        "endTime": 290.31,
+        "words": "Loud and clear, how me?"
+    },
+    {
+        "speakerID": "RSO",
+        "startTime": 290.6,
+        "endTime": 293.84,
+        "words": "Uh loud and clear, would you go to R.S.O. loop for a check please?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 293.84,
+        "endTime": 294.33,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 429.12,
+        "endTime": 429.76,
+        "words": "FLIGHT FIDO."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 429.96,
+        "endTime": 430.42,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 430.68,
+        "endTime": 435.08,
+        "words": "R.S.O. on four A say that it'll be engine number three only this morning. He has no wind problem."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 435.37,
+        "endTime": 436.17,
+        "words": "Yeah I copied that."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 436.34,
+        "endTime": 436.8,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 437.02,
+        "endTime": 437.9,
+        "words": "Am I squealing?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 438.99,
+        "endTime": 441.07,
+        "words": "Yeah let me turn me over though see if that helps."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 443.69,
+        "endTime": 444.16,
+        "words": "How now?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 445.17,
+        "endTime": 445.64,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "NETWORK2",
+        "startTime": 610.5,
+        "endTime": 611.72,
+        "words": "A.F.D. NETWORK my loop"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 633.0,
+        "endTime": 633.79,
+        "words": "NETWORK FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 642.17,
+        "endTime": 643.05,
+        "words": "NETWORK FLIGHT"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 647.61,
+        "endTime": 648.29,
+        "words": "FLIGHT NETWORK."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 649.02,
+        "endTime": 653.12,
+        "words": "Okay I see we have a first motion check at uh one thirty five you standing by for that?"
+    },
+    {
+        "speakerID": "NETWORK2",
+        "startTime": 653.82,
+        "endTime": 654.59,
+        "words": "Rog FLIGHT."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 826.54,
+        "endTime": 827.35,
+        "words": "FLIGHT BOOSTER."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 828.43,
+        "endTime": 828.95,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 829.3,
+        "endTime": 842.67,
+        "words": "Roger they're up in the replenish mode on the uh Fuel again They're at ninety nine and uh On the four B and uh complete on the uh two. But they're bringing their crew back from the pass."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 844.07,
+        "endTime": 844.51,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 847.15,
+        "endTime": 848.6,
+        "words": "Does that mean that thing's gone away?"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 849.94,
+        "endTime": 857.81,
+        "words": "Now they're using the uh slow fill. Rather than that replenish valve. Uh just so they won't have any more problems with it."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 857.94,
+        "endTime": 858.49,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 971.21,
+        "endTime": 971.92,
+        "words": "G.N.C. FLIGHT"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 973.97,
+        "endTime": 974.74,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 974.85,
+        "endTime": 977.16,
+        "words": "Do we owe them some trim settings or do we have them?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 977.63,
+        "endTime": 980.16,
+        "words": "uh they already have them Chuck Lewis gave it to them yesterday."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 983.23,
+        "endTime": 983.72,
+        "words": "What are they?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 984.66,
+        "endTime": 994.97,
+        "words": "Minus one point five four. Plus one point three two. We recomputed today And uh We got within a hundredth of a degree."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 998.11,
+        "endTime": 999.11,
+        "words": "Say them again please."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1000.28,
+        "endTime": 1002.25,
+        "words": "Minus one point five four pitch."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1005.29,
+        "endTime": 1007.07,
+        "words": "Plus one point three two yaw."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1008.14,
+        "endTime": 1011.26,
+        "words": "Okay I got one three two yaw one five four pitch."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1011.26,
+        "endTime": 1012.67,
+        "words": "And it's a negative on pitch."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1017.97,
+        "endTime": 1018.84,
+        "words": "Minus clarity."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1103.71,
+        "endTime": 1104.23,
+        "words": "FLIGHT EECOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1105.62,
+        "endTime": 1106.3,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1108.44,
+        "endTime": 1121.35,
+        "words": "We uh have a red line on the imbalance of the cryo of four percent uh at least we've At the printed red line and we're setting it slightly above that now. And we waived that to about five percent. That's the O. two."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1121.75,
+        "endTime": 1123.27,
+        "words": "It was waived yesterday right?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1123.61,
+        "endTime": 1126.47,
+        "words": "I think we waived the H two yesterday We waived the O two tonight."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1130.95,
+        "endTime": 1132.32,
+        "words": "In any event we're already there."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1135.63,
+        "endTime": 1136.51,
+        "words": "And you're go right?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1136.59,
+        "endTime": 1137.55,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1138.55,
+        "endTime": 1139.39,
+        "words": "We'll call him"
+    },
+    {
+        "speakerID": "NETWORK2",
+        "startTime": 1167.49,
+        "endTime": 1168.33,
+        "words": "P.A.O. NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1437.06,
+        "endTime": 1438.03,
+        "words": "NETWORK FLIGHT"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1438.98,
+        "endTime": 1439.83,
+        "words": "FLIGHT NETWORK"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1446.61,
+        "endTime": 1450.28,
+        "words": "They're going to send first motion by the clock at one thirty. You got everybody standing by?"
+    },
+    {
+        "speakerID": "NETWORK1",
+        "startTime": 1450.61,
+        "endTime": 1451.37,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1792.96,
+        "endTime": 1793.62,
+        "words": "BOOSTER FLIGHT"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1793.84,
+        "endTime": 1794.26,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1794.47,
+        "endTime": 1795.72,
+        "words": "Get set up for your command check."
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1795.72,
+        "endTime": 1796.72,
+        "words": "Roger FLIGHT I'm ready."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1796.98,
+        "endTime": 1797.98,
+        "words": "You're on one two one?"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1798.38,
+        "endTime": 1798.85,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1799.02,
+        "endTime": 1799.46,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1799.46,
+        "endTime": 1800.07,
+        "words": "GUIDO"
+    }
+]

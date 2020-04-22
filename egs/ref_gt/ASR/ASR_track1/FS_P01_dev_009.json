@@ -1,0 +1,926 @@
+[
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 0.53,
+        "endTime": 2.19,
+        "words": "Team wire [unk] modulation go."
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 2.7,
+        "endTime": 5.61,
+        "words": "Roger remote U.S.C. LM."
+    },
+    {
+        "speakerID": "MADRID",
+        "startTime": 7.47,
+        "endTime": 8.17,
+        "words": "MADRID configured."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 9.28,
+        "endTime": 10.19,
+        "words": "GOLDSTONE configured."
+    },
+    {
+        "speakerID": "COMTECH",
+        "startTime": 10.7,
+        "endTime": 28.24,
+        "words": "HOUSTON COMTECH testing. One Two Three Four. Five. Five. Four. Three Two One one two three four five five four three two one."
+    },
+    {
+        "speakerID": "GOLDSTONE",
+        "startTime": 29.63,
+        "endTime": 32.5,
+        "words": "Goldstone [unk] modulate we're go."
+    },
+    {
+        "speakerID": "MADRID",
+        "startTime": 33.6,
+        "endTime": 35.8,
+        "words": "MADRID [unk] modulation go."
+    },
+    {
+        "speakerID": "COMTECH",
+        "startTime": 36.36,
+        "endTime": 42.93,
+        "words": "Roger MADRID and GOLDSTONE Meet me on [unk] On Net two for further instructions."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 299.03,
+        "endTime": 299.98,
+        "words": "FIDO RETRO."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 300.09,
+        "endTime": 300.42,
+        "words": "Go."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 300.79,
+        "endTime": 309.39,
+        "words": "Hey uh You got a Confirm D.L.I. and [unk] on that [unk] okay? And I guess we got to [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 309.88,
+        "endTime": 310.38,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 462.92,
+        "endTime": 465.15,
+        "words": "COLUMBIA HOUSTON we are standing by over."
+    },
+    {
+        "speakerID": "CMC",
+        "startTime": 484.79,
+        "endTime": 485.82,
+        "words": "C.M.C. check."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 498.08,
+        "endTime": 499.78,
+        "words": "COLUMBIA HOUSTON OVER."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 503.11,
+        "endTime": 505.51,
+        "words": "HOUSTON COLUMBIA reading you loud and clear how me?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 505.51,
+        "endTime": 508.11,
+        "words": "Rog [unk] Mike uh how did it go? Over"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 511.16,
+        "endTime": 513.57,
+        "words": "Listen [unk] everything's going just swimmingly beautiful."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 514.2,
+        "endTime": 516.08,
+        "words": "Great. We're standing by for [unk]"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 519.68,
+        "endTime": 521.41,
+        "words": "Okay he's coming along."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 522.55,
+        "endTime": 523.18,
+        "words": "Copy yaw."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 531.57,
+        "endTime": 536.35,
+        "words": "And COLUMBIA HOUSTON we expect to lose your high gain uh sometime during the power descent over."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 542.23,
+        "endTime": 544.16,
+        "words": "COLUMBIA roger you don't much care do you?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 544.16,
+        "endTime": 544.91,
+        "words": "No sir."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 610.99,
+        "endTime": 612.3,
+        "words": "HOUSTON EAGLE how do you read?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 612.55,
+        "endTime": 614.96,
+        "words": "[unk] Eagle we're standing by for your burner report, over."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 619.43,
+        "endTime": 620.83,
+        "words": "Roger the burn was on time."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 621.97,
+        "endTime": 630.45,
+        "words": "[unk] go before nine? Minus point one, minus point four, minus point one, X and Z [unk] zero."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 643.44,
+        "endTime": 646.45,
+        "words": "[unk] Go [unk] do you have [unk] okay"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 652.69,
+        "endTime": 653.63,
+        "words": "Comms look real good"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 693.84,
+        "endTime": 695.37,
+        "words": "EAGLE did you copy COLUMBIA?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 698.6,
+        "endTime": 700.27,
+        "words": "EAGLE HOUSTON did you call?"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 701.27,
+        "endTime": 704.09,
+        "words": "[unk] was point O five [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 705.9,
+        "endTime": 706.43,
+        "words": "On time."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 706.43,
+        "endTime": 706.94,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 707.48,
+        "endTime": 711.25,
+        "words": "Hey guys. HOUSTON uh are you [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 713.98,
+        "endTime": 720.61,
+        "words": "Copy it up to the [unk] would you please repeat? The residuals in the [unk] uh correction of [unk] check over."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 723.8,
+        "endTime": 758.63,
+        "words": "Roger [unk] residuals minus point one, minus point two, minus point seven And we used the same mount eighty six for Delta V Z which was nine point five. Versus yours which was nine point one and I believe that may explain the difference. Uh [unk] uh fifty seven point two. Uh [unk] nine point one Sun check uh degree mark. Now twenty minus now twenty two plus point one nine plus point one six plus point one one. Over"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 759.51,
+        "endTime": 761.01,
+        "words": "Right copy, looks great."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 765.76,
+        "endTime": 767.93,
+        "words": "Good [unk] too [unk]"
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 770.69,
+        "endTime": 772.32,
+        "words": "[unk] He loaded his [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 821.76,
+        "endTime": 827.24,
+        "words": "GUIDANCE be advised. [unk] by about [unk]"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 829.35,
+        "endTime": 830.12,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 830.12,
+        "endTime": 831.06,
+        "words": "Yeah and everything looks good."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 831.06,
+        "endTime": 831.85,
+        "words": "Great show."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 845.0,
+        "endTime": 847.6,
+        "words": "This [unk] within seven hundredths of a second here [unk]"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 857.26,
+        "endTime": 860.41,
+        "words": "GUIDANCE CAPCOM what's the five hundred and uh [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 860.41,
+        "endTime": 861.51,
+        "words": "Uh [unk] hold on."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 864.84,
+        "endTime": 865.95,
+        "words": "It's [unk] perform."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 941.76,
+        "endTime": 942.67,
+        "words": "FIDO [unk]"
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 943.21,
+        "endTime": 943.67,
+        "words": "Say again."
+    },
+    {
+        "speakerID": "MOCR",
+        "startTime": 970.9,
+        "endTime": 972.07,
+        "words": "CAPCOM MOCR DYNE"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 972.07,
+        "endTime": 972.54,
+        "words": "Go"
+    },
+    {
+        "speakerID": "MOCR",
+        "startTime": 972.88,
+        "endTime": 981.12,
+        "words": "Okay will that uh [unk] twenty five mount O seven setting that flag, would that give you that light?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 981.12,
+        "endTime": 983.73,
+        "words": "No. No we're we're not normally [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1003.96,
+        "endTime": 1005.64,
+        "words": "standby Jerry here it comes."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1005.64,
+        "endTime": 1007.48,
+        "words": "HOUSTON uh we have you now. Do you read? Over."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1010.47,
+        "endTime": 1011.3,
+        "words": "Loud and clear."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1011.3,
+        "endTime": 1014.0,
+        "words": "Roger we see your uh [unk] forty seven."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1014.19,
+        "endTime": 1016.97,
+        "words": "Six two eight. Copy six plus two eight."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1016.97,
+        "endTime": 1017.63,
+        "words": "That's affirm."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 1019.77,
+        "endTime": 1029.16,
+        "words": "I don't know what the problem was there uh It started oscillating around uh yaw. According to the needle read. We're picking up a little oscillation right now as a matter of fact."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1031.21,
+        "endTime": 1032.9,
+        "words": "Uh roger we'll work on it."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1046.32,
+        "endTime": 1048.34,
+        "words": "[unk] They're right on time."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1049.48,
+        "endTime": 1050.07,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 1052.51,
+        "endTime": 1056.34,
+        "words": "Did he Did he copy the star [unk] I mean the [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1056.7,
+        "endTime": 1058.67,
+        "words": "That's affirmative, we did [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1059.26,
+        "endTime": 1060.49,
+        "words": "[unk] Initialization [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1082.43,
+        "endTime": 1083.62,
+        "words": "RETRO you have everything?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1084.25,
+        "endTime": 1085.72,
+        "words": "Roger that I have everything."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1104.18,
+        "endTime": 1107.63,
+        "words": "EAGLE HOUSTON the [unk] initialization look good to us over."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1112.36,
+        "endTime": 1113.04,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1125.79,
+        "endTime": 1127.08,
+        "words": "FLIGHT FIDO."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1157.53,
+        "endTime": 1166.66,
+        "words": "Our radar check indicates a fifty dozen foot barrel in our [unk] [unk] uh [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1166.99,
+        "endTime": 1168.21,
+        "words": "Roger copy"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1184.8,
+        "endTime": 1196.24,
+        "words": "And uh HOUSTON we've got a five hundred alarm. Uh early in the program went to uh [unk] One [unk] we're back at uh auto [unk] Over."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1196.65,
+        "endTime": 1198.46,
+        "words": "Roger we saw that but thank you much Al."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1199.32,
+        "endTime": 1203.71,
+        "words": "Rog. I think you know Okay that wasn't an alarm that was a code, okay."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1203.71,
+        "endTime": 1204.77,
+        "words": "Right, we saw that."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1212.48,
+        "endTime": 1218.6,
+        "words": "EAGLE HOUSTON uh we recommend uh [unk] will help us on the high gain signal strength over."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1224.63,
+        "endTime": 1228.48,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1259.15,
+        "endTime": 1262.21,
+        "words": "EAGLE HOUSTON if you read you're go for [unk] descent over."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 1268.76,
+        "endTime": 1271.88,
+        "words": "[unk] COLUMBIA they just gave you a go for [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1273.59,
+        "endTime": 1280.99,
+        "words": "HOUSTON we've lost them on the high gain again. Would you please uh we recommend yaw write ten degrees and uh reapply."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1283.34,
+        "endTime": 1284.76,
+        "words": "Copy [unk]"
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 1285.46,
+        "endTime": 1292.32,
+        "words": "EAGLE this is COLUMBIA you're go for P.D.I. and they recommend your yaw write ten degrees and try the [unk] high gain again."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 1297.14,
+        "endTime": 1298.03,
+        "words": "EAGLE you read COLUMBIA?"
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1298.75,
+        "endTime": 1299.89,
+        "words": "Rog we read you."
+    },
+    {
+        "speakerID": "COLUMBIA",
+        "startTime": 1299.99,
+        "endTime": 1300.44,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1302.83,
+        "endTime": 1305.73,
+        "words": "EAGLE HOUSTON we read you now you're go for P.D.I. over."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1308.81,
+        "endTime": 1313.26,
+        "words": "Roger understand. [unk] Circuit breaker."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1321.05,
+        "endTime": 1322.2,
+        "words": "Circuit breaker"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1326.29,
+        "endTime": 1326.81,
+        "words": "Up"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1330.65,
+        "endTime": 1340.47,
+        "words": "Kimble enable [unk] scale forty five EAGLE HOUSTON your alignment is go on the ag. All my marks three thirty until ignition."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1340.8,
+        "endTime": 1341.24,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1344.29,
+        "endTime": 1346.16,
+        "words": "Mark three thirty until ignition."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1349.85,
+        "endTime": 1350.6,
+        "words": "Roger copy."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1351.57,
+        "endTime": 1355.46,
+        "words": "[unk] translate [unk] Almost got [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1359.88,
+        "endTime": 1366.46,
+        "words": "[unk] Auto C.D.R. [unk] button reset. [unk] button."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1369.73,
+        "endTime": 1371.36,
+        "words": "[unk] Abort abort stage reset."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1375.85,
+        "endTime": 1377.97,
+        "words": "[unk] control bring up remote control."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1378.24,
+        "endTime": 1379.56,
+        "words": "Three minutes FIDO."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1384.96,
+        "endTime": 1388.18,
+        "words": "Ag is reading Four hundred plus one"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1391.79,
+        "endTime": 1392.9,
+        "words": "[unk] for"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1417.4,
+        "endTime": 1419.06,
+        "words": "It's [unk] seventy seven"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1422.92,
+        "endTime": 1423.46,
+        "words": "Yeah."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1437.35,
+        "endTime": 1438.51,
+        "words": "Sequence camera coming on."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1454.52,
+        "endTime": 1455.16,
+        "words": "Copy."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1465.45,
+        "endTime": 1471.15,
+        "words": "EAGLE HOUSTON if you'd like to try the high gain pitch two one two yaw three seven over"
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1478.52,
+        "endTime": 1482.8,
+        "words": "Roger I think I've got you on high gain now. Roger."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1496.68,
+        "endTime": 1497.71,
+        "words": "Are you getting the angles though?"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1501.36,
+        "endTime": 1505.02,
+        "words": "Rog pitch two twelve Yaw plus three seven"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1510.79,
+        "endTime": 1511.4,
+        "words": "Copy."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1517.66,
+        "endTime": 1518.54,
+        "words": "Arm defense."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1524.77,
+        "endTime": 1525.96,
+        "words": "Still waiting for [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1525.96,
+        "endTime": 1527.85,
+        "words": "[unk] foot per second."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 1538.65,
+        "endTime": 1539.12,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1539.65,
+        "endTime": 1543.6,
+        "words": "Average G There is nineteen foot per second."
+    },
+    {
+        "speakerID": "MCCFILEspk3",
+        "startTime": 1551.83,
+        "endTime": 1553.04,
+        "words": "What'd you do for [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 1561.1,
+        "endTime": 1561.46,
+        "words": "Go"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1562.63,
+        "endTime": 1564.2,
+        "words": "HOUSTON ten percent"
+    },
+    {
+        "speakerID": "YAW",
+        "startTime": 1565.44,
+        "endTime": 1566.66,
+        "words": "GUIDANCE YAW"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1566.66,
+        "endTime": 1567.35,
+        "words": "Go YAW"
+    },
+    {
+        "speakerID": "YAW",
+        "startTime": 1567.69,
+        "endTime": 1568.44,
+        "words": "At [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1569.18,
+        "endTime": 1571.73,
+        "words": "Ignition one zero two three three"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1573.79,
+        "endTime": 1574.52,
+        "words": "Go [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1595.99,
+        "endTime": 1598.72,
+        "words": "HOUSTON we [unk] over."
+    },
+    {
+        "speakerID": "MCCFILEspk6",
+        "startTime": 1620.17,
+        "endTime": 1621.16,
+        "words": "Thank you Neil."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1621.16,
+        "endTime": 1627.3,
+        "words": "I'll leave it [unk] to it. See if they got me now I've got good signal [unk] loop."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1628.01,
+        "endTime": 1629.87,
+        "words": "Yeah you should hear me now HOUSTON."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1629.87,
+        "endTime": 1630.95,
+        "words": "There's your T.T.P."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1639.56,
+        "endTime": 1641.2,
+        "words": "HOUSTON everything's looking good here, over."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1644.49,
+        "endTime": 1645.38,
+        "words": "Roger copy."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1649.23,
+        "endTime": 1654.75,
+        "words": "EAGLE HOUSTON [unk] go around angles uh S band pitch minus nine [unk] yaw plus one eight."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1661.28,
+        "endTime": 1661.78,
+        "words": "Copy."
+    },
+    {
+        "speakerID": "MCCFILEspk7",
+        "startTime": 1676.63,
+        "endTime": 1677.23,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1691.08,
+        "endTime": 1692.34,
+        "words": "How does [unk]"
+    },
+    {
+        "speakerID": "MCCFILEspk2",
+        "startTime": 1697.85,
+        "endTime": 1699.76,
+        "words": "That's [unk] track [unk] No it's"
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1699.76,
+        "endTime": 1701.22,
+        "words": "We'll be okay if it doesn't go."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1716.99,
+        "endTime": 1719.98,
+        "words": "Okay Chuck hard copy that before [unk] changes. I got it."
+    },
+    {
+        "speakerID": "MCCFILEspk8",
+        "startTime": 1723.66,
+        "endTime": 1725.93,
+        "words": "A.V. uh Voltage now."
+    },
+    {
+        "speakerID": "EAGLE",
+        "startTime": 1726.99,
+        "endTime": 1727.53,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "MCCFILEspk8",
+        "startTime": 1728.54,
+        "endTime": 1734.8,
+        "words": "If the uh meter may be out. standby. Looking good to us. Still looking good and three coming up three now."
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1734.8,
+        "endTime": 1736.34,
+        "words": "If it'll just hold it'll be okay, Jack."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1737.4,
+        "endTime": 1737.94,
+        "words": "Copy"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1742.65,
+        "endTime": 1743.54,
+        "words": "Three minutes, FIDO."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1745.47,
+        "endTime": 1746.25,
+        "words": "Okay Chuck."
+    },
+    {
+        "speakerID": "MCCFILEspk9",
+        "startTime": 1747.41,
+        "endTime": 1748.6,
+        "words": "Jack standby."
+    },
+    {
+        "speakerID": "MCCFILEspk10",
+        "startTime": 1749.09,
+        "endTime": 1750.6,
+        "words": "[unk] We look good."
+    },
+    {
+        "speakerID": "MCCFILEspk4",
+        "startTime": 1752.49,
+        "endTime": 1753.15,
+        "words": "Right on."
+    },
+    {
+        "speakerID": "MCCFILEspk11",
+        "startTime": 1754.18,
+        "endTime": 1756.82,
+        "words": "[unk] Check down range shows to be a little long."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 1757.25,
+        "endTime": 1758.18,
+        "words": "Roger copy."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1773.3,
+        "endTime": 1775.44,
+        "words": "Go C.S.M. [unk]"
+    },
+    {
+        "speakerID": "HOUSTON",
+        "startTime": 1796.63,
+        "endTime": 1798.06,
+        "words": "I think it's going to stop."
+    }
+]

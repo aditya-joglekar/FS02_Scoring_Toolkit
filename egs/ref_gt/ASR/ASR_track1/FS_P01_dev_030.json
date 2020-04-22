@@ -1,0 +1,1370 @@
+[
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 0.0,
+        "endTime": 2.19,
+        "words": "Twelve is for rev."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 8.68,
+        "endTime": 9.97,
+        "words": "That can't be right can it?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 10.21,
+        "endTime": 10.83,
+        "words": "Oh no"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 11.45,
+        "endTime": 11.89,
+        "words": "Nope."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 17.17,
+        "endTime": 23.47,
+        "words": "Yeah it is. I'm sorry it is too it's rev twenty five. Uh we're coming up on T eight now you say."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 23.47,
+        "endTime": 24.52,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 30.52,
+        "endTime": 31.3,
+        "words": "That's right."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 31.61,
+        "endTime": 36.96,
+        "words": "Flight plan originally set it at a hundred and sixteen hours. To give ten through thirteen."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 42.83,
+        "endTime": 45.32,
+        "words": "Oh they've got plenty. They got through T twelve right now."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 50.39,
+        "endTime": 54.7,
+        "words": "Having a hard time uh Nine hours from now."
+    },
+    {
+        "speakerID": "FAO",
+        "startTime": 56.5,
+        "endTime": 59.4,
+        "words": "They wake up at a hundred and twenty two hours nominally FLIGHT."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 59.4,
+        "endTime": 59.78,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 60.43,
+        "endTime": 69.48,
+        "words": "FLIGHT we'll get we'll I'll just generate some more for you. Just to make sure okay? We'll generate our best estimate uh right on through uh nominal liftoff."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 70.12,
+        "endTime": 71.5,
+        "words": "T twelve is what time?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 72.28,
+        "endTime": 74.51,
+        "words": "One hundred and twenty two hours twenty three minutes."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 83.05,
+        "endTime": 90.43,
+        "words": "Okay I we must've had a reason for wanting to go all the way up to uh But we just said thirteen that's just one more."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 90.43,
+        "endTime": 91.53,
+        "words": "That that's the nominal."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 94.58,
+        "endTime": 96.11,
+        "words": "It's the only one we haven't passed."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 97.12,
+        "endTime": 100.32,
+        "words": "Okay. Why don't you get that ready and see if they want that one."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 100.32,
+        "endTime": 104.71,
+        "words": "Roger and he's did F.A.O. say they were waking up just two hours before nominal liftoff?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 104.71,
+        "endTime": 106.94,
+        "words": "No. A hundred and twenty two hours."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 107.22,
+        "endTime": 109.27,
+        "words": "That's just two hours from nominal liftoff."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 109.64,
+        "endTime": 114.2,
+        "words": "Two hours and a half. Two hours and twenty minutes that's right, it's what it's always been."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 124.49,
+        "endTime": 126.51,
+        "words": "That's the way it's been for several months."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 126.51,
+        "endTime": 127.38,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 128.83,
+        "endTime": 135.62,
+        "words": "Okay why don't let's get a uh a T thirteen there and uh we'll Roger company if they want that."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 141.82,
+        "endTime": 145.39,
+        "words": "Let's see F.A.O. what else uh Do we need if anything?"
+    },
+    {
+        "speakerID": "FAO",
+        "startTime": 147.64,
+        "endTime": 153.07,
+        "words": "Yeah we got the C.S.M. straight away with that canister change and that purge. We don't have a water dump."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 153.97,
+        "endTime": 161.28,
+        "words": "Next things uh we need from the them is uh Uh stuff that has to do with the uh with the liftoff here."
+    },
+    {
+        "speakerID": "FAO",
+        "startTime": 161.56,
+        "endTime": 162.16,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 163.38,
+        "endTime": 167.3,
+        "words": "Okay. And we said we would update the state vector."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 169.45,
+        "endTime": 169.9,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 173.66,
+        "endTime": 176.31,
+        "words": "And uh CAPCOM FLIGHT you haven't told them that have you?"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 176.69,
+        "endTime": 178.32,
+        "words": "Oh sorry FLIGHT, what'd you say?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 178.32,
+        "endTime": 198.82,
+        "words": "uh We were F.A.O. and I were just running over the things we owe to crew and uh I asked FIDO to give us a T thirteen um which I think will complete the data that they should get before uh They [unk] Prior to the uh The normal wake up time. And you haven't told them yet about the uh About the hatch or the state vector have you?"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 198.82,
+        "endTime": 199.73,
+        "words": "That's correct."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 199.73,
+        "endTime": 200.38,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 201.28,
+        "endTime": 204.71,
+        "words": "And they've got everything up to to their team whih they do not have."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 205.7,
+        "endTime": 213.08,
+        "words": "Yeah we'll I think we'll read at Well you you were here when they discussed that I guess. Why didn't we give them a T thirteen back there a while ago?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 217.16,
+        "endTime": 218.88,
+        "words": "Do you? Do you recall?"
+    },
+    {
+        "speakerID": "FAO",
+        "startTime": 223.97,
+        "endTime": 225.07,
+        "words": "FLIGHT F.A.O."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 225.43,
+        "endTime": 225.85,
+        "words": "Go."
+    },
+    {
+        "speakerID": "FAO",
+        "startTime": 226.14,
+        "endTime": 231.67,
+        "words": "We usually give them a consumables update also before they go to sleep. I forgot about that."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 233.4,
+        "endTime": 241.09,
+        "words": "Okay. TELCOM CONTROL would y'all prepare a consumables update for the tranquility base?"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 241.49,
+        "endTime": 242.44,
+        "words": "What uh time?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 243.96,
+        "endTime": 255.99,
+        "words": "FLIGHT Uh Base it on now and I guess uh let's see oh You guys don't have the delta from the nominal do you? Yeah give it to them give it to them for"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 256.36,
+        "endTime": 257.0,
+        "words": "One third"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 257.0,
+        "endTime": 259.32,
+        "words": "Like a hundred and fourteen hours or whatever."
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 259.32,
+        "endTime": 262.95,
+        "words": "Okay one fourteen hours. CONTROL copies FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 278.64,
+        "endTime": 280.2,
+        "words": "Uh TELCOM FLIGHT."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 281.31,
+        "endTime": 281.99,
+        "words": "FLIGHT TELCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 281.99,
+        "endTime": 289.16,
+        "words": "Eh uh I guess that's that was a bad thing I said just then uh because uh your O two is going to depend on the uh repress."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 290.81,
+        "endTime": 291.47,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 292.72,
+        "endTime": 304.16,
+        "words": "So uh I guess we ought to we ought to have it ready just as soon as you uh as far as you're concerned anyway just Wait until you see how that repress goes and then um figure that in too."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 304.44,
+        "endTime": 306.16,
+        "words": "But you want it based on uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 307.02,
+        "endTime": 312.85,
+        "words": "I think you ought to wait until you see whether or not the uh repress took the same amount of uh O two as you expected."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 312.85,
+        "endTime": 316.73,
+        "words": "Okay so you're saying you want us to hold off until we finish the repress."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 316.73,
+        "endTime": 324.31,
+        "words": "But everything else probably you could project ahead but Just be aware that we want to send that to the crew pretty quickly after they do the repress."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 324.31,
+        "endTime": 325.02,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 325.52,
+        "endTime": 331.36,
+        "words": "Whatever that takes. I guess CONTROL you're not going to change anyway so you do whatever you have to do to meet that schedule."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 332.22,
+        "endTime": 334.11,
+        "words": "For a hundred and fourteen hours right FLIGHT?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 334.11,
+        "endTime": 337.43,
+        "words": "Well it'll be somewhat later than that. It'll be about an hour or so later."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 339.74,
+        "endTime": 341.49,
+        "words": "Well I wouldn't think it'd be an hour frankly."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 343.01,
+        "endTime": 343.89,
+        "words": "I don't know."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 343.89,
+        "endTime": 348.85,
+        "words": "I'm expecting them to start depressing here shortly. I don't know why I say that but eh."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 349.2,
+        "endTime": 350.58,
+        "words": "Takes a little time though FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 350.58,
+        "endTime": 351.44,
+        "words": "Yeah okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 361.0,
+        "endTime": 361.98,
+        "words": "GUIDANCE FLIGHT"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 362.78,
+        "endTime": 363.72,
+        "words": "Go ahead FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 363.72,
+        "endTime": 366.77,
+        "words": "Is the R.L.S. uh as good as we can make it?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 367.24,
+        "endTime": 368.25,
+        "words": "Best thing we have FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 368.72,
+        "endTime": 370.22,
+        "words": "Okay what what's in there now?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 370.85,
+        "endTime": 372.24,
+        "words": "What's in there now? standby."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 372.86,
+        "endTime": 376.24,
+        "words": "That uh whatever it is seven nine nine something like that in there?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 376.24,
+        "endTime": 377.21,
+        "words": "That's affirm."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 377.21,
+        "endTime": 378.52,
+        "words": "Two three something or another."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 378.69,
+        "endTime": 381.19,
+        "words": "FLIGHT we have the radius from map values."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 381.79,
+        "endTime": 386.43,
+        "words": "And the latitude from [unk] and the longitude from the [unk] estimate at touchdown."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 388.18,
+        "endTime": 388.42,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 391.34,
+        "endTime": 392.34,
+        "words": "And uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 439.67,
+        "endTime": 442.96,
+        "words": "And GUIDANCE FLIGHT one more question I think I won't give up on you."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 442.96,
+        "endTime": 443.69,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 443.97,
+        "endTime": 450.84,
+        "words": "Uh The you changed the rest mat a while back for the liftoff and made it uh for the T thirteen liftoff time I guess."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 450.84,
+        "endTime": 451.28,
+        "words": "That's correct."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 451.28,
+        "endTime": 452.6,
+        "words": "And you're happy with that?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 452.6,
+        "endTime": 453.23,
+        "words": "Yes sir."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 461.71,
+        "endTime": 462.7,
+        "words": "EECOM FLIGHT."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 464.05,
+        "endTime": 464.59,
+        "words": "Go ahead FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 466.35,
+        "endTime": 470.01,
+        "words": "Okay tell me about this uh About this valve. Please."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 471.98,
+        "endTime": 479.96,
+        "words": "Okay uh This is the mixing valve that modulates the Hot glycol coming back uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 532.1,
+        "endTime": 533.25,
+        "words": "CONTROL FLIGHT what's your"
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 534.7,
+        "endTime": 535.53,
+        "words": "Go ahead FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 535.88,
+        "endTime": 537.89,
+        "words": "What's your what's your [unk] flight?"
+    },
+    {
+        "speakerID": "CONTROL",
+        "startTime": 538.39,
+        "endTime": 539.66,
+        "words": "Uh zero five"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 543.46,
+        "endTime": 544.36,
+        "words": "GUIDANCE FLIGHT"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 544.36,
+        "endTime": 545.02,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 545.38,
+        "endTime": 545.82,
+        "words": "Uh"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 547.54,
+        "endTime": 548.32,
+        "words": "Rog thank you."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 592.11,
+        "endTime": 593.39,
+        "words": "Thank you CAPCOM."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 607.24,
+        "endTime": 608.11,
+        "words": "EECOM FLIGHT."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 608.92,
+        "endTime": 609.64,
+        "words": "Roger FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 610.33,
+        "endTime": 611.61,
+        "words": "Okay uh go ahead."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 618.76,
+        "endTime": 645.28,
+        "words": "Okay this this is the mixing valve that modulates the flow of the glycol. And it has uh automatic control uh on the valve that uh Uh it's supposed to look at the regular outlet temperature and uh if the regular outlet temperature is low it's supposed to Cause the hot glycol to mix In before it goes into the evaporator. It's it's say it bypasses the radiators."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 645.5,
+        "endTime": 645.91,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 645.91,
+        "endTime": 741.03,
+        "words": "Goes right through the loop. What we have seen uh previously uh We have seen the Point at which the automatic control uh Takes place to be Something less than a nominal about forty three to uh Well in one case down to about thirty nine other case uh forty or something like that. Uh however tonight uh I believe it was about five orbits back uh It [unk] this uh evap out temp continued to follow the radiator outlet temp Right on down past the control point. Uh in which the evap out temp actually got down to about uh thirty degrees. Uh at that point we queried the crew and Uh asked them uh well rather we gave them some procedures to follow the malfunction procedures and to avoid them. What he actually did uh or reported to us later was that He uh He took the Control for that automatic circuit. Uh positioned the the switch to Manual then back to automatic And the circuit did all the right things. Uh and since that point in time It has appeared to function uh essentially normally. Uh we've seen it come down about forty two I believe since then but that's as we have seen it before."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 741.9,
+        "endTime": 742.56,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 742.56,
+        "endTime": 774.13,
+        "words": "So since it has uh been operating uh Normally or essentially normally uh we feel like that it will probably continue to do so and uh That is a mode that uh we'll be pursuing during sleep cycles. However If for some reason we should see the same sort of thing as we saw before where the temperature is coming uh on down following the radiator outlet temperature, we would probably recommend that uh Uh we wake up the crew and ask them to uh reposition the manual valve."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 774.13,
+        "endTime": 776.16,
+        "words": "Okay to now to where?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 777.17,
+        "endTime": 800.47,
+        "words": "Well the general thinking is that uh what we'd do is ask them to uh Position the valve at the point in orbit for the lowest temperature it has to be on the shady side At the point of the lowest temperature it's something like thirty seven thirty eight degrees uh And uh Then we'd monitor the temperature again over on the Uh hot side"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 800.47,
+        "endTime": 802.42,
+        "words": "Where is that point in the orbit?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 805.67,
+        "endTime": 811.55,
+        "words": "It's about just about L.O.S. or a little after L.O.S. FLIGHT Maybe about five minutes after L.O.S."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 814.3,
+        "endTime": 817.46,
+        "words": "Okay. We we should use those terms then."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 818.3,
+        "endTime": 818.99,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 818.99,
+        "endTime": 828.2,
+        "words": "So you want to you want him to adjust the temperature five minutes after L.O.S. Which would be in the middle of the shady side and uh until [unk] thirty seven degrees."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 829.91,
+        "endTime": 831.32,
+        "words": "That's the number that uh"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 831.32,
+        "endTime": 832.99,
+        "words": "If you take it will be minimal."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 833.34,
+        "endTime": 835.33,
+        "words": "Right. And then on the hot"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 835.33,
+        "endTime": 842.5,
+        "words": "What's the response to that? I mean like how long after he moves the valve does the temperature start doing the right thing?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 842.5,
+        "endTime": 843.94,
+        "words": "It's immediate response."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 844.9,
+        "endTime": 845.42,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 847.63,
+        "endTime": 853.86,
+        "words": "Okay and then we would like for him to check it when it comes back around on the hot side and make sure that we are under eighty degrees."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 854.8,
+        "endTime": 856.56,
+        "words": "Well we can see that can't we?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 859.34,
+        "endTime": 869.27,
+        "words": "You have to do the best thing hopefully where he where E.P.S. to move his thing manually he can wake up and do it and then he can go back to sleep and doesn't have to do it anymore and we can Watch it all for him."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 869.27,
+        "endTime": 878.72,
+        "words": "That's affirmative we'd like to optimize it where we can keep it Above freezing and below eighty and we think this would do it with with the crew adjusting one time."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 878.72,
+        "endTime": 885.59,
+        "words": "Okay now what are you worried about here supposing it it goes down as low as the radiator does and it and it freezes up?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 886.21,
+        "endTime": 890.45,
+        "words": "Okay we have seen the radiator go down about fifteen degrees"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 890.45,
+        "endTime": 890.85,
+        "words": "Mm-hm."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 890.85,
+        "endTime": 911.15,
+        "words": "Uh And it would be reasonable to conclude that uh If If the [unk] out temperature fall it down that low or twenty degrees or so that the evaporator could freeze and the worst thing that can happen to us that uh it could rupture. And cause a black hole to"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 911.15,
+        "endTime": 913.65,
+        "words": "We'd lose the primary whole primary loop then."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 913.65,
+        "endTime": 914.62,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 914.94,
+        "endTime": 916.37,
+        "words": "Can't shut off the evaporator."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 917.47,
+        "endTime": 918.12,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 926.59,
+        "endTime": 928.45,
+        "words": "So we don't expect that to happen but"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 928.45,
+        "endTime": 929.4,
+        "words": "I understand."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 942.19,
+        "endTime": 944.59,
+        "words": "Okay. Thank you."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 944.59,
+        "endTime": 945.25,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1020.1,
+        "endTime": 1021.03,
+        "words": "FIDO FLIGHT"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1023.55,
+        "endTime": 1024.06,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1024.75,
+        "endTime": 1027.33,
+        "words": "What's the situation on our uh plane change now?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1028.42,
+        "endTime": 1030.3,
+        "words": "No plane change at this time FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1032.24,
+        "endTime": 1039.4,
+        "words": "Okay. And we we have all the data that we're ever going to get aren't we? Is this? Uh we presumably not going to even do one. Is that right?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1040.13,
+        "endTime": 1043.3,
+        "words": "Must have a headset problem with you FLIGHT I don't maybe my loop's down."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1044.8,
+        "endTime": 1047.88,
+        "words": "I said we have all the data that we are going to get on this subject, don't we?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1048.74,
+        "endTime": 1051.14,
+        "words": "Do we have some data? You say that we're going to get?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1052.56,
+        "endTime": 1055.58,
+        "words": "No I say we we have all that we are going to get."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1055.93,
+        "endTime": 1056.87,
+        "words": "As far as I know."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1057.17,
+        "endTime": 1061.22,
+        "words": "So I mean Whatever the verdict is now is not going to change."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1061.22,
+        "endTime": 1079.53,
+        "words": "We had talked about scheduling up the rendezvous radar. Have him pick out the C.S.M. But I've heard no more about that. Nobody's really concerned about it other than the fact that it would be nice to to know it a little bit better than we do. Rather than have this large plane change stare us in the face but then we certainly"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1079.53,
+        "endTime": 1080.11,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1081.41,
+        "endTime": 1118.14,
+        "words": "Or this possibly large plane change It it's interesting to note What all the experts have said so far by the way. M.P.A.D. is sure that they're at uh the targeted landing site down range maybe but not cross range. They're right there. How are the [unk] Say they're north But on the other hand, gravity vector says they're south. So you can just about take your pick. And actually that's actually what we've been doing with these P twenty twos we've been hitting one side and then the other and then the other. Like that."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1118.14,
+        "endTime": 1120.43,
+        "words": "Yeah I follow that with some interest."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1120.43,
+        "endTime": 1122.94,
+        "words": "And the worst it can get is this thirty nine thing."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1126.26,
+        "endTime": 1138.17,
+        "words": "Okay but uh obviously if uh we'r going to if we're serious about needing that Then we would have to we couldn't put the crew to sleep here presumably because there's not going to be any time left to do any of that after we wake them up."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1138.17,
+        "endTime": 1139.68,
+        "words": "That's affirmative."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1140.22,
+        "endTime": 1140.89,
+        "words": "Yeah okay."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1140.89,
+        "endTime": 1145.61,
+        "words": "The only time we'd have a chance to do it would be this upcoming pass. Let me check with F.A.O."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1394.53,
+        "endTime": 1395.41,
+        "words": "FLIGHT TELCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1398.47,
+        "endTime": 1398.95,
+        "words": "Go."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1399.38,
+        "endTime": 1403.71,
+        "words": "Flight keys configuring uh the suit loop to uh run the uh integrity check."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1403.71,
+        "endTime": 1404.37,
+        "words": "Very good."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1491.82,
+        "endTime": 1495.19,
+        "words": "FLIGHT TELCOM FLIGHT TELCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1495.19,
+        "endTime": 1495.38,
+        "words": "Go."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1495.87,
+        "endTime": 1501.72,
+        "words": "Looks like he's trying to uh over-pressurize the suit but he hasn't uh closed the suit release valve yet."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1502.04,
+        "endTime": 1503.26,
+        "words": "Do you want to tell him something?"
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1503.26,
+        "endTime": 1506.75,
+        "words": "I think we might ought to remind him to close the suit release valve."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1507.74,
+        "endTime": 1508.98,
+        "words": "Okay CAPCOM."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1510.48,
+        "endTime": 1513.43,
+        "words": "Roger uh suit release valve is still in auto."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1513.43,
+        "endTime": 1513.88,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1514.54,
+        "endTime": 1515.66,
+        "words": "And it should be closed."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1515.66,
+        "endTime": 1518.83,
+        "words": "Is that right EECOM? Okay go [unk] for that please."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1542.9,
+        "endTime": 1544.13,
+        "words": "We see it now FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1544.59,
+        "endTime": 1545.01,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1548.3,
+        "endTime": 1550.19,
+        "words": "Okay suit pressure going up now."
+    },
+    {
+        "speakerID": "CSM",
+        "startTime": 1561.87,
+        "endTime": 1563.22,
+        "words": "A.O.S. C.S.M."
+    },
+    {
+        "speakerID": "AOS",
+        "startTime": 1564.79,
+        "endTime": 1565.73,
+        "words": "You're good NETWORK."
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1568.9,
+        "endTime": 1570.88,
+        "words": "FLIGHT EECOM we have a high gain in tow."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1570.88,
+        "endTime": 1572.03,
+        "words": "Okay very good."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1573.24,
+        "endTime": 1575.16,
+        "words": "Does that mean Mike is cleared for sleep?"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1576.44,
+        "endTime": 1577.91,
+        "words": "What do you say there EECOM?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1578.23,
+        "endTime": 1578.85,
+        "words": "We're go."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1579.59,
+        "endTime": 1581.39,
+        "words": "Okay we're go for sleep CAPCOM."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1581.77,
+        "endTime": 1582.49,
+        "words": "Roger."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1595.02,
+        "endTime": 1603.78,
+        "words": "And CAPCOM hey uh uh don't we want to go into the uh into the Colombia sleep mode and and turn down the up link on that command module?"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1605.07,
+        "endTime": 1610.05,
+        "words": "Uh roger we asked uh him to stay awake until such time as we've got a physical react."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1610.05,
+        "endTime": 1612.48,
+        "words": "Rog but NETWORK FLIGHT isn't that what we want to do?"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1612.48,
+        "endTime": 1615.06,
+        "words": "Roger that is this is CAPCOM that is what we want to do."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1615.56,
+        "endTime": 1621.98,
+        "words": "Okay I think we were just advising that we'd turn it down the up link now and uh [unk] and that would take us about thirty seconds. Answer him should he call."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1623.74,
+        "endTime": 1626.36,
+        "words": "Yeah that's roger. We want to go to mode three."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1637.59,
+        "endTime": 1638.52,
+        "words": "FLIGHT TELCOM."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1638.52,
+        "endTime": 1638.91,
+        "words": "Go."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1639.34,
+        "endTime": 1641.06,
+        "words": "Looks like the suit's holding pretty good."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1646.8,
+        "endTime": 1647.76,
+        "words": "FLIGHT to TELCOM."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1683.05,
+        "endTime": 1684.66,
+        "words": "He [unk] that CAPCOM."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1686.01,
+        "endTime": 1690.66,
+        "words": "Advertising fifteen seconds and I put Fifteen on top of mine."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1692.52,
+        "endTime": 1693.36,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1697.08,
+        "endTime": 1699.17,
+        "words": "Everybody has his little pad I guess."
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1699.17,
+        "endTime": 1701.65,
+        "words": "Five five nights for the wife five for the kids."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1704.27,
+        "endTime": 1705.95,
+        "words": "Five for the green L.S.O."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1706.56,
+        "endTime": 1707.04,
+        "words": "Right."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1731.75,
+        "endTime": 1732.9,
+        "words": "Hey FLIGHT TELCOM"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1734.47,
+        "endTime": 1741.13,
+        "words": "Okay Do you expect a call from us on that TELCOM? He can tell that alright from us on board can't he?"
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1742.63,
+        "endTime": 1743.52,
+        "words": "Say again FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1743.94,
+        "endTime": 1748.55,
+        "words": "Uh does he expect a call from us on that? He he can tell that alright uh from his uh"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1748.55,
+        "endTime": 1751.74,
+        "words": ""
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1781.83,
+        "endTime": 1782.98,
+        "words": "CAPCOM FLIGHT"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1783.7,
+        "endTime": 1784.46,
+        "words": "Go ahead FLIGHT"
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1784.46,
+        "endTime": 1788.08,
+        "words": "Is he expecting a a go from us for uh for the depress?"
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1788.44,
+        "endTime": 1790.08,
+        "words": "Uh we don't have it written in."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1790.08,
+        "endTime": 1795.58,
+        "words": "Okay. TELCOM he he's not expecting anything from us on this cabin depress is he?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1801.81,
+        "endTime": 1802.69,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1803.47,
+        "endTime": 1805.88,
+        "words": "Put your mind at ease FLIGHT I think he's going now."
+    },
+    {
+        "speakerID": "TELCOM",
+        "startTime": 1805.88,
+        "endTime": 1808.07,
+        "words": "FLIGHT TELCOM looks like the cabin's coming down."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1808.07,
+        "endTime": 1808.8,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1810.06,
+        "endTime": 1812.3,
+        "words": "Four one. Three five."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1813.75,
+        "endTime": 1815.81,
+        "words": "Can you tell if the overhead valve is open?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1816.79,
+        "endTime": 1818.3,
+        "words": "Not right now FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1819.17,
+        "endTime": 1820.64,
+        "words": "G.N.C. did you call FLIGHT?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1820.64,
+        "endTime": 1821.57,
+        "words": "Affirm FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1821.57,
+        "endTime": 1822.1,
+        "words": "Go."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1822.72,
+        "endTime": 1833.12,
+        "words": "I'm looking his high bid rate over and his thruster configuration and he needs to turn on uh baker [unk] Bravo two and bravo bravo one and bravo two roll jet."
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1835.48,
+        "endTime": 1840.23,
+        "words": "He did not configure the uh Auto R.C.S. flex correctly."
+    },
+    {
+        "speakerID": "CAPCOM",
+        "startTime": 1842.23,
+        "endTime": 1843.32,
+        "words": "This is Colombia?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1843.32,
+        "endTime": 1844.2,
+        "words": "That's affirm."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1846.38,
+        "endTime": 1851.38,
+        "words": "Uh EECOM FLIGHT you want to bring back up the uh a blank on the C.S.M. carrier?"
+    },
+    {
+        "speakerID": "EECOM",
+        "startTime": 1851.82,
+        "endTime": 1852.71,
+        "words": "We're still up FLIGHT."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1854.25,
+        "endTime": 1855.89,
+        "words": "Okay would you verify that for me?"
+    },
+    {
+        "speakerID": "GNC",
+        "startTime": 1859.93,
+        "endTime": 1867.78,
+        "words": "FLIGHT G.N.C. he'd be drifting in roll he has no roll control now. We're still okay, we're still within [unk]. FLIGHT we're still up there."
+    },
+    {
+        "speakerID": "FD1",
+        "startTime": 1868.28,
+        "endTime": 1868.93,
+        "words": "Okay."
+    }
+]

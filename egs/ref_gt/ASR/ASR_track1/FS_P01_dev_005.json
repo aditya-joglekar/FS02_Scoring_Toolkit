@@ -1,0 +1,464 @@
+[
+    {
+        "speakerID": "RETRO",
+        "startTime": 96.7,
+        "endTime": 98.11,
+        "words": "Ten minutes file"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 375.21,
+        "endTime": 378.23,
+        "words": "[unk] we all up with the uh test this now please?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 380.92,
+        "endTime": 381.71,
+        "words": "That's affirm"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 382.99,
+        "endTime": 383.55,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 383.82,
+        "endTime": 384.55,
+        "words": "Up and [unk]"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 484.02,
+        "endTime": 485.21,
+        "words": "HOUSTON Roger [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 557.17,
+        "endTime": 558.36,
+        "words": "Too close thirty FIDO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 559.52,
+        "endTime": 559.89,
+        "words": "Copy"
+    },
+    {
+        "speakerID": "COMPUTER",
+        "startTime": 603.43,
+        "endTime": 605.18,
+        "words": "BOOSTER COMPUTER ten my loop"
+    },
+    {
+        "speakerID": "COMPUTER",
+        "startTime": 617.16,
+        "endTime": 618.69,
+        "words": "BOOSTER COMPUTER ten my loop"
+    },
+    {
+        "speakerID": "COMPUTER",
+        "startTime": 647.39,
+        "endTime": 649.16,
+        "words": "BOOSTER COMPUTER ten my loop"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 652.44,
+        "endTime": 653.93,
+        "words": "Sixty seconds FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 688.65,
+        "endTime": 689.93,
+        "words": "Twenty seconds FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 713.16,
+        "endTime": 714.11,
+        "words": "Patient FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 718.41,
+        "endTime": 719.9,
+        "words": "Two forty four nineteen"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 774.0,
+        "endTime": 775.81,
+        "words": "EECOM FIDO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 975.51,
+        "endTime": 979.18,
+        "words": "FIDO while we got data why don't you give me a [unk] you versus A.G.C. here."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1015.24,
+        "endTime": 1017.14,
+        "words": "FIDO you're right on the nominal on that [unk]"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1017.83,
+        "endTime": 1021.43,
+        "words": "Say again RETRO Yeah."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1052.74,
+        "endTime": 1055.73,
+        "words": "Not FLIGHT to C.M.C GUIDO is back"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1068.7,
+        "endTime": 1069.98,
+        "words": "I don't have any I.U. FIDO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1073.86,
+        "endTime": 1075.26,
+        "words": "Spacecraft's back FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1076.45,
+        "endTime": 1077.54,
+        "words": "Go ahead [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1082.27,
+        "endTime": 1085.39,
+        "words": "Gosh it looks like about a three second loop [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1121.79,
+        "endTime": 1123.98,
+        "words": "FIDO guys this is RETRO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1128.6,
+        "endTime": 1129.87,
+        "words": "Get the C.M.C. memos I think"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1129.87,
+        "endTime": 1132.37,
+        "words": "Sure three five five seven nine nine [unk] C.M.C."
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1132.37,
+        "endTime": 1133.0,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1133.19,
+        "endTime": 1136.81,
+        "words": "That's good It's within uh four feet per second of the nominal"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1137.38,
+        "endTime": 1138.11,
+        "words": "Roger that"
+    },
+    {
+        "speakerID": "NETWORK",
+        "startTime": 1154.96,
+        "endTime": 1156.55,
+        "words": "FIDO NETWORK my loop"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1173.98,
+        "endTime": 1174.92,
+        "words": "GUIDANCE FIDO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1175.23,
+        "endTime": 1175.51,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1175.51,
+        "endTime": 1176.95,
+        "words": "You got a cutoff time for me?"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1176.95,
+        "endTime": 1179.4,
+        "words": "Yes sir let me give it to you standby"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1188.56,
+        "endTime": 1191.67,
+        "words": "Two plus five zero plus zero three"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1204.32,
+        "endTime": 1205.64,
+        "words": "FIDO this is RETRO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1212.26,
+        "endTime": 1213.42,
+        "words": "Go ahead RETRO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1225.48,
+        "endTime": 1227.04,
+        "words": "RETRO FIDO you called?"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1228.01,
+        "endTime": 1231.83,
+        "words": "Roger I think he got a different number than you did for cutoff and I I was just going"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1231.83,
+        "endTime": 1233.44,
+        "words": "Ah it's alright we just for NETWORK"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1233.97,
+        "endTime": 1237.55,
+        "words": "It's two plus five zero plus zero three was the cutoff"
+    },
+    {
+        "speakerID": "UNK",
+        "startTime": 1246.78,
+        "endTime": 1248.57,
+        "words": "CARNARVON [unk]"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1258.15,
+        "endTime": 1259.28,
+        "words": "FIDO this is RETRO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1259.93,
+        "endTime": 1260.31,
+        "words": "Go ahead"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1260.31,
+        "endTime": 1265.11,
+        "words": "I confirm that the cutoff time from BOOSTER with yours I'm he gave me the wrong number"
+    },
+    {
+        "speakerID": "BOOSTER",
+        "startTime": 1296.19,
+        "endTime": 1298.01,
+        "words": "RETRO BOOSTER my loop"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1323.05,
+        "endTime": 1327.01,
+        "words": "Yeah FIDO don't forget you add some in the booster [unk] back there [unk]"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1333.3,
+        "endTime": 1337.1,
+        "words": "Yeah and then add a plane in C.M.C. but that doesn't show up too much here"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1394.14,
+        "endTime": 1395.37,
+        "words": "Which one do you like FIDO?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1397.1,
+        "endTime": 1399.08,
+        "words": "I like the I.U. Myself"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1399.08,
+        "endTime": 1402.32,
+        "words": "Even with the uh data train [unk] we go about it?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1402.32,
+        "endTime": 1403.82,
+        "words": "Yeah I see what you're saying"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1406.43,
+        "endTime": 1409.57,
+        "words": "Well looks like the only thing to do is rattle through them."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1409.57,
+        "endTime": 1415.53,
+        "words": "Okay C.M.C. should've been pretty good but they did have a [unk] which is an up down mostly."
+    },
+    {
+        "speakerID": "MCCFILEspk1",
+        "startTime": 1505.5,
+        "endTime": 1510.54,
+        "words": "[unk] FIDO You you can't hardly go wrong"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1569.54,
+        "endTime": 1570.19,
+        "words": "GUIDANCE FIDO"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1571.14,
+        "endTime": 1571.8,
+        "words": "Go"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1571.8,
+        "endTime": 1575.46,
+        "words": "I'm going to move E.T. And chi chi the usable."
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1575.46,
+        "endTime": 1575.93,
+        "words": "Go"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1741.15,
+        "endTime": 1743.06,
+        "words": "Okay uh FIDO"
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 1753.68,
+        "endTime": 1755.32,
+        "words": "FIDO FLIGHTPLAN on MOCR dynamic"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1756.29,
+        "endTime": 1757.16,
+        "words": "Go FLIGHTPLAN"
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 1757.16,
+        "endTime": 1758.96,
+        "words": "What's the time of the major maneuver?"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1761.01,
+        "endTime": 1762.23,
+        "words": "Four forty O one"
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 1762.67,
+        "endTime": 1763.29,
+        "words": "Okay"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1764.65,
+        "endTime": 1766.53,
+        "words": "I've got to fit your FLIGHTPLAN on the [unk]"
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 1766.53,
+        "endTime": 1774.22,
+        "words": "Right and the the the three flight numbers he has to look at the slingshot The those numbers are good for twenty minutes after the invasive maneuver."
+    },
+    {
+        "speakerID": "FLIGHTPLAN",
+        "startTime": 1777.13,
+        "endTime": 1784.24,
+        "words": "That is the number he has on board right now. They do the invasive maneuver early. We just the numbers are good over there."
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1784.24,
+        "endTime": 1785.06,
+        "words": "Roger"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1811.29,
+        "endTime": 1812.19,
+        "words": "Retro FIDO"
+    },
+    {
+        "speakerID": "RETRO",
+        "startTime": 1813.65,
+        "endTime": 1814.49,
+        "words": "Go ahead FIDO"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1814.49,
+        "endTime": 1815.62,
+        "words": "You got a call on three"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1817.52,
+        "endTime": 1818.84,
+        "words": "FIDO GUIDANCE before you go away"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1854.12,
+        "endTime": 1854.9,
+        "words": "Go ahead GUIDANCE"
+    },
+    {
+        "speakerID": "GUIDANCE",
+        "startTime": 1855.58,
+        "endTime": 1876.57,
+        "words": "Roger uh want to make you've got that T.T. [unk] at seven [unk] Make sure we leave it there for time eternal I'd rather until we get past this outline go [unk] which will be sometime in the future. Uh even though you've got We may update sometime later on if you go say that one"
+    },
+    {
+        "speakerID": "FIDO",
+        "startTime": 1877.63,
+        "endTime": 1878.29,
+        "words": "It's there"
+    }
+]

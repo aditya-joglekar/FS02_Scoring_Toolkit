@@ -1,0 +1,194 @@
+[
+    {
+        "speakerID": "EECOM1",
+        "startTime": 256.04,
+        "endTime": 261.05,
+        "words": "FLIGHT EECOM. Got your symbols. Single tank capability powered up on O2."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 263.16,
+        "endTime": 263.85,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 358.08,
+        "endTime": 358.61,
+        "words": "FLIGHT EECOM."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 359.59,
+        "endTime": 360.16,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 361.78,
+        "endTime": 383.67,
+        "words": "Uh I think we've seen enough on these uh the O2 flow that's occuring during the accumulator cycles to say that uh. It all looks very uh explainable. And that uh the shift on the transducer has not changed and that uh Uh the procedure crew procedures that we modified uh still stand. With respect to using the uh twelve meter indication."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 571.02,
+        "endTime": 571.44,
+        "words": "FLIGHT EECOM"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 572.39,
+        "endTime": 572.94,
+        "words": "Go ahead."
+    },
+    {
+        "speakerID": "EECOM1",
+        "startTime": 572.94,
+        "endTime": 575.37,
+        "words": "The [unk] max was sixty one degrees."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 575.37,
+        "endTime": 579.43,
+        "words": "Okay. Sixty one. Better. Okay."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 757.73,
+        "endTime": 758.53,
+        "words": "G.N.C. FLIGHT"
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 762.69,
+        "endTime": 763.24,
+        "words": "Go FLIGHT."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 763.66,
+        "endTime": 770.83,
+        "words": "Uh I hope that the people that are working this problem are hoping to get a solution for it today. You know if you get into rescues of any kind."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 770.83,
+        "endTime": 772.03,
+        "words": "FLIGHT give me two minutes."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 772.03,
+        "endTime": 772.97,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 870.0,
+        "endTime": 870.8,
+        "words": "FLIGHT G.N.C."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 871.97,
+        "endTime": 872.47,
+        "words": "Ahead."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 873.28,
+        "endTime": 898.5,
+        "words": "Okay we believe that all errors That mass Can be attributed To The difference in the S.P.S. systems Performance as stated in the Flight plan which I understand Is being used They are basing all their maneuvers on a sixty six"
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 900.87,
+        "endTime": 906.65,
+        "words": "Point uh Four seven flow rate. For L.O.I. one"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 907.7,
+        "endTime": 908.04,
+        "words": "Mm-hmm."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 908.04,
+        "endTime": 925.0,
+        "words": "Our mass computations and using interface pressures [unk] sixty seven point four four. Flow rate. Uh that's a pound a second of difference. Uh that will account for a three hundred and fifty some odd pounds of the difference in the right direction."
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 928.03,
+        "endTime": 945.3,
+        "words": "Also the S.P.S. predicted loaded At lift off was forty thousand eight hundred. But we lifted off with a loaded value of forty thousand six hundred, which is another two hundred pounds. I think that took care of all the errors we have. The weights we carry right now are correct. There is no problem internal here."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 946.24,
+        "endTime": 951.96,
+        "words": "Okay. Okay good, then we we fully understand the situation then?"
+    },
+    {
+        "speakerID": "GNC1",
+        "startTime": 952.46,
+        "endTime": 952.98,
+        "words": "Rog."
+    },
+    {
+        "speakerID": "SPAN1",
+        "startTime": 954.75,
+        "endTime": 956.3,
+        "words": "Uh FLIGHT SPAN."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 956.3,
+        "endTime": 956.88,
+        "words": "Go."
+    },
+    {
+        "speakerID": "SPAN1",
+        "startTime": 957.86,
+        "endTime": 965.97,
+        "words": "Hey that particular question uh You're liable to get asked that over at your Post mission ah post uh"
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 968.97,
+        "endTime": 969.61,
+        "words": "Uh huh"
+    },
+    {
+        "speakerID": "SPAN1",
+        "startTime": 969.61,
+        "endTime": 974.05,
+        "words": "Okay. Because they they called back here just now again asking for an answer."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 974.05,
+        "endTime": 974.78,
+        "words": "Who did?"
+    },
+    {
+        "speakerID": "SPAN1",
+        "startTime": 975.42,
+        "endTime": 976.57,
+        "words": "Some guys from P.A.O."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 977.08,
+        "endTime": 977.6,
+        "words": "Okay."
+    },
+    {
+        "speakerID": "FD2",
+        "startTime": 1224.48,
+        "endTime": 1226.12,
+        "words": "Your your computations have"
+    }
+]
