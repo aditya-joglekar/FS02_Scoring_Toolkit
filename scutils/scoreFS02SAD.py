@@ -30,10 +30,12 @@ Created on Sun Apr 5 2020
 # INCLUDING MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 #
 # Open-Source Software Credits:
-# KALDI         - ASR           - WER - (http://kaldi-asr.org/), 
-#       (https://github.com/kaldi-asr/kaldi/blob/master/src/bin/compute-wer.cc)
-# DSCORE       - DIARIZATION   - DER - (https://github.com/nryant/dscore)
-# NIST openSAT  - SAD           - DCF 
+# KALDI         - ASR          -  WER   - (http://kaldi-asr.org/), 
+#                                         (https://github.com/kaldi-asr/kaldi/
+#                                         blob/master/src/bin/compute-wer.cc)
+# DSCORE        - DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
+# NIST openSAT  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/
+#                             nist-open-speech-activity-detection-evaluation)
 ###############################################################################
 """
 
@@ -50,16 +52,39 @@ def parse_arguments():
     def_out_path = util.get_results_path()+'SAD_DCF_Result_'+util.getDateTimeStrStamp()+'.txt'
     coll_inps_str = 'Allowed Inputs: 0, 0.25, 0.5, 1, 2'
     
-    parser = argparse.ArgumentParser(description='Wrapper File to generate SAD Scores for FS02 Challenge')
     
-    parser.add_argument('-ref', '--ref', type=str, default=sctk_path+'egs/ref_gt/SAD/',
-                        help='Reference (ground truth) Directory Path')
-    parser.add_argument('-hyp', '--hyp', type=str, default=sctk_path+'egs/sys_results/SAD/',
-                        help='Hypothesis (system output) Directory Path')
-    parser.add_argument('-out', '--out', type=str, default=def_out_path,
-                        help='Output (system score) File Path. \nDefault: Results stored in "results" dir')
-    parser.add_argument('-sadcollar', '--sadcollar', type=float, default=0.5,
-                        help='Desired Collar to be ignored for SAD evaluation.\n'+coll_inps_str)
+    desc='Wrapper File to generate DCF Scores for FS02 Challenge SAD Task.' +\
+        'For more information regarding scoring input and hypothesis files, '+\
+        'refer below arguments description.'+\
+        'Open-Source Software Credits: This script uses scoreFile_SAD.pl '+\
+        'developed by NIST. for more info, refer: (https://www.nist.gov/'+\
+        'itl/iad/mig/nist-open-speech-activity-detection-evaluation)'
+    
+    ref_mp = 'egs/ref_gt/SAD/'
+    hyp_mp = 'egs/sys_results/SAD/'
+    
+    ref_def = sctk_path+ref_mp
+    hyp_def = sctk_path+hyp_mp
+    
+    
+    ref_str = 'Reference (ground truth) Directory Path. '+\
+        'This directory must include only SAD ground truth files. '+\
+        'Please refer ./'+ref_mp+' directory for examples.'
+    hyp_str = 'Hypothesis (system output) Directory Path. '+\
+        'This directory must include only SAD system output files. '+\
+        'Please refer ./'+hyp_mp+' directory for examples and file format.'
+    out_str = 'Output (per file and overall system score) File Path. '+\
+        'Default: Result file will stored in '+util.get_results_path()+' directory. '+\
+        'Additional log files if generated will be stored in '+util.get_logs_path()
+    clr_str = 'Desired forgiveness Collar for SAD evaluation. '+coll_inps_str+\
+        ' Default collar length: 0.5 secs.'
+    
+    
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument('-ref', '--ref', type=str, default=ref_def, help=ref_str)
+    parser.add_argument('-hyp', '--hyp', type=str, default=hyp_def, help=hyp_str)
+    parser.add_argument('-out', '--out', type=str, default=def_out_path, help=out_str)
+    parser.add_argument('-sadcollar', '--sadcollar', type=float, default=0.5, help=clr_str)
     
     args = parser.parse_args()
     ref_path = util.processInpPath(args.ref)
