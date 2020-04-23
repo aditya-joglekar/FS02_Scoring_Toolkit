@@ -9,7 +9,7 @@ Created on Sun Apr 5 2020
 # Revision history
 # v1.0 (April 15, 2020)
 #    - Aditya Joglekar
-#    Developed using Python v3.6.7
+#    Developed using Python v3.7.7
 #
 ###############################################################################
 # This software was developed at the University of Texas at Dallas, Center for  
@@ -30,10 +30,12 @@ Created on Sun Apr 5 2020
 # INCLUDING MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 #
 # Open-Source Software Credits:
-# KALDI         - ASR           - WER - (http://kaldi-asr.org/), 
-#       (https://github.com/kaldi-asr/kaldi/blob/master/src/bin/compute-wer.cc)
-# DSCORE       - DIARIZATION   - DER - (https://github.com/nryant/dscore)
-# NIST openSAT  - SAD           - DCF 
+# KALDI         - ASR          -  WER   - (http://kaldi-asr.org), 
+#                                         (https://github.com/kaldi-asr/kaldi/
+#                                         blob/master/src/bin/compute-wer.cc)
+# DSCORE        - DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
+# NIST openSAT  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/
+#                             nist-open-speech-activity-detection-evaluation)
 ###############################################################################
 """
 
@@ -45,40 +47,73 @@ import argparse
 def parse_arguments():
     sctk_path = util.get_fs02sctk_path()
     def_out_path = util.get_results_path()+'ASR_WER_Result_'+util.getDateTimeStrStamp()+'.txt'
-    def_ref_path = sctk_path+'egs/ref_gt/ASR/ASR_track'
-    def_hyp_path = sctk_path+'egs/sys_results/ASR/ASR_track'
+   
     
-    parser = argparse.ArgumentParser(description='Wrapper File to generate ASR (track1 and track2) Scores for FS02 Challenge')
     
-    parser.add_argument('-track', '--track', type=str, default='1', 
-                        help='Evaluation of Task-track.\nInput Options: [1 , 2]'+
-                        '\nDefault (no input) will run script on ASR-track1 example in ./egs/')
-    parser.add_argument('-kaldi','--kaldi','-kaldipath', '--kaldipath', type=str, required=True,
-                        help='base path to the locally installed kaldi directory.'+
-                        '\ne.g. /home/crss/kaldi')
-    parser.add_argument('-ref', '--ref', type=str, default=def_ref_path,
-                        help='Reference (ground truth) Directory Path (for Track-1),'+
-                        ' or File Path (for Track-2)')
-    parser.add_argument('-hyp', '--hyp', type=str, default=def_hyp_path,
-                        help='Hypothesis (system output) Directory Path (for Track-1),'+
-                        ' or File Path (for Track-2)')
-    parser.add_argument('-out', '--out', type=str, default=def_out_path,
-                        help='Output (system score) File Path. \nDefault: Results stored in "results" dir')    
+    desc='Wrapper File to generate WER Scores for FS02 Challenge ASR (track1 and track2) Task.' +\
+        'Scoring mechanism for both tracks is the same, but the system output '+\
+        'hypothesis file/folder expected from the user will be different. '+\
+        '(folder with json files for track-1, and a plain text file for track-2)'+\
+        'For more information regarding scoring input and hypothesis files, '+\
+        'refer below arguments description. Open-Source Software Credits: '+\
+        'This script uses compute-wer tool from the Kaldi Speech Recognition '+\
+        'Toolkit. for more info, refer: (http://kaldi-asr.org/doc/tools.html)'
+    
+    ref_mp = 'egs/ref_gt/ASR/ASR_track'
+    hyp_mp = 'egs/sys_results/ASR/ASR_track'
+    
+    ref_def = sctk_path+ref_mp
+    hyp_def = sctk_path+hyp_mp
+            
+    ref_str = 'Reference (ground truth) Path. '+\
+        '(Directory Path for Track-1, and File Path for Track-2) '+\
+        'Directory Path for Track-1 must include only ASR ground truth files. '+\
+        'For ASR_track1: directory containing json format ground truth files required. '+\
+        'Please refer ./'+ref_mp+'1/ directory for examples. '+\
+        'For ASR_track2: kaldi "text" file. Refer: { https://kaldi-asr.org/doc/data_prep.html#data_prep_data }. '+\
+        '   file contents of File Path for Track-2 must include only FS02_ASR_track2 '+\
+        'file-names followed by associated transcripts (like in Kaldi "text" format)'+\
+        'Please refer ./'+ref_mp+'2/ directory for examples.'
+    hyp_str = 'Hypothesis (system output) Directory/File Path. '+\
+        '(Directory Path for Track-1, and File Path for Track-2) '+\
+        'Directory Path for Track-1 must include only FS02-ASR system output files. '+\
+        'For ASR_track1: directory containing json format system output files required. '+\
+        'Please refer ./'+ref_mp+'1/ directory for examples and file format. '+\
+        'For ASR_track2: kaldi "text" file. Refer: { https://kaldi-asr.org/doc/data_prep.html#data_prep_data }. '+\
+        'file contents of File Path for Track-2 must include only FS02_ASR_track2 '+\
+        'file-names followed by associated transcripts (like in Kaldi "text" format)'+\
+        'Please refer ./'+ref_mp+'2/ directory for examples and file format.'
+    out_str = 'Output (overall system score) File Path. '+\
+        'Default: Result file will stored in '+util.get_results_path()+' directory. '+\
+        'Additional log files if generated will be stored in '+util.get_logs_path()
+    trk_str = 'Track number of the ASR Task to be evaluated. '+\
+        'Input Options: (as string) "1" or "2"'
+    kld_str = 'base path to the locally installed kaldi directory. '+\
+        'e.g. /home/crss/kaldi. This argument is required for'
+    
+    
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument('-track', '--track', type=str, default='1', help=trk_str)
+    parser.add_argument('-kaldi','--kaldi', type=str, required=True, help=kld_str)
+    parser.add_argument('-ref', '--ref', type=str, default=ref_def, help=ref_str)
+    parser.add_argument('-hyp', '--hyp', type=str, default=hyp_def, help=hyp_str)
+    parser.add_argument('-out', '--out', type=str, default=def_out_path, help=out_str)
+     
     args = parser.parse_args()
     
     track_num = proc_track_num(args.track)
     kaldi_path = util.processInpPath(args.kaldi)    
-    if args.ref == def_ref_path or args.hyp == def_hyp_path:
+    if args.ref == ref_def or args.hyp == hyp_def:
         ad = str(track_num)+'/'
-        def_2_name = 'FS02_ASR_track2_transcriptions_Dev'
+        t2_name = 'FS01_ASR_track2_transcriptions_Dev'
         print('ref or hyp paths are either not provided, or match default paths.')
         print('Running Script on default example for Track-',str(track_num))
         if track_num == 2:
-            args.ref = def_ref_path+ad+def_2_name
-            args.hyp = def_hyp_path+ad+def_2_name
+            args.ref = ref_def+ad+t2_name
+            args.hyp = hyp_def+ad+t2_name
         else:
-            args.ref = def_ref_path+ad
-            args.hyp = def_hyp_path+ad
+            args.ref = ref_def+ad
+            args.hyp = hyp_def+ad
     if track_num == 2:
         ref_path = util.processInpPath(args.ref, inpType='file', checkExists=True)
         hyp_path = util.processInpPath(args.hyp, inpType='file', checkExists=True)
@@ -161,3 +196,4 @@ if __name__ == '__main__':
     # Write Results and Log
     util.writeList(write_msg, out_path, isOverWrite=True)
     del write_msg, out_path
+# EOF

@@ -9,7 +9,7 @@ Created on Sun Apr 5 2020
 # Revision history
 # v1.0 (April 15, 2020)
 #    - Aditya Joglekar
-#    Developed using Python v3.6.7
+#    Developed using Python v3.7.7
 #
 ###############################################################################
 # This software was developed at the University of Texas at Dallas, Center for  
@@ -30,10 +30,12 @@ Created on Sun Apr 5 2020
 # INCLUDING MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 #
 # Open-Source Software Credits:
-# KALDI         - ASR           - WER - (http://kaldi-asr.org/), 
-#       (https://github.com/kaldi-asr/kaldi/blob/master/src/bin/compute-wer.cc)
-# DSCORE       - DIARIZATION   - DER - (https://github.com/nryant/dscore)
-# NIST openSAT  - SAD           - DCF 
+# KALDI         - ASR          -  WER   - (http://kaldi-asr.org), 
+#                                         (https://github.com/kaldi-asr/kaldi/
+#                                         blob/master/src/bin/compute-wer.cc)
+# DSCORE        - DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
+# NIST openSAT  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/
+#                             nist-open-speech-activity-detection-evaluation)
 ###############################################################################
 """
 
@@ -50,23 +52,42 @@ def parse_arguments():
     def_out_path = util.get_results_path()+'SD_DER_Result_'+util.getDateTimeStrStamp()+'.txt'
     coll_inps_str = 'Allowed Inputs: 0, 0.25, 0.5, 1, 2'
     
-    parser = argparse.ArgumentParser(description='Wrapper File to generate SD (track1 and track2) Scores for FS02 Challenge')
     
-    parser.add_argument('-ref', '--ref', type=str, default=sctk_path+'egs/ref_gt/SD/',
-                        help='Reference (ground truth) Directory Path.'+
-                        '\nThis dir must contain "RTTM" and "UEM" folders')
-    parser.add_argument('-hyp', '--hyp', type=str, default=sctk_path+'egs/sys_results/SD/',
-                        help='Hypothesis (system output) Directory Path'+
-                        '\nThis dir must contain all hypothesis files')
-    parser.add_argument('-out', '--out', type=str, default=def_out_path,
-                        help='Output (system score) File Path.'+
-                        '\nDefault: Results stored in "results" dir')
-    parser.add_argument('-diarcollar', '--diarcollar', type=float, default=0.25,
-                        help='Desired Collar to be ignored for DER evaluation.\n'+coll_inps_str)
+    desc='Wrapper File to generate DER Scores for FS02 Challenge SD (track1 and track2) Tasks.' +\
+        'Scoring mechanism for both tracks will be the same. For more '+\
+        'information regarding scoring input and hypothesis files, refer '+\
+        'below arguments description. Open-Source Software Credits: '+\
+        'This script uses dscore toolkit developed by Neville Ryant for '+\
+        'generating DER scores. for more info, refer: (https://github.com/nryant/dscore)'
     
+    ref_mp = 'egs/ref_gt/SD/'
+    hyp_mp = 'egs/sys_results/SD/'
+    
+    ref_def = sctk_path+ref_mp
+    hyp_def = sctk_path+hyp_mp
+    
+    
+    ref_str = 'Reference (ground truth) Directory Path. '+\
+        'This directory must include only SD ground truth RTTM '+\
+        'and UEM folders. Please refer ./'+ref_mp+' directory for examples.'
+    hyp_str = 'Hypothesis (system output) Directory Path. '+\
+        'This directory must include only diarization system output RTTM files. '+\
+        'Please refer ./'+hyp_mp+' directory for examples and file format.'
+    out_str = 'Output (per file and overall system score) File Path. '+\
+        'Default: Result file will stored in '+util.get_results_path()+' directory. '+\
+        'Additional log files if generated will be stored in '+util.get_logs_path()
+    clr_str = 'Desired forgiveness Collar for SD evaluation. '+coll_inps_str+\
+        ' Default collar length: 0.25 secs.'
+    
+    
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument('-ref', '--ref', type=str, default=ref_def, help=ref_str)
+    parser.add_argument('-hyp', '--hyp', type=str, default=hyp_def, help=hyp_str)
+    parser.add_argument('-out', '--out', type=str, default=def_out_path, help=out_str)
+    parser.add_argument('-diarcollar', '--diarcollar', type=float, default=0.25, help=clr_str)
     args = parser.parse_args()
+    
     ref_path = proc_sd_ref_files(util.processInpPath(args.ref))
-    # process to delete uncommon rttm uem files
     hyp_path = util.processInpPath(args.hyp)
     out_path = util.processInpPath(args.out, inpType='file')
     diarcollar = proc_sd_collar(args.diarcollar)
@@ -159,8 +180,8 @@ def score_file_SAD(py_val_path, py_score_path, fname, ref_rttm, hyp_rttm, ref_ue
 
 def score_folder_SD(fileList, fileDict, diarcollar, write_msg, out_path):
     sctk_path = util.get_fs02sctk_path()
-    py_val_path = sctk_path+'scutils/ndscore/validate_rttm.py'
-    py_score_path = sctk_path+'scutils/ndscore/score.py'
+    py_val_path = sctk_path+'scutils/dscore/validate_rttm.py'
+    py_score_path = sctk_path+'scutils/dscore/score.py'
     log_write_path = util.get_logs_path()+util.get_bname(out_path)+'.log'
     derDict = {}
     log_list = []
@@ -234,3 +255,4 @@ if __name__ == '__main__':
     # Write Results and Log
     util.writeList(write_msg, out_path, isOverWrite=True)
     del write_msg, out_path
+# EOF

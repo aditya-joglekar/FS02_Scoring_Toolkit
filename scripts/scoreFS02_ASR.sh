@@ -11,9 +11,10 @@ out_path=$3
 
 # Check Kaldi path
 if [ ! -f ${kaldi_path}/src/bin/compute-wer ]; then
-    echo -e "Kaldi path is either not a directory \
-    or does not contain compute-wer.\nCannot compute \
-    WER scores.\nTerminating program...\n\n\n"
+    echo -e "Kaldi path is either not a valid directory \
+or does not contain compute-wer.\nCannot compute WER scores. \
+Please insert a valid Kaldi path in the ./cfg_path.sh file. \
+\nTerminating program...\n\n\n"
     exit 1;
 fi
 

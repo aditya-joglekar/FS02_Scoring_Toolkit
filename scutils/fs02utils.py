@@ -9,7 +9,7 @@ Created on Sun Apr 5 2020
 # Revision history
 # v1.0 (April 15, 2020)
 #    - Aditya Joglekar
-#    Developed using Python v3.6.7
+#    Developed using Python v3.7.7
 #
 ###############################################################################
 # This software was developed at the University of Texas at Dallas, Center for  
@@ -30,10 +30,12 @@ Created on Sun Apr 5 2020
 # INCLUDING MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 #
 # Open-Source Software Credits:
-# KALDI         - ASR           - WER - (http://kaldi-asr.org/), 
-#       (https://github.com/kaldi-asr/kaldi/blob/master/src/bin/compute-wer.cc)
-# DSCORE       - DIARIZATION   - DER - (https://github.com/nryant/dscore)
-# NIST openSAT  - SAD           - DCF 
+# KALDI         - ASR          -  WER   - (http://kaldi-asr.org), 
+#                                         (https://github.com/kaldi-asr/kaldi/
+#                                         blob/master/src/bin/compute-wer.cc)
+# DSCORE        - DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
+# NIST openSAT  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/
+#                             nist-open-speech-activity-detection-evaluation)
 ###############################################################################
 """
 
@@ -191,12 +193,12 @@ def processInpPath(inp_path, inpType='dir', checkExists=False):
     
     if inpType == 'file':
         dir_name = os.path.dirname(inp_path)
-        if not os.path.exists(dir_name):
+        if not os.path.isdir(dir_name):
             print(dir_name,' -> Directory Path of file does not Exist.')
             terminate_program()
         else:
             if checkExists:
-                if not os.path.exists(inp_path):
+                if not os.path.isfile(inp_path):
                     print(inp_path,' -> File Path does not Exist.')
                     terminate_program()
             return inp_path
@@ -266,7 +268,4 @@ def get_files_to_score(ref_path, hyp_path, write_msg, isFolder=True, task=''):
     write_msg.append('\n\n')
     
     return files_to_score, fileDict, write_msg
-
-
-
-
+# EOF

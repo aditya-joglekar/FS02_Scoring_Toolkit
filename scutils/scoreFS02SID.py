@@ -9,7 +9,7 @@ Created on Sun Apr 5 2020
 # Revision history
 # v1.0 (April 15, 2020)
 #    - Aditya Joglekar
-#    Developed using Python v3.6.7
+#    Developed using Python v3.7.7
 #
 ###############################################################################
 # This software was developed at the University of Texas at Dallas, Center for  
@@ -30,10 +30,12 @@ Created on Sun Apr 5 2020
 # INCLUDING MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 #
 # Open-Source Software Credits:
-# KALDI         - ASR           - WER - (http://kaldi-asr.org/), 
-#       (https://github.com/kaldi-asr/kaldi/blob/master/src/bin/compute-wer.cc)
-# DSCORE       - DIARIZATION   - DER - (https://github.com/nryant/dscore)
-# NIST openSAT  - SAD           - DCF 
+# KALDI         - ASR          -  WER   - (http://kaldi-asr.org), 
+#                                         (https://github.com/kaldi-asr/kaldi/
+#                                         blob/master/src/bin/compute-wer.cc)
+# DSCORE        - DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
+# NIST openSAT  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/
+#                             nist-open-speech-activity-detection-evaluation)
 ###############################################################################
 """
 
@@ -46,18 +48,36 @@ def parse_arguments():
     sctk_path = util.get_fs02sctk_path()
     def_out_path = util.get_results_path()+'SID_TopN_Result_'+util.getDateTimeStrStamp()+'.txt'
     
-    parser = argparse.ArgumentParser(description='Scoring File to generate Top-N Accuracy Scores for FS02 SID Challenge Task')
     
-    parser.add_argument('-ref', '--ref', type=str, 
-                        default=sctk_path+'egs/ref_gt/SID/FS01_SID_uttID2spkID_Dev.txt',
-                        help='Reference (ground truth) File Path')
-    parser.add_argument('-hyp', '--hyp', type=str, 
-                        default=sctk_path+'egs/sys_results/SID/FS01_SID_uttID2spkID_Dev.txt',
-                        help='Hypothesis (system output) File Path')
-    parser.add_argument('-out', '--out', type=str, default=def_out_path,
-                        help='Output (system score) File Path. \nDefault: Results stored in "results" dir')
-    parser.add_argument('-topN', '--topN', type=int, default=5,
-                        help='Desired Top-N Accuracy for SID evaluation')
+    desc='Wrapper File to generate Top-N Accuracy Scores for FS02 Challenge SID Task.' +\
+        'For more information regarding scoring input and hypothesis files, '+\
+        'refer below arguments description.'
+    
+    ref_mp = 'egs/ref_gt/SID/FS01_SID_uttID2spkID_Dev.txt'
+    hyp_mp = 'egs/sys_results/SID/FS01_SID_uttID2spkID_Dev.txt'
+    
+    ref_def = sctk_path+ref_mp
+    hyp_def = sctk_path+hyp_mp
+    
+    
+    ref_str = 'Reference (ground truth) File Path. '+\
+        'This file must be the SID ground truth file. '+\
+        'Please refer ./'+ref_mp+' file for example.'
+    hyp_str = 'Hypothesis (system output) File Path. '+\
+        'This directory must include only SAD system output files. '+\
+        'Please refer ./'+hyp_mp+' file for example and file format.'
+    out_str = 'Output (overall system score) File Path. '+\
+        'Default: Result file will stored in '+util.get_results_path()+' directory. '+\
+        'Additional log files will be stored in '+util.get_logs_path()
+    clr_str = 'Desired Top-N Accuracy for SID evaluation. '+\
+        'Default: Top-5 Accuracy.'
+    
+    
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument('-ref', '--ref', type=str, default=ref_def, help=ref_str)
+    parser.add_argument('-hyp', '--hyp', type=str, default=hyp_def, help=hyp_str)
+    parser.add_argument('-out', '--out', type=str, default=def_out_path, help=out_str)
+    parser.add_argument('-topN', '--topN', type=int, default=5, help=clr_str)
     
     args = parser.parse_args()
     ref_path = util.processInpPath(args.ref, inpType='file', checkExists=True)
@@ -90,7 +110,6 @@ def validate_hyp_file(hyp_path):
         util.terminate_program()
     else:
         max_TopN = len(hyp_list[1].split()) - 1
-    
     return max_TopN
 
 
@@ -175,3 +194,4 @@ if __name__ == '__main__':
     # Write Results and Log
     util.writeList(write_msg, out_path, isOverWrite=True)
     del write_msg, out_path
+# EOF
