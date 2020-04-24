@@ -1,5 +1,5 @@
-# Fearless Steps Challenge Phase-02
-PyTorch deep learning project made easy.
+# Fearless Steps Challenge Phase-02 Scoring Toolkit (FS02-Sctk)
+Scoring Toolkit for the Fearless Steps Challenge Phase-02
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
@@ -32,6 +32,9 @@ PyTorch deep learning project made easy.
 	* [Acknowledgements](#acknowledgements)
 
 <!-- /code_chunk_output -->
+## Overview
+This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits))
+
 
 ## Requirements
 * Python >= 3.6 (3.7 recommended: Tested with Python 3.6.X, and 3.7.X.)
@@ -42,18 +45,13 @@ PyTorch deep learning project made easy.
 * tabulate>=0.5.0         (see requirements.txt)
 * sortedcontainers==2.1.0 (see requirements.txt)
 
-## Features
-* Clear folder structure which is suitable for many deep learning projects.
-* `.json` config file support for convenient parameter tuning.
-* Customizable command line options for more convenient parameter tuning.
-* Checkpoint saving and resuming.
-* Abstract base classes for faster development:
-  * `BaseTrainer` handles checkpoint saving/resuming, training process logging, and more.
-  * `BaseDataLoader` handles batch generation, data shuffling, and validation data splitting.
-  * `BaseModel` provides basic model summary.
+## Credits
+```
+
+```
 
 ## Folder Structure
-  ```
+```
     ./FS02_Scoring_Toolkit
   ├── egs
   │   ├── ref_gt
@@ -106,7 +104,7 @@ PyTorch deep learning project made easy.
       │   └── FS02_System_Description_eg.pdf
       ├── crss@utdallas.edu_ASR_track2_Submission_1.tar.gz
       └── Evaluation_and_Submission_Rules.txt
-  ```
+```
 
 ## Usage
 The code in this repo is an MNIST example of the template.
