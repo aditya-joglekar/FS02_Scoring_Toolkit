@@ -1,3 +1,4 @@
+.. -*- mode: rst -*-
 # Fearless Steps Challenge Phase-02 Scoring Toolkit (FS02-Sctk)
 Scoring Toolkit for the Fearless Steps Challenge Phase-02
 
@@ -54,7 +55,7 @@ This toolkit makes use of three open source software:
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following reference:
 
- .. [1] Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011. [`PDF <https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf>`_]
+ .. [1] Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011. [`PDF <https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf>`]
 
 [DSCORE](https://github.com/nryant/dscore): DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
 [NIST openSAT]  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation)
@@ -123,7 +124,7 @@ The
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas
   
-  please contact FearlessSteps@utdallas.edu, if you have any question regarding this repository.
+  please contact FearlessSteps@utdallas.edu, for any questions regarding this repository.
 
 ## License
 This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See  LICENSE for more details
