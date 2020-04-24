@@ -1,4 +1,3 @@
-.. -*- mode: rst -*-
 # Fearless Steps Challenge Phase-02 Scoring Toolkit (FS02-Sctk)
 Scoring Toolkit for the Fearless Steps Challenge Phase-02
 
@@ -12,12 +11,13 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02
 	* [Requirements](#requirements)
 	* [Folder Structure](#folder-structure)
 	* [Usage](#usage)
-	* [Author](#author)
 	* [References](#references)
+	* [Author](#author)
   * [License](#license)
 	* [Acknowledgements](#acknowledgements)
 
 <!-- /code_chunk_output -->
+
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
 This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#metrics). For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
@@ -53,39 +53,37 @@ This toolkit makes use of three open source software:
 
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
-If you have used the toolkits' ASR scripts, please consider citing the following reference:
+If you have used the toolkits' ASR scripts, please consider citing the following paper:
+``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [PDF](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
- .. [1] Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011. [`PDF <https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf>`]
+[DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html)
+If you have used the toolkits' SD scripts, please consider citing the following paper:
+```Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. "First DIHARD challenge evaluation plan." 2018, tech. Rep. (2018).``` [PDF](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
 
-[DSCORE](https://github.com/nryant/dscore): DIARIZATION  -  DER   - (https://github.com/nryant/dscore)
-[NIST openSAT]  - SAD          -  DCF   - (https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation)
-
+[NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation)
+```Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.``` [PDF](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
 
 
 ## Folder Structure
 ```
-    ./FS02_Scoring_Toolkit
+    ./FS02_Scoring_Toolkit 
   ├── egs
   │   ├── ref_gt
   │   │   ├── ASR
   │   │   │   ├── ASR_track1
   │   │   │   └── ASR_track2
-  │   │   │       └── FS01_ASR_track2_transcriptions_Dev
   │   │   ├── SAD
   │   │   ├── SD
   │   │   │   ├── RTTM
   │   │   │   └── UEM
   │   │   └── SID
-  │   │       └── FS01_SID_uttID2spkID_Dev.txt
   │   └── sys_results
   │       ├── ASR
   │       │   ├── ASR_track1
   │       │   └── ASR_track2
-  │       │       └── FS01_ASR_track2_transcriptions_Dev
   │       ├── SAD
   │       ├── SD
   │       └── SID
-  │           └── FS01_SID_uttID2spkID_Dev.txt
   ├── LICENSE
   ├── README.md
   ├── requirements.txt
@@ -119,10 +117,58 @@ If you have used the toolkits' ASR scripts, please consider citing the following
 ```
 
 ## Usage
-The 
+The toolkit can be used through bash shell scripts provided in ```./scripts/``` directory. 
+```
+  bash scoreFS02_<task_name>.sh <ref_path> <hyp_path> <out_path>
+
+      ref_path: Reference (Ground Truth) Path   (Directory Path or File Path depending on the Task and track)
+      hyp_path: Hypothesis (System Output) Path (Directory Path or File Path depending on the Task and track)
+      out_path: File Path to write scores
+   
+   **REQUIRED** Before running any script: Configuring the ./scripts/cfg_path.sh script.
+        variables required from users: 
+            kaldi_path and track_num (for ASR track 1 and 2)
+
+
+```
+
+Additional log files will be automatically generated, and the log path will be displayed on the terminal.
+For more details on the usage, please check the individual shell scripts. 
+Users can also use the python scripts directly (Usage and Documentation provided through shell scripts).
+
+## References
+If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
+
+Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. "The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio." In proc. Interspeech, vol. 2019. 2019. [PDF](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
+```
+    @inproceedings{Hansen2018,
+      author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
+      title={Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon},
+      year=2018,
+      booktitle={Proc. Interspeech 2018},
+      pages={2758--2762},
+      doi={10.21437/Interspeech.2018-1942},
+      url={http://dx.doi.org/10.21437/Interspeech.2018-1942}
+    }
+```
+
+Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [PDF](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
+```
+    @inproceedings{Hansen2019,
+      author={John H.L. Hansen and Aditya Joglekar and Meena Chandra Shekhar and Vinay Kothapally and Chengzhu Yu and Lakshmish Kaushik and Abhijeet Sangwan},
+      title={{The 2019 Inaugural Fearless Steps Challenge: A Giant Leap for Naturalistic Audio}},
+      year=2019,
+      booktitle={Proc. Interspeech 2019},
+      pages={1851--1855},
+      doi={10.21437/Interspeech.2019-2301},
+      url={http://dx.doi.org/10.21437/Interspeech.2019-2301}
+    }
+```
+
+
 
 ## Author
-  * Aditya Joglekar, CRSS, UT-Dallas
+  * Aditya Joglekar, CRSS, UT-Dallas, 2020
   
   please contact FearlessSteps@utdallas.edu, for any questions regarding this repository.
 
