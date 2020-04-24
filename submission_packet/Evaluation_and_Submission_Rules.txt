@@ -1,0 +1,99 @@
+# ------------------------------------------------------------------------------#
+#              FEARLESS STEPS CHALLENGE 2020 (PHASE-02) 
+# ------------------------------------------------------------------------------#
+#
+# Authors: John H.L. Hansen, Aditya Joglekar, Meena Chandra Shekhar, Abhijeet Sangwan
+# Contact: FearlessSteps@utdallas.edu
+# Robust Speech Systems Lab (RSTL), Center for Robust Speech Systems (CRSS)
+# The University of Texas at Dallas, Texas, USA
+
+
+
+================
+Submission Rules
+================
+
+1. Registered Participants can choose to make multiple submissions in any one or more tasks from the Fearless Steps challenge. 
+   Participants not registered, but a part of the registered participants' team can also submit their system results.
+   Submissions by researchers who did not register for the challenge and are not a part of any registered teams will not 
+   be considered for the Challenge.
+
+2. Submissions will only be accepted as long as they follow the format provided below and in the example submission packet.
+   Every submission must abide by the following rules:
+    
+    2.a Submissions should be sent to FearlessSteps@utdallas.edu in an email titled: "FS02 SUBMISSION"
+    
+    2.b The email must contain one or more attachments of one or more submission packets, each in a compressed format.
+        (REFER: Example submission packet provided with the FS02_Scoring_Toolkit: 
+            https://github.com/AJoGaTech/FS02_Scoring_Toolkit)
+    
+    2.c A single compressed (.zip or .tar.gz) submission packet should contain 3 main items:
+        i. System Description Document (.pdf file)
+        
+        ii. Dev (folder containing system outputs)
+        
+        iii. Eval (folder containing system outputs)    
+    
+    (REFER: "FS02_System_Description_eg.pdf" provided in the submission packet
+        to understand the contents the 3 items must include)
+    
+    2.d Every submission packet should have the following File Naming convention:
+        
+        <email-id>_<task-name>_Submission_<system-number>.<extn>
+        
+        i.   email-id : This email-id has to match the email-id used to register for the Challenge 
+                    (irrespective of who sends the submission packet).
+        
+        ii.  task-name : Must be one of the following:
+                    { SAD , SID , SD_track1 , SD_track2, ASR_track1, ASR_track2 }
+        
+        iii. system-number : Must be in chronological order of the submission. 
+            Each of the 6 tasks is considered as separate challenges, and hence teams participating in more than
+            one task must start with Submission_1 for each task submission. Subsequent submissions for a given task
+            which may be outputs of the same system with different tuning will be considered as a different system,
+            and should have the next system-number in increasing order. For eg. Team-ABC may make 3 submissions for 
+            SD_track1 task, 4 submissions for SAD, and 1 for SID. Irrespective of the similarity or differences in
+            the underlying systems, each task-specific system output on the (Dev and Eval) sets should be submitted
+            in individual compressed submission packets. Illustrating the above example, consider the following
+            submissions to FearlessSteps@utdallas.edu (can be sent in a single email or separate emails):
+                    ABC@uni.edu_SD_track1_Submission_1.tar.gz, ABC@uni.edu_SD_track1_Submission_2.zip, 
+                    ABC@uni.edu_SD_track1_Submission_3.tar.gz, ABC@uni.edu_SAD_Submission_1.tar.gz, 
+                    ABC@uni.edu_SAD_Submission_2.zip,          ABC@uni.edu_SAD_Submission_3.tar.gz, 
+                    A@uni.edu_SAD_Submission_4.tar.gz,         ABC@uni.edu_SID_Submission_1.tar.gz
+        
+        iv. extn : Must be a folder compressed to a ".zip" or ".tar.gz" format file.
+    
+    (REFER: "crss@utdallas.edu_ASR_track2_Submission_1.tar.gz" provided as an illustration
+        in the submission packet folder of the toolkit)
+        
+3. System submissions will be accepted between May 1, 2020, 12.00am AOE and May 6, 2020, 12.00am AOE.
+   The FS Team will reply to each email submission acknowledging the receipt of each teams' 
+   submission packets.
+
+
+
+================
+Evaluation Rules
+================
+
+1. Both Dev and Eval system submissions will be scored. Only Eval set results will be considered 
+   to rank teams for each Challenge. 
+
+2. Results for each system submission will be sent privately to respective participants on May 7th.
+   For every team, only the 5 best performing system submissions per task will be considered for the ranking.
+
+3. Evaluation code available at https://github.com/AJoGaTech/FS02_Scoring_Toolkit will be used to score 
+   all systems. Participants are expected to test their system output files using the Dev set
+   ground truth labels to ensure proper formatting of all system outputs prior to submission.
+
+4. Participants will be notified of their rankings on May 7, 2020 before 11.59pm AOE, which they can report 
+   on their conference paper(s). The best performing systems will be displayed on the FS02 website 
+   leaderboard under each team-name and system-number (<team-name>_system_<system-number>)
+   (REFER: https://fearless-steps.github.io/ChallengePhase2/Final.html)
+
+5. All Challenge participants are required to submit a conference paper(s) describing their systems 
+   (and reporting performance on Dev and Eval sets) to the "FEARLESS STEPS CHALLENGE PHASE-2" 
+   Special Sessions section at ISCA INTERSPEECH-2020. (Deadline: May 8, 2020)
+
+
+Please feel free to reach out to ​FearlessSteps@utdallas.edu for any queries or clarifications.

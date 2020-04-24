@@ -1,6 +1,28 @@
 #!/bin/bash
+# Created on Sun Apr 12 2020
+# @author: Aditya Joglekar
 set -e
 source $(dirname $(realpath "$0"))/cfg_path.sh
+
+
+#----------------------------------------------------------#
+# Script to generate DCF Scores for FS02 Challenge SAD Task
+# 
+# USAGE:
+#   bash scoreFS02_SAD.sh <ref_path> <hyp_path> <out_path> 
+#  
+#       ref_path: Reference (Ground Truth) Directory Path
+#       hyp_path: Hypothesis (System Output) Directory Path
+#       out_path: File Path to write DCF Scores 
+# 
+# EXAMPLES:
+#   Get Description and Help Options: 
+#       bash ./scripts/scoreFS02_SAD.sh
+# 
+#   Run on Default Example:
+#       bash ./scripts/scoreFS02_SAD.sh ./egs/ref_gt/SAD/ ./egs/sys_results/SAD/
+# 
+#----------------------------------------------------------#
 
 
 # Input arguments

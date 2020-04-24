@@ -4,6 +4,7 @@
 
 # Arguments to be set by user before execution 
 export python_path="python" # Set desired python path               (*required)
+# python_path required if not running from a virtual environment
 export kaldi_path="/home/crss/kaldi" # Set kaldi path               (*required)
 export track_num="1" # Set ASR Task Track number to evaluate system outputs on.
 

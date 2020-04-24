@@ -1,6 +1,28 @@
 #!/bin/bash
+# Created on Sun Apr 12 2020
+# @author: Aditya Joglekar
 set -e
 source $(dirname $(realpath "$0"))/cfg_path.sh
+
+
+#----------------------------------------------------------#
+# Script to generate DCF Scores for FS02 Challenge SID Task
+# 
+# USAGE:
+#   bash scoreFS02_SID.sh <ref_path> <hyp_path> <out_path> 
+#  
+#       ref_path: Reference (Ground Truth) File Path
+#       hyp_path: Hypothesis (System Output) File Path
+#       out_path: File Path to write Top-5 Accuracy Score
+# 
+# EXAMPLES:
+#   Get Description and Help Options: 
+#       bash ./scripts/scoreFS02_SID.sh
+# 
+#   Run on Default Example:
+#       bash ./scripts/scoreFS02_SID.sh ./egs/ref_gt/SID/FS01_SID_uttID2spkID_Dev.txt ./egs/sys_results/SID/FS01_SID_uttID2spkID_Dev.txt
+#        
+#----------------------------------------------------------#
 
 
 # Input arguments
