@@ -1,5 +1,5 @@
 # Fearless Steps Challenge Phase-02 Scoring Toolkit (FS02-Sctk)
-Scoring Toolkit for the Fearless Steps Challenge Phase-02
+Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
@@ -22,9 +22,10 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
 This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#metrics). For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
-### FS02 Scoring Metrics
 
+### FS02 Scoring Metrics
 The scoring metrics for FS02 Challenge per Task are:
+
   1. Speech Activity Detection (SAD):                   Detection Cost Function (DCF)
 
   2. Speaker Identification (SID):                      Top-5 Accuracy (% Top-5 Acc.)
@@ -48,6 +49,7 @@ The scoring metrics for FS02 Challenge per Task are:
 * tabulate>=0.5.0         (see requirements.txt)
 * sortedcontainers==2.1.0 (see requirements.txt)
 
+
 ## Credits
 This toolkit makes use of three open source software:
 
@@ -67,8 +69,8 @@ If you have used the toolkits' SD scripts, please consider citing the following 
 ## Folder Structure
 ```
     ./FS02_Scoring_Toolkit 
-  ├── egs
-  │   ├── ref_gt
+  ├── egs                             -----------      (Example test files to run scripts on)
+  │   ├── ref_gt                      -----------      (Example ground truth samples)
   │   │   ├── ASR
   │   │   │   ├── ASR_track1
   │   │   │   └── ASR_track2
@@ -77,16 +79,16 @@ If you have used the toolkits' SD scripts, please consider citing the following 
   │   │   │   ├── RTTM
   │   │   │   └── UEM
   │   │   └── SID
-  │   └── sys_results
+  │   └── sys_results                 -----------      (Example system output samples)
   │       ├── ASR
   │       │   ├── ASR_track1
   │       │   └── ASR_track2
   │       ├── SAD
   │       ├── SD
   │       └── SID
-  ├── LICENSE
-  ├── README.md
-  ├── requirements.txt
+  ├── LICENSE                         -----------      (FS02_Scoring_Toolkit License)
+  ├── README.md                       -----------      (This file)
+  ├── requirements.txt                -----------      (Setup file)
   ├── scripts
   │   ├── cfg_path.sh
   │   ├── scoreFS02_ASR.sh
@@ -94,8 +96,8 @@ If you have used the toolkits' SD scripts, please consider citing the following 
   │   ├── scoreFS02_SD.sh
   │   └── scoreFS02_SID.sh
   ├── scutils
-  │   ├── dscore
-  │   │   ├── LICENSE
+  │   ├── dscore                       -----------      (Diarization Toolkit)
+  │   │   ├── LICENSE                  -----------      (Diarization Toolkit License)
   │   │   ├── scorelib
   │   │   ├── score.py
   │   │   └── validate_rttm.py
@@ -105,7 +107,7 @@ If you have used the toolkits' SD scripts, please consider citing the following 
   │   ├── scoreFS02SAD.py
   │   ├── scoreFS02SD.py
   │   └── scoreFS02SID.py
-  └── submission_packet
+  └── submission_packet                ------------    (for FS Challenge Participants)
       ├── crss@utdallas.edu_ASR_track2_Submission_1
       │   ├── Dev
       │   │   └── Dev_Readme
@@ -116,25 +118,33 @@ If you have used the toolkits' SD scripts, please consider citing the following 
       └── Evaluation_and_Submission_Rules.txt
 ```
 
+
 ## Usage
 The toolkit can be used through bash shell scripts provided in ```./scripts/``` directory. 
 ```
-  bash scoreFS02_<task_name>.sh <ref_path> <hyp_path> <out_path>
+  bash ./scripts/scoreFS02_<task_name>.sh <ref_path> <hyp_path> <out_path>
 
       ref_path: Reference (Ground Truth) Path   (Directory Path or File Path depending on the Task and track)
       hyp_path: Hypothesis (System Output) Path (Directory Path or File Path depending on the Task and track)
       out_path: File Path to write scores
-   
-   **REQUIRED** Before running any script: Configuring the ./scripts/cfg_path.sh script.
-        variables required from users: 
-            kaldi_path and track_num (for ASR track 1 and 2)
-
-
 ```
+   
+  **REQUIRED** Before running any script: Configuring the ```./scripts/cfg_path.sh``` script.
+      Variables required to be set by users: 
+      ```kaldi_path``` and ```track_num``` (for running ASR track 1 and 2 scripts only)
+      ```python_path``` : path to the desired python with the packages mentioned in [Requirements](#requirements).
+      Users can leave this variable as-is, if running scripts through a virtual environment (Tested with conda and venv).
+      USAGE: ```pip install -r requirements.txt```
+
+  Optional: variables users can set (to evaluate system performance over different parameters): 
+  ```sad_collar``` , ```sd_collar``` ,  and ```topN_eval```. 
+
+**For more details on the usage, please check the individual shell scripts.** 
 
 Additional log files will be automatically generated, and the log path will be displayed on the terminal.
-For more details on the usage, please check the individual shell scripts. 
-Users can also use the python scripts directly (Usage and Documentation provided through shell scripts).
+Users can also use the python scripts directly from ```./scutils/scoreFS02<task-name>.py```
+(Usage and Documentation provided through shell scripts).
+
 
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
@@ -166,14 +176,15 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
 ```
 
 
-
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas, 2020
   
   please contact FearlessSteps@utdallas.edu, for any questions regarding this repository.
 
+
 ## License
 This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See  LICENSE for more details
+
 
 ## Acknowledgements
 This project was supported in part by  AFRL  under  contractFA8750-15-1-0205, NSF-CISE Project 1219130, and partially by the University of Texas at Dallas from the Distinguished University Chair in Telecommunications Engineering held by J.H. L. Hansen. We would also like to thank Tatiana Korelsky and the National Science Foundation (NSF) for their support on this scientific and historical project.
