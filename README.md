@@ -1,4 +1,5 @@
-# Fearless Steps Challenge Phase-02 Scoring Toolkit (FS02-Sctk)
+# Fearless Steps Challenge Phase-02
+# Scoring Toolkit (FS02-Sctk)
 Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -6,15 +7,15 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 <!-- code_chunk_output -->
 
 * [Overview](#overview)
-  * [Credits](#credits)
-  * [FS02 Scoring Metrics](#metrics)
-	* [Requirements](#requirements)
-	* [Folder Structure](#folder-structure)
-	* [Usage](#usage)
-	* [References](#references)
-	* [Author](#author)
-  * [License](#license)
-	* [Acknowledgements](#acknowledgements)
+* [Credits](#credits)
+* [FS02 Scoring Metrics](#metrics)
+* [Requirements](#requirements)
+* [Folder Structure](#folder-structure)
+* [Usage](#usage)
+* [References](#references)
+* [Author](#author)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
 
 <!-- /code_chunk_output -->
 
