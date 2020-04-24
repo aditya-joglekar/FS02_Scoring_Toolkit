@@ -159,7 +159,7 @@ def get_json_txtstr(file_path):
         if not type(data)==list:
             data = [data]
         for utt in data:
-            words = re.sub(r'(?<!\w)([A-Z])\.', r'\1', utt['words'])
+            words = re.sub(r'(?<!\w)([A-Z])\.', r'\1 ', utt['words'])
             words = words.replace('[unk]','').upper()
             words = ' '.join(e for e in words.split() if e.isalnum())
             content.append(words)
