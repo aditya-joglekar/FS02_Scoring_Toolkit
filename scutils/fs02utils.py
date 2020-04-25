@@ -42,6 +42,7 @@ Created on Sun Apr 5 2020
 
 import os, glob, sys, json, re
 from datetime import datetime
+from string import ascii_letters
 from subprocess import Popen, PIPE, STDOUT
 
 
@@ -153,15 +154,17 @@ def readList(readPath):
 
 
 def get_json_txtstr(file_path):
+    # to allow words like let's, we're, etc
+    english_chars = set(ascii_letters + "'")
     content = []
     with open(file_path,'r') as file:  
         data = json.load(file)
         if not type(data)==list:
             data = [data]
         for utt in data:
-            words = re.sub(r'(?<!\w)([A-Z])\.', r'\1', utt['words'])
+            words = re.sub(r'[,.;:@#?!&$]+', ' ', utt['words'])
             words = words.replace('[unk]','').upper()
-            words = ' '.join(e for e in words.split() if e.isalnum())
+            words = ' '.join(e for e in words.split() if english_chars.issuperset(e))
             content.append(words)
     content = ' '.join(content)
     content = re.sub(' +', ' ',content)
