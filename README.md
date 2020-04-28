@@ -1,4 +1,4 @@
-# Fearless Steps Challenge Phase-02 \nScoring Toolkit (FS02-Sctk)
+# Fearless Steps Challenge (FS02-Sctk) Scoring Toolkit 
 Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
