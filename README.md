@@ -26,17 +26,17 @@ This toolkit intends to provide a simple scoring mechanism streamlined for FS02 
 ### FS02 Scoring Metrics
 The scoring metrics for FS02 Challenge per Task are:
 
-  1. Speech Activity Detection (SAD):                   Detection Cost Function (DCF)
+  1. Speech Activity Detection (SAD):                   ``` Detection Cost Function (DCF) ```
 
-  2. Speaker Identification (SID):                      Top-5 Accuracy (% Top-5 Acc.)
+  2. Speaker Identification (SID):                      ``` Top-5 Accuracy (% Top-5 Acc.) ```
 
-  3. Speaker Diarization (SD):                          Diarization Error Rate (% DER)
+  3. Speaker Diarization (SD):                          ``` Diarization Error Rate (% DER) ```
   
       a. Track 1: SD using system SAD     (SD_track1)
   
       b. Track 2: SD using reference SAD  (SD_track2)
 
-  4. Automatic Speech Recognition (ASR):                Word Error Rate (% WER)
+  4. Automatic Speech Recognition (ASR):                ``` Word Error Rate (% WER) ```
   
       a. Track 1: Continuous stream ASR       (ASR_track1) 
   
