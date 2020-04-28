@@ -155,7 +155,6 @@ def readList(readPath):
 
 def get_json_txtstr(file_path):
     # to allow words like let's, we're, etc
-    # english_chars = set(ascii_letters)
     english_chars = set(ascii_letters + "'")
     content = []
     with open(file_path,'r') as file:  
@@ -163,6 +162,7 @@ def get_json_txtstr(file_path):
         if not type(data)==list:
             data = [data]
         for utt in data:
+            # scoring words like we're will be held off for the third phase of the challenge
             words = utt['words'].replace("'","")
             words = re.sub(r'[,.;:@#?!&$]+', ' ', words)
             words = words.replace('[unk]','').upper()

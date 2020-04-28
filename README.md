@@ -56,15 +56,15 @@ This toolkit makes use of three open source software:
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following paper:
-``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [PDF](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
+``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
 [DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper:
-```Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. "First DIHARD challenge evaluation plan." 2018, tech. Rep. (2018).``` [PDF](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
+```Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. "First DIHARD challenge evaluation plan." 2018, tech. Rep. (2018).``` [[PDF]](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
 
 [NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation). 
-If you have used the toolkits' SD scripts, please consider citing the following paper:
-```Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.``` [PDF](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
+If you have used the toolkits' SAD scripts, please consider citing the following paper:
+```Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.``` [[PDF]](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
 
 
 ## Folder Structure
@@ -91,14 +91,14 @@ If you have used the toolkits' SD scripts, please consider citing the following 
   ├── README.md                       -----------      (This file)
   ├── requirements.txt                -----------      (Setup file)
   ├── scripts
-  │   ├── cfg_path.sh
+  │   ├── cfg_path.sh                 -----------      (One-time setup Config file)
   │   ├── scoreFS02_ASR.sh
   │   ├── scoreFS02_SAD.sh
   │   ├── scoreFS02_SD.sh
   │   └── scoreFS02_SID.sh
   ├── scutils
-  │   ├── dscore                       -----------      (Diarization Toolkit)
-  │   │   ├── LICENSE                  -----------      (Diarization Toolkit License)
+  │   ├── dscore                       -----------      (diarization scoring toolkit)
+  │   │   ├── LICENSE                  -----------      (diarization scoring toolkit License)
   │   │   ├── scorelib
   │   │   ├── score.py
   │   │   └── validate_rttm.py
@@ -114,9 +114,9 @@ If you have used the toolkits' SD scripts, please consider citing the following 
       │   │   └── Dev_Readme
       │   ├── Eval
       │   │   └── Eval_Readme
-      │   └── FS02_System_Description_eg.pdf
+      │   └── FS02_System_Description_eg.pdf            (rules for FS Challenge Participants)
       ├── crss@utdallas.edu_ASR_track2_Submission_1.tar.gz
-      └── Evaluation_and_Submission_Rules.txt
+      └── Evaluation_and_Submission_Rules.txt           (rules for FS Challenge Participants)
 ```
 
 
@@ -151,7 +151,7 @@ Users can also use the python scripts directly from ```./scutils/scoreFS02<task-
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
-Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. "The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio." In proc. Interspeech, vol. 2019. 2019. [PDF](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
+Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. "The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio." In proc. Interspeech, vol. 2019. 2019. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
 ```
     @inproceedings{Hansen2019,
       author={John H.L. Hansen and Aditya Joglekar and Meena Chandra Shekhar and Vinay Kothapally and Chengzhu Yu and Lakshmish Kaushik and Abhijeet Sangwan},
@@ -165,7 +165,7 @@ Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Y
 ```
 
 
-Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [PDF](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
+Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
 ```
     @inproceedings{Hansen2018,
       author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
