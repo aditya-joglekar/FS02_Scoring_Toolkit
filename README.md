@@ -1,5 +1,4 @@
-# Fearless Steps Challenge Phase-02
-# Scoring Toolkit (FS02-Sctk)
+# Fearless Steps Challenge Phase-02 \nScoring Toolkit (FS02-Sctk)
 Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -59,11 +58,12 @@ for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following paper:
 ``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [PDF](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
-[DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html)
+[DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper:
 ```Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. "First DIHARD challenge evaluation plan." 2018, tech. Rep. (2018).``` [PDF](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
 
-[NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation)
+[NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation). 
+If you have used the toolkits' SD scripts, please consider citing the following paper:
 ```Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.``` [PDF](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
 
 
@@ -125,25 +125,26 @@ The toolkit can be used through bash shell scripts provided in ```./scripts/``` 
 ```
   bash ./scripts/scoreFS02_<task_name>.sh <ref_path> <hyp_path> <out_path>
 
-      ref_path: Reference (Ground Truth) Path   (Directory Path or File Path depending on the Task and track)
+      ref_path: Reference  (Ground Truth)  Path (Directory Path or File Path depending on the Task and track)
       hyp_path: Hypothesis (System Output) Path (Directory Path or File Path depending on the Task and track)
       out_path: File Path to write scores
 ```
    
-  **REQUIRED** Before running any script: Configuring the ```./scripts/cfg_path.sh``` script.
-      Variables required to be set by users: 
-      ```kaldi_path``` and ```track_num``` (for running ASR track 1 and 2 scripts only)
-      ```python_path``` : path to the desired python with the packages mentioned in [Requirements](#requirements).
-      Users can leave this variable as-is, if running scripts through a virtual environment (Tested with conda and venv).
-      USAGE: ```pip install -r requirements.txt```
+**REQUIRED** Before running any script: Configuring the ```./scripts/cfg_path.sh``` script.
+    Variables required to be set by users: 
+    ```kaldi_path``` and ```track_num``` (for running ASR track 1 and 2 scripts only).
+    ```python_path``` : path to the desired python with the packages mentioned in [Requirements](#requirements).
+    Users can leave this variable as-is, if running scripts through a virtual environment (Tested with conda and venv).
+    USAGE: ```pip install -r requirements.txt```
 
   Optional: variables users can set (to evaluate system performance over different parameters): 
   ```sad_collar``` , ```sd_collar``` ,  and ```topN_eval```. 
 
+
 **For more details on the usage, please check the individual shell scripts.** 
 
 Additional log files will be automatically generated, and the log path will be displayed on the terminal.
-Users can also use the python scripts directly from ```./scutils/scoreFS02<task-name>.py```
+Users can also use the python scripts directly from ```./scutils/scoreFS02<task-name>.py``` 
 (Usage and Documentation provided through shell scripts).
 
 
@@ -151,19 +152,6 @@ Users can also use the python scripts directly from ```./scutils/scoreFS02<task-
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
 Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. "The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio." In proc. Interspeech, vol. 2019. 2019. [PDF](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
-```
-    @inproceedings{Hansen2018,
-      author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
-      title={Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon},
-      year=2018,
-      booktitle={Proc. Interspeech 2018},
-      pages={2758--2762},
-      doi={10.21437/Interspeech.2018-1942},
-      url={http://dx.doi.org/10.21437/Interspeech.2018-1942}
-    }
-```
-
-Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [PDF](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
 ```
     @inproceedings{Hansen2019,
       author={John H.L. Hansen and Aditya Joglekar and Meena Chandra Shekhar and Vinay Kothapally and Chengzhu Yu and Lakshmish Kaushik and Abhijeet Sangwan},
@@ -177,10 +165,23 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
 ```
 
 
+Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [PDF](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
+```
+    @inproceedings{Hansen2018,
+      author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
+      title={Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon},
+      year=2018,
+      booktitle={Proc. Interspeech 2018},
+      pages={2758--2762},
+      doi={10.21437/Interspeech.2018-1942},
+      url={http://dx.doi.org/10.21437/Interspeech.2018-1942}
+    }
+```
+
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas, 2020
   
-  please contact FearlessSteps@utdallas.edu, for any questions regarding this repository.
+  please feel free to reach out at FearlessSteps@utdallas.edu, for any queries regarding this repository.
 
 
 ## License
