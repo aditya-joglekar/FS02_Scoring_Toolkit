@@ -7,8 +7,8 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 * [Overview](#overview)
 * [Credits](#credits)
-* [FS02 Scoring Metrics](#metrics)
-* [FS02 Challenge Submission](#submission)
+* [FS02 Scoring Metrics](#fs02-scoring-metrics)
+* [FS02 Challenge Submission](#fs02-challenge-submission)
 * [Requirements](#requirements)
 * [Folder Structure](#folder-structure)
 * [Usage](#usage)
@@ -21,7 +21,7 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
-This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#metrics). Sumbission details for the FS02 Challenge participants are also provided through this toolkit. (See [FS02 Challenge Submission](#submission)).
+This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#fs02-scoring-metrics). Sumbission details for the FS02 Challenge participants are also provided through this toolkit. (See [FS02 Challenge Submission](#fs02-challenge-submission)).
 For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
 
@@ -87,10 +87,10 @@ If you have used the toolkits' SAD scripts, please consider citing the following
 ## Folder Structure
 ```
     ./FS02_Scoring_Toolkit 
-  ├── egs                             -----------      (Example test files to run scripts on)
-  │   ├── ref_gt                      -----------      (Example ground truth samples)
-  │   │   ├── ASR
-  │   │   │   ├── ASR_track1
+  ├── egs                             -----------      (Example test files to run scripts)
+  │   ├── ref_gt                      -----------      (Example ground truth samples) 
+  │   │   ├── ASR                                         **NOTE**: ground truth samples are mock examples
+  │   │   │   ├── ASR_track1                             and do not correspond to actual FS02 ground truth
   │   │   │   └── ASR_track2
   │   │   ├── SAD
   │   │   ├── SD
@@ -198,7 +198,7 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas, 2020
   
-  please feel free to reach out at FearlessSteps@utdallas.edu, for any queries regarding this repository.
+  please feel free to reach out at FearlessSteps@utdallas.edu for any queries regarding this repository or the challenge.
 
 
 ## License
