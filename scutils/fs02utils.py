@@ -164,9 +164,9 @@ def get_json_txtstr(file_path):
         for utt in data:
             # scoring words like we're will be held off for the third phase of the challenge
             words = utt['words'].replace("'","")
-            words = words.replace("-"," ")
-            words = re.sub(r'[,.;:@#?!&$]+', ' ', words)
+            # words = words.replace("-"," ")
             words = words.replace('[unk]','').upper()
+            words = re.sub(r'[,.;:@#?!&$-]+', ' ', words)
             words = ' '.join(e for e in words.split() if english_chars.issuperset(e))
             content.append(words)
     content = ' '.join(content)

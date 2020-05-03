@@ -8,6 +8,7 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 * [Overview](#overview)
 * [Credits](#credits)
 * [FS02 Scoring Metrics](#metrics)
+* [FS02 Challenge Submission](#submission)
 * [Requirements](#requirements)
 * [Folder Structure](#folder-structure)
 * [Usage](#usage)
@@ -20,7 +21,8 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
-This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#metrics). For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
+This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#metrics). Sumbission details for the FS02 Challenge participants are also provided through this toolkit. (See [FS02 Challenge Submission](#submission)).
+For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
 
 ### FS02 Scoring Metrics
@@ -41,6 +43,17 @@ The scoring metrics for FS02 Challenge per Task are:
       a. Track 1: Continuous stream ASR       (ASR_track1) 
   
       b. Track 2: ASR using Diarized Segments (ASR_track2) 
+
+
+### FS02 Challenge Submission
+Submission and Evaluation rules for the FS02 Challenge tasks are provided in the ```submission_packet``` folder of the toolkit. Please refer ```FS02_System_Description_eg.pdf``` and ```Evaluation_and_Submission_Rules.txt``` files for details.
+* Submission Dates:
+  * System Submission Opens     :         May 1 , 2020
+  * Paper Submission Deadline   :         May 8 , 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
+  * System Submission Deadline  :         May 13, 2020
+  * Final Results Released      :         May 14, 2020 (See [Leaderboard](https://fearless-steps.github.io/ChallengePhase2/Final.html))
+  * Paper Revision Deadline     :         May 15, 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
+
 
 
 ## Requirements
