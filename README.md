@@ -1,8 +1,9 @@
 # Fearless Steps Challenge (FS02-Sctk) Scoring Toolkit 
 Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
-<br/> 
-<br/> 
+
+<br/>
+
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
@@ -24,7 +25,7 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 
 <br/>
-<br/>
+
 
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
@@ -32,6 +33,7 @@ This toolkit intends to provide a simple scoring mechanism streamlined for FS02 
 For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
 
+<br/>
 <br/>
 
 
@@ -63,7 +65,7 @@ Submission and Evaluation rules for the FS02 Challenge tasks are provided in the
 * Submission Dates:
   * System Submission Opens     :         May 1 , 2020
   * Paper Submission Deadline   :         May 8 , 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
-  * System Submission Deadline  :         May 13, 2020
+  * >***System Submission Deadline***  :         May 13, 2020
   * Final Results Released      :         May 14, 2020 (See [Leaderboard](https://fearless-steps.github.io/ChallengePhase2/Final.html))
   * Paper Revision Deadline     :         May 15, 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
 
@@ -107,6 +109,8 @@ If you have used the toolkits' SAD scripts, please consider citing the following
 
 
 ## Folder Structure
+<br/>
+
 ```
     ./FS02_Scoring_Toolkit 
   ├── egs                             -----------      (Example test files to run scripts)
@@ -198,7 +202,7 @@ Users can also use the python scripts directly from ```./scutils/scoreFS02<task-
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
-Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. "The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio." In proc. Interspeech, vol. 2019. 2019. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
+Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. *"The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio."* In proc. Interspeech, vol. 2019. 2019. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
 ```
     @inproceedings{Hansen2019,
       author={John H.L. Hansen and Aditya Joglekar and Meena Chandra Shekhar and Vinay Kothapally and Chengzhu Yu and Lakshmish Kaushik and Abhijeet Sangwan},
@@ -212,7 +216,7 @@ Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Y
 ```
 
 
-Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. "Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon." In Interspeech, pp. 2758-2762. 2018. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
+Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. *"Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon."* In Interspeech, pp. 2758-2762. 2018. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
 ```
     @inproceedings{Hansen2018,
       author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
