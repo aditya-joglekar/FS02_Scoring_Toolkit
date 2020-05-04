@@ -19,13 +19,16 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
 <!-- /code_chunk_output -->
 
+
+
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
 This toolkit intends to provide a simple scoring mechanism streamlined for FS02 Challenge usage for all tasks mentioned in [FS02 Scoring Metrics](#fs02-scoring-metrics). Sumbission details for the FS02 Challenge participants are also provided through this toolkit. (See [FS02 Challenge Submission](#fs02-challenge-submission)).
 For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
 
-### FS02 Scoring Metrics
+
+## FS02 Scoring Metrics
 The scoring metrics for FS02 Challenge per Task are:
 
   1. Speech Activity Detection (SAD):                   ``` Detection Cost Function (DCF) ```
@@ -45,7 +48,8 @@ The scoring metrics for FS02 Challenge per Task are:
       b. Track 2: ASR using Diarized Segments (ASR_track2) 
 
 
-### FS02 Challenge Submission
+
+## FS02 Challenge Submission
 Submission and Evaluation rules for the FS02 Challenge tasks are provided in the ```submission_packet``` folder of the toolkit. Please refer ```FS02_System_Description_eg.pdf``` and ```Evaluation_and_Submission_Rules.txt``` files for details.
 * Submission Dates:
   * System Submission Opens     :         May 1 , 2020
@@ -57,14 +61,16 @@ Submission and Evaluation rules for the FS02 Challenge tasks are provided in the
 
 
 ## Requirements
+
 * Linux (not tested on Windows)
 * Python >= 3.6 (3.7 recommended: Tested with Python 3.6.X, and 3.7.X.)
-* Kaldi [Kaldi Installation](http://kaldi-asr.org/doc/install.html) (*Required for ASR evaluation)
+* Kaldi [Kaldi Installation](http://kaldi-asr.org/doc/install.html) (*Required for ASR evaluation*)
 * intervaltree>=3.0.0     (see requirements.txt)
 * numpy>=1.16.2           (see requirements.txt)
 * scipy>=0.17.0           (see requirements.txt)
 * tabulate>=0.5.0         (see requirements.txt)
 * sortedcontainers==2.1.0 (see requirements.txt)
+
 
 
 ## Credits
@@ -73,7 +79,7 @@ This toolkit makes use of three open source software:
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following paper:
-``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
+``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. _"The Kaldi speech recognition toolkit."_ In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
 [DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper:
@@ -82,6 +88,7 @@ If you have used the toolkits' SD scripts, please consider citing the following 
 [NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation). 
 If you have used the toolkits' SAD scripts, please consider citing the following paper:
 ```Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.``` [[PDF]](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
+
 
 
 ## Folder Structure
@@ -137,6 +144,7 @@ If you have used the toolkits' SAD scripts, please consider citing the following
 ```
 
 
+
 ## Usage
 The toolkit can be used through bash shell scripts provided in ```./scripts/``` directory. 
 ```
@@ -164,10 +172,10 @@ Additional log files will be automatically generated, and the log path will be d
 Users can also use the python scripts directly from ```./scutils/scoreFS02<task-name>.py``` 
 (Usage and Documentation provided through shell scripts).
 
-**NOTE** regarding ```./egs/``` folder: All files provided in this folder are meant for illustrative examples only, and do not correspond to the actual ground truth files for FS02 Challenge (which were provided with the challenge corpus download). These files are only meant for users to be able to run the scripts on mock data, and also to provide users with the correct file (and folder) formatting (and naming) conventions for all FS02 challenge tasks.
+**NOTE** regarding ```./egs/``` folder: *All files provided in this folder are meant for illustrative examples only, and do not correspond to the actual ground truth files for FS02 Challenge (which were provided with the challenge corpus download). These files are only meant for users to be able to run the scripts on mock data, and also to provide users with the correct file (and folder) formatting (and naming) conventions for all FS02 challenge tasks.*
 
 
-
+  
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
@@ -198,15 +206,19 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
     }
 ```
 
+
+
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas, 2020
   
   please feel free to reach out at FearlessSteps@utdallas.edu for any queries regarding this repository or the challenge.
 
 
+
 ## License
 This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See  LICENSE for more details
 
 
+
 ## Acknowledgements
-This project was supported in part by  AFRL  under  contractFA8750-15-1-0205, NSF-CISE Project 1219130, and partially by the University of Texas at Dallas from the Distinguished University Chair in Telecommunications Engineering held by J.H. L. Hansen. We would also like to thank Tatiana Korelsky and the National Science Foundation (NSF) for their support on this scientific and historical project.
+This project was supported in part by AFRL under contract FA8750-15-1-0205, NSF-CISE Project 1219130, and partially by the University of Texas at Dallas from the Distinguished University Chair in Telecommunications Engineering held by J.H.L. Hansen. We would also like to thank Tatiana Korelsky and the National Science Foundation (NSF) for their support on this scientific and historical project.
