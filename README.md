@@ -78,8 +78,7 @@ This toolkit makes use of three open source software:
 
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
-If you have used the toolkits' ASR scripts, please consider citing the following paper:
-``` Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. _"The Kaldi speech recognition toolkit."_ In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
+If you have used the toolkits' ASR scripts, please consider citing the following paper:\ ```Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. >*"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.``` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
 [DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper:
