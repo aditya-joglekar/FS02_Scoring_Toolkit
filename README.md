@@ -34,7 +34,6 @@ For more details, please see the [FS02 Challenge Website](https://fearless-steps
 
 
 <br/>
-<br/>
 
 
 ## FS02 Scoring Metrics
@@ -65,7 +64,7 @@ Submission and Evaluation rules for the FS02 Challenge tasks are provided in the
 * Submission Dates:
   * System Submission Opens     :         May 1 , 2020
   * Paper Submission Deadline   :         May 8 , 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
-  * >***System Submission Deadline***  :         May 13, 2020
+  * ***System Submission Deadline***  :         May 13, 2020
   * Final Results Released      :         May 14, 2020 (See [Leaderboard](https://fearless-steps.github.io/ChallengePhase2/Final.html))
   * Paper Revision Deadline     :         May 15, 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
 
@@ -94,24 +93,27 @@ This toolkit makes use of three open source software:
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following paper: <br/> 
-`Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. "The Kaldi speech recognition toolkit." In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
+>Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. *"The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011. [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
 [DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper: <br/> 
-`Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. "First DIHARD challenge evaluation plan." 2018, tech. Rep. (2018).` [[PDF]](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
+>Ryant, Neville, Kenneth Church, Christopher Cieri, Alejandrina Cristia, Jun Du, Sriram Ganapathy, and Mark Liberman. *"First DIHARD challenge evaluation plan."* 2018, tech. Rep. (2018). [[PDF]](https://coml.lscp.ens.fr/dihard/2018/docs/first_dihard_eval_plan_v1.3.pdf)
 
 [NIST openSAT](https://www.nist.gov/itl/iad/mig/opensat) This script uses scoreFile_SAD.pl developed by NIST. for more info, refer: [OpenSAT Evaluation](https://www.nist.gov/itl/iad/mig/nist-open-speech-activity-detection-evaluation). 
 If you have used the toolkits' SAD scripts, please consider citing the following paper: <br/> 
-`Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.` [[PDF]](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
+>Byers, Fred, Fred Byers, and Omid Sadjadi. *2017 Pilot Open Speech Analytic Technologies Evaluation* (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019. [[PDF]](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
 
 
+<br/>
 <br/>
 
 
 ## Folder Structure
-<br/>
+
 
 ```
+
+
     ./FS02_Scoring_Toolkit 
   ├── egs                             -----------      (Example test files to run scripts)
   │   ├── ref_gt                      -----------      (Example ground truth samples) 
@@ -202,7 +204,7 @@ Users can also use the python scripts directly from ```./scutils/scoreFS02<task-
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
-Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. *"The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio."* In proc. Interspeech, vol. 2019. 2019. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
+>Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Yu, Lakshmish Kaushik, and Abhijeet Sangwan. *"The 2019 inaugural fearless steps challenge: A giant leap for naturalistic audio."* In proc. Interspeech, vol. 2019. 2019. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2301.pdf)
 ```
     @inproceedings{Hansen2019,
       author={John H.L. Hansen and Aditya Joglekar and Meena Chandra Shekhar and Vinay Kothapally and Chengzhu Yu and Lakshmish Kaushik and Abhijeet Sangwan},
@@ -216,7 +218,7 @@ Hansen, J. H., Aditya Joglekar, M. Chandra Shekhar, Vinay Kothapally, Chengzhu Y
 ```
 
 
-Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. *"Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon."* In Interspeech, pp. 2758-2762. 2018. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
+>Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish Kaushik, and Chengzhu Yu. *"Fearless Steps: Apollo-11 Corpus Advancements for Speech Technologies from Earth to the Moon."* In Interspeech, pp. 2758-2762. 2018. [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1942.pdf)
 ```
     @inproceedings{Hansen2018,
       author={John H.L. Hansen and Abhijeet Sangwan and Aditya Joglekar and Ahmet E. Bulut and Lakshmish Kaushik and Chengzhu Yu},
@@ -243,7 +245,7 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
 
 
 ## License
-This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See  LICENSE for more details
+This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE for more details
 
 
 <br/>
