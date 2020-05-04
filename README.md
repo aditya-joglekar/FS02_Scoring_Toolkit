@@ -164,6 +164,9 @@ Additional log files will be automatically generated, and the log path will be d
 Users can also use the python scripts directly from ```./scutils/scoreFS02<task-name>.py``` 
 (Usage and Documentation provided through shell scripts).
 
+**NOTE** regarding ```./egs/``` folder: All files provided in this folder are meant for illustrative examples only, and do not correspond to the actual ground truth files for FS02 Challenge (which were provided with the challenge corpus download). These files are only meant for users to be able to run the scripts on mock data, and also to provide users with the correct file (and folder) formatting (and naming) conventions for all FS02 challenge tasks.
+
+
 
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
