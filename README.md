@@ -1,7 +1,16 @@
 # Fearless Steps Challenge (FS02-Sctk) Scoring Toolkit 
-Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
+Scoring and Challenge Submission Toolkit for the Fearless Steps Challenge Phase-02 Tasks.
+![Official FS02 Website](https://fearless-steps.github.io/ChallengePhase2/)
+
+<p align="center">
+  <img width="500" height="73" src="https://github.com/fearless-steps/ChallengePhase2/blob/master/images/Logos.png">
+</p>
 
 
+<img src="https://github.com/aditya-joglekar/FS02_Scoring_Toolkit/blob/master/FS_Signature_Logo.png" width="384" img align="right">
+
+
+<br/>
 <br/>
 
 
