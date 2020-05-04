@@ -1,6 +1,9 @@
 # Fearless Steps Challenge (FS02-Sctk) Scoring Toolkit 
 Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 
+<br/> 
+<br/> 
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -20,6 +23,8 @@ Scoring Toolkit for the Fearless Steps Challenge Phase-02 Tasks
 <!-- /code_chunk_output -->
 
 
+<br/>
+<br/>
 
 ## Overview
 This software was developed at the University of Texas at Dallas, Center for Robust Speech Systems (UTD-CRSS). It serves as a wrapper around multiple third-party open-source code listed below. (See [Credits](#credits)).
@@ -27,8 +32,8 @@ This toolkit intends to provide a simple scoring mechanism streamlined for FS02 
 For more details, please see the [FS02 Challenge Website](https://fearless-steps.github.io/ChallengePhase2/)
 
 
-<br/> 
 <br/>
+
 
 ## FS02 Scoring Metrics
 The scoring metrics for FS02 Challenge per Task are:
@@ -50,6 +55,8 @@ The scoring metrics for FS02 Challenge per Task are:
       b. Track 2: ASR using Diarized Segments (ASR_track2) 
 
 
+<br/>
+
 
 ## FS02 Challenge Submission
 Submission and Evaluation rules for the FS02 Challenge tasks are provided in the ```submission_packet``` folder of the toolkit. Please refer ```FS02_System_Description_eg.pdf``` and ```Evaluation_and_Submission_Rules.txt``` files for details.
@@ -60,6 +67,8 @@ Submission and Evaluation rules for the FS02 Challenge tasks are provided in the
   * Final Results Released      :         May 14, 2020 (See [Leaderboard](https://fearless-steps.github.io/ChallengePhase2/Final.html))
   * Paper Revision Deadline     :         May 15, 2020 (See [IS-2020 Dates](http://www.interspeech2020.org/dates/))
 
+
+<br/>
 
 
 ## Requirements
@@ -74,6 +83,8 @@ Submission and Evaluation rules for the FS02 Challenge tasks are provided in the
 * sortedcontainers==2.1.0 (see requirements.txt)
 
 
+<br/>
+
 
 ## Credits
 This toolkit makes use of three open source software:
@@ -81,7 +92,7 @@ This toolkit makes use of three open source software:
 [KALDI](http://kaldi-asr.org): The ASR python script uses compute-wer tool from the Kaldi Speech Recognition Toolkit. 
 for more info, refer: [Kaldi Tools](http://kaldi-asr.org/doc/tools.html).
 If you have used the toolkits' ASR scripts, please consider citing the following paper: <br/> 
-`Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. "The Kaldi speech recognition toolkit."* In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
+`Povey, Daniel, Arnab Ghoshal, Gilles Boulianne, Lukas Burget, Ondrej Glembek, Nagendra Goel, Mirko Hannemann et al. "The Kaldi speech recognition toolkit." In IEEE 2011 workshop on automatic speech recognition and understanding, no. CONF. IEEE Signal Processing Society, 2011.` [[PDF]](https://infoscience.epfl.ch/record/192584/files/Povey_ASRU2011_2011.pdf)
 
 [DSCORE](https://github.com/nryant/dscore): The DIARIZATION python script uses the 'dscore' toolkit developed by Neville Ryant for generating DER scores. for more info, refer: [Dihard Challenge](https://coml.lscp.ens.fr/dihard/index.html).
 If you have used the toolkits' SD scripts, please consider citing the following paper: <br/> 
@@ -91,6 +102,8 @@ If you have used the toolkits' SD scripts, please consider citing the following 
 If you have used the toolkits' SAD scripts, please consider citing the following paper: <br/> 
 `Byers, Fred, Fred Byers, and Omid Sadjadi. 2017 Pilot Open Speech Analytic Technologies Evaluation (2017 NIST Pilot OpenSAT): Post Evaluation Summary. US Department of Commerce, National Institute of Standards and Technology, 2019.` [[PDF]](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8242.pdf)
 
+
+<br/>
 
 
 ## Folder Structure
@@ -146,6 +159,8 @@ If you have used the toolkits' SAD scripts, please consider citing the following
 ```
 
 
+<br/>
+
 
 ## Usage
 The toolkit can be used through bash shell scripts provided in ```./scripts/``` directory. 
@@ -177,7 +192,9 @@ Users can also use the python scripts directly from ```./scutils/scoreFS02<task-
 **NOTE** regarding ```./egs/``` folder: *All files provided in this folder are meant for illustrative examples only, and do not correspond to the actual ground truth files for FS02 Challenge (which were provided with the challenge corpus download). These files are only meant for users to be able to run the scripts on mock data, and also to provide users with the correct file (and folder) formatting (and naming) conventions for all FS02 challenge tasks.*
 
 
-  
+<br/>
+
+
 ## References
 If you have used the toolkit or a part of the toolkit, please consider citing the following papers:
 
@@ -209,6 +226,8 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
 ```
 
 
+<br/>
+
 
 ## Author
   * Aditya Joglekar, CRSS, UT-Dallas, 2020
@@ -216,10 +235,14 @@ Hansen, John HL, Abhijeet Sangwan, Aditya Joglekar, Ahmet Emin Bulut, Lakshmish 
   please feel free to reach out at FearlessSteps@utdallas.edu for any queries regarding this repository or the challenge.
 
 
+<br/>
+
 
 ## License
 This toolkit is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See  LICENSE for more details
 
+
+<br/>
 
 
 ## Acknowledgements
