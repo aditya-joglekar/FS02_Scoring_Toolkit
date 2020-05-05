@@ -151,23 +151,46 @@ def readList(readPath):
     return readList
 
 
-
-
-def get_json_txtstr(file_path):
+"""clean transcript lines for ASR track 1 and 2"""
+def clean_ASR_line(line):
     # to allow words like let's, we're, etc
     english_chars = set(ascii_letters + "'")
+    # scoring words like "we're" will be held off for the third phase of the challenge
+    words = line.replace("'","")
+    words = words.replace('[unk]','').upper()
+    words = words.replace('[UNK]','')
+    words = re.sub(r'[,.;:@#?!&$-]+', ' ', words)
+    words = ' '.join(e for e in words.split() if english_chars.issuperset(e))
+    words = re.sub(' +', ' ',words)
+    return words
+
+
+"""for ASR_track2 clean-up processing"""
+def get_ASR_track2_clean(file_path, setType):
+    write_path = get_temp_path()+'ASR_track1_'+setType+'_'+getDateTimeStrStamp()
+    
+    track2_data = readList(file_path)
+    track2_dict = {x.split()[0].strip():' '.join(x.split()[1:]) for x in track2_data}
+    write_list = []
+    
+    for fn in track2_dict:
+        words = clean_ASR_line(track2_dict[fn])
+        write_list.append(fn+' '+words)
+    
+    writeList(write_list, write_path, isOverWrite=True, verbose=False)
+    return write_path
+
+
+"""for ASR_track1 clean-up processing"""
+def get_json_txtstr(file_path):
+    
     content = []
     with open(file_path,'r') as file:  
         data = json.load(file)
         if not type(data)==list:
             data = [data]
         for utt in data:
-            # scoring words like we're will be held off for the third phase of the challenge
-            words = utt['words'].replace("'","")
-            # words = words.replace("-"," ")
-            words = words.replace('[unk]','').upper()
-            words = re.sub(r'[,.;:@#?!&$-]+', ' ', words)
-            words = ' '.join(e for e in words.split() if english_chars.issuperset(e))
+            words = clean_ASR_line(utt['words'])
             content.append(words)
     content = ' '.join(content)
     content = re.sub(' +', ' ',content)
@@ -175,17 +198,19 @@ def get_json_txtstr(file_path):
     return content
 
 
-def json_dir_to_txt(dir_path, dirType):
+"""for ASR_track1 clean-up processing"""
+def json_dir_to_txt(dir_path, setType):
     json_fp_list = get_from_dir(dir_path)
-    write_path = get_temp_path()+'ASR_track1_'+dirType+'_'+getDateTimeStrStamp()
-    writelist = []
+    write_path = get_temp_path()+'ASR_track1_'+setType+'_'+getDateTimeStrStamp()
+    write_list = []
     for fp in json_fp_list:
         fname = getfName(fp)
         str_transcript = get_json_txtstr(fp)
-        writelist.append(fname+' '+str_transcript)
-    writelist.sort()
-    writeList(writelist, write_path, isOverWrite=True, verbose=False)
+        write_list.append(fname+' '+str_transcript)
+    write_list.sort()
+    writeList(write_list, write_path, isOverWrite=True, verbose=False)
     return write_path
+
 
 
 def processInpPath(inp_path, inpType='dir', checkExists=False):

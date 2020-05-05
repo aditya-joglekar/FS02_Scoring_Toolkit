@@ -154,11 +154,11 @@ def get_write_msg_list(params):
 
 def score_all_ASR(ref_path, hyp_path, write_msg, kaldi_path, track_num):
     if track_num ==1:
-        gt_fp = 'ark:'+util.json_dir_to_txt(ref_path, dirType='ref')
-        hyp_fp = 'ark:'+util.json_dir_to_txt(hyp_path, dirType='hyp')
+        gt_fp = 'ark:'+util.json_dir_to_txt(ref_path, setType='ref')
+        hyp_fp = 'ark:'+util.json_dir_to_txt(hyp_path, setType='hyp')
     else:
-        gt_fp = 'ark:'+ref_path
-        hyp_fp = 'ark:'+hyp_path
+        gt_fp = 'ark:'+util.get_ASR_track2_clean(ref_path, setType='ref')
+        hyp_fp = 'ark:'+util.get_ASR_track2_clean(hyp_path, setType='hyp')
     
     kld_cmd_path = kaldi_path+'src/bin/compute-wer'
     cmode = '--mode=all'
