@@ -177,6 +177,7 @@ def get_ASR_track2_clean(file_path, setType):
         words = clean_ASR_line(track2_dict[fn])
         write_list.append(fn+' '+words)
     
+    write_list.sort()
     writeList(write_list, write_path, isOverWrite=True, verbose=False)
     return write_path
 
