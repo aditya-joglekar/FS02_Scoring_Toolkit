@@ -79,21 +79,21 @@ Evaluation Rules
 1. Both Dev and Eval system submissions will be scored. Only Eval set results will be considered 
    to rank teams for each Challenge. 
 
-2. Results for each system submission will be sent privately to respective participants on May 7th.
+2. Results for each system submission will be sent privately to respective participants on May 14th.
    For every team, only the 5 best performing system submissions per task will be considered for the ranking.
 
 3. Evaluation code available at https://github.com/AJoGaTech/FS02_Scoring_Toolkit will be used to score 
    all systems. Participants are expected to test their system output files using the Dev set
    ground truth labels to ensure proper formatting of all system outputs prior to submission.
 
-4. Participants will be notified of their rankings on May 7, 2020 before 11.59pm AOE, which they can report 
+4. Participants will be notified of their rankings on May 14, 2020 before 11.59pm AOE, which they can report 
    on their conference paper(s). The best performing systems will be displayed on the FS02 website 
    leaderboard under each team-name and system-number (<team-name>_system_<system-number>)
    (REFER: https://fearless-steps.github.io/ChallengePhase2/Final.html)
 
 5. All Challenge participants are required to submit a conference paper(s) describing their systems 
    (and reporting performance on Dev and Eval sets) to the "FEARLESS STEPS CHALLENGE PHASE-2" 
-   Special Sessions section at ISCA INTERSPEECH-2020. (Deadline: May 8, 2020)
+   Special Sessions section at ISCA INTERSPEECH-2020. (Deadline: May 15, 2020)
 
 
 Please feel free to reach out to ​FearlessSteps@utdallas.edu for any queries or clarifications.
